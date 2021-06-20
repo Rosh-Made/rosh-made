@@ -11,6 +11,7 @@ module.exports = {
   },
   /* Your site config here */
   plugins: [
+    `gatsby-plugin-netlify-cms`,
     `gatsby-theme-material-ui`,
     `gatsby-plugin-styled-components`,
     {
