@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: maryannroshani/rosh-made
+  repo: Rosh-Made/rosh-made
   branch: main
 
 media_folder: static/assets
