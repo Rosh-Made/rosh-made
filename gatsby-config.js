@@ -5,6 +5,29 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "RoshMade",
+    description: "Personal Blog",
+  },
   /* Your site config here */
-  plugins: [],
+  plugins: [
+    `gatsby-theme-material-ui`,
+    `gatsby-plugin-styled-components`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `img`,
+        path: `${__dirname}/src/img/`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `blog`,
+        path: `${__dirname}/src/blog/`,
+      },
+    },
+    `gatsby-transformer-remark`,
+    `gatsby-plugin-mdx`,
+  ],
 }
