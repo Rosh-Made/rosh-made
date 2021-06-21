@@ -13,6 +13,16 @@ module.exports = {
   plugins: [
     `gatsby-plugin-netlify-cms`,
     `gatsby-theme-material-ui`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `raleway`,
+          `source sans pro\:300,400,400i,700`, // you can also specify font weights and styles
+        ],
+        display: "swap",
+      },
+    },
     `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-source-filesystem`,
