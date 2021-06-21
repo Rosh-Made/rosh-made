@@ -32,6 +32,7 @@ const MenuContainer = styled.div`
   color: black;
   font-size: 1rem;
   font-weight: 300;
+  text-transform: uppercase;
 `
 
 const AboutContainer = styled.div`
@@ -110,11 +111,11 @@ const SideMenu: FC<SideMenuProps> = ({ visible, close }) => {
           </Fade>
         </CloseButton>
         <MenuContainer>
-          <Link color="inherit">- DIY -</Link>
-          <Link color="inherit">- Lifestyle -</Link>
-          <Link color="inherit">- Plants -</Link>
-          <Link color="inherit">- Travel -</Link>
-          <Link color="inherit">- Home -</Link>
+          <Link color="inherit">DIY</Link>
+          <Link color="inherit">Lifestyle</Link>
+          <Link color="inherit">Plants</Link>
+          <Link color="inherit">Travel</Link>
+          <Link color="inherit">Home</Link>
         </MenuContainer>
         <AboutContainer>
           <div>
