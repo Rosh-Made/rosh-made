@@ -5,5 +5,6 @@ description: More description goes here
 featuredimage: /assets/post3.jpeg
 tags:
   - Food
+  - Home
 ---
 This is about making a drink
