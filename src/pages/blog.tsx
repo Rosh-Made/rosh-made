@@ -30,7 +30,6 @@ const Blog: FC = () => {
           frontmatter {
             date(fromNow: true)
             title
-            author
           }
           excerpt
           id
@@ -48,9 +47,7 @@ const Blog: FC = () => {
               {post.frontmatter.title}
             </GatsbyLink>
           </h2>
-          <small>
-            {post.frontmatter.author}, {post.frontmatter.date}
-          </small>
+          <small>{post.frontmatter.date}</small>
           <p>{post.excerpt}</p>
         </article>
       ))}
