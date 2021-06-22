@@ -42,29 +42,32 @@ const Container = styled(Grid)`
 
 const Date = styled.div`
   margin-top: 1.5rem;
-  font-family: "raleway";
+  font-family: raleway, sans-serif;
   color: #8b9a72;
 `
 
 const Title = styled.div`
   margin-top: 2rem;
   margin-bottom: 1rem;
-  font-family: "raleway";
+  font-family: freight-sans-pro, sans-serif;
   text-transform: uppercase;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 200;
 `
 
 const Separator = styled.div`
   border-top: #8b9a72 solid 1px;
-  width: 2rem;
+  width: 1.5rem;
 `
 
 const Tags = styled.div`
-  margin-top: 1.5rem;
-  font-family: "raleway";
+  margin-top: 1.1rem;
+  font-family: raleway, sans-serif;
   display: flex;
   gap: 4px;
+  font-size: 0.6rem;
+  color: #1f1f1f;
+  text-transform: uppercase;
 `
 
 const Index: FC = () => {

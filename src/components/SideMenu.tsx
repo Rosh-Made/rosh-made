@@ -17,7 +17,7 @@ const SideMenuContainer = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: center;
-  font-family: "raleway";
+  font-family: raleway, sans-serif;
 `
 
 const MenuContainer = styled.div`

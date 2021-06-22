@@ -12,14 +12,15 @@ module.exports = {
   /* Your site config here */
   plugins: [
     `gatsby-plugin-netlify-cms`,
-    `gatsby-theme-material-ui`,
     {
-      resolve: `gatsby-plugin-google-fonts`,
+      resolve: "gatsby-plugin-web-font-loader",
       options: {
-        fonts: [`raleway`, `source-sans-pro`],
-        display: "swap",
+        typekit: {
+          id: "blk1qtk",
+        },
       },
     },
+    `gatsby-theme-material-ui`,
     `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-source-filesystem`,
