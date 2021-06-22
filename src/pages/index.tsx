@@ -1,7 +1,7 @@
 import React, { FC } from "react"
 import styled from "styled-components"
 import Layout from "../components/layout"
-import { graphql, useStaticQuery } from "gatsby"
+import { graphql, navigate, useStaticQuery } from "gatsby"
 import { Grid } from "@material-ui/core"
 
 interface Post {
@@ -27,6 +27,7 @@ const Card = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  cursor: pointer;
 `
 
 const Image = styled.div`
@@ -34,6 +35,14 @@ const Image = styled.div`
   padding-top: 125%;
   background-size: cover;
   background-position: center center;
+
+  opacity: 1;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+
+  :hover {
+    opacity: 0.65;
+  }
 `
 
 const Container = styled(Grid)`
@@ -106,7 +115,15 @@ const Index: FC = () => {
     <Layout>
       <Container spacing={10} container>
         {data.blog.posts.map((post: Post) => (
-          <Grid xs={12} sm={6} md={4} lg={3} key={post.id} item>
+          <Grid
+            xs={12}
+            sm={6}
+            md={4}
+            lg={3}
+            key={post.id}
+            item
+            onClick={() => navigate(post.fields.slug)}
+          >
             <Card>
               <Image
                 style={{
