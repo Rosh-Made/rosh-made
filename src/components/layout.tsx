@@ -11,7 +11,7 @@ import {
 import styled from "styled-components"
 import MenuIcon from "@material-ui/icons/Menu"
 import SearchIcon from "@material-ui/icons/Search"
-import { graphql, useStaticQuery } from "gatsby"
+import { graphql, navigate, useStaticQuery } from "gatsby"
 import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
 
@@ -89,7 +89,7 @@ const Layout: FC = ({ children }) => {
             </>
           )}
         </div>
-        <div>
+        <div onClick={() => navigate("/")}>
           <img
             style={{ height: "4.5rem", marginTop: 4 }}
             src={data.logo.publicURL}
@@ -103,9 +103,14 @@ const Layout: FC = ({ children }) => {
       {mdAndUp || (
         <>
           <BottomBar>
-            <IconButton onClick={() => setVisible(!visible)} aria-label="menu">
-              {visible ? <CloseIcon /> : <MenuIcon fontSize="large" />}
-            </IconButton>
+            <div>
+              <IconButton
+                onClick={() => setVisible(!visible)}
+                aria-label="menu"
+              >
+                {visible ? <CloseIcon /> : <MenuIcon />}
+              </IconButton>
+            </div>
             <div>
               <IconButton aria-label="menu">
                 <SearchIcon fontSize="default" />
