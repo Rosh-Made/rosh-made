@@ -5,8 +5,6 @@ import {
   CssBaseline,
   IconButton,
   MuiThemeProvider,
-  useMediaQuery,
-  useTheme,
 } from "@material-ui/core"
 import styled from "styled-components"
 import MenuIcon from "@material-ui/icons/Menu"
@@ -26,6 +24,23 @@ const Header = styled(AppBar)`
   color: #5f5f5f;
   background-color: #fff;
   z-index: 34;
+  position: relative;
+
+  @media (min-width: 960px) {
+    position: fixed;
+  }
+
+  .hide-on-desktop {
+    @media (min-width: 960px) {
+      display: none;
+    }
+  }
+
+  .show-on-desktop {
+    @media (max-width: 960px) {
+      display: none;
+    }
+  }
 `
 
 const LogoHeader = styled.div`
@@ -60,12 +75,14 @@ const BottomBar = styled.div`
   justify-content: space-between;
   padding: 0.5rem 1rem;
   z-index: 36;
+
+  @media (min-width: 960px) {
+    display: none;
+  }
 `
 
 const Layout: FC = ({ children }) => {
   const [visible, setVisible] = useState(false)
-  const theme = useTheme()
-  const mdAndUp = useMediaQuery(theme.breakpoints.up("md"))
 
   const data = useStaticQuery(graphql`
     query LogoQuery {
@@ -78,16 +95,16 @@ const Layout: FC = ({ children }) => {
   return (
     <MuiThemeProvider theme={themeLight}>
       <CssBaseline />
-      <Header position={mdAndUp ? "fixed" : "relative"}>
+      <Header>
         <div>
-          {mdAndUp && (
-            <>
-              <IconButton onClick={() => setVisible(true)} aria-label="menu">
-                <MenuIcon fontSize="large" />
-              </IconButton>
-              <SlideInMenu visible={visible} close={() => setVisible(false)} />
-            </>
-          )}
+          <IconButton
+            className="show-on-desktop"
+            onClick={() => setVisible(true)}
+            aria-label="menu"
+          >
+            <MenuIcon fontSize="large" />
+          </IconButton>
+          <SlideInMenu visible={visible} close={() => setVisible(false)} />
         </div>
         <div onClick={() => navigate("/")}>
           <img
@@ -96,30 +113,24 @@ const Layout: FC = ({ children }) => {
             alt="logo"
           />
         </div>
-        <div>{mdAndUp && <SearchIcon fontSize="large" />}</div>
+        <div>
+          <SearchIcon className="show-on-desktop" fontSize="large" />
+        </div>
       </Header>
-      {mdAndUp && <LogoHeader />}
+      <LogoHeader className="show-on-desktop" />
       <Container>{children}</Container>
-      {mdAndUp || (
-        <>
-          <BottomBar>
-            <div>
-              <IconButton
-                onClick={() => setVisible(!visible)}
-                aria-label="menu"
-              >
-                {visible ? <CloseIcon /> : <MenuIcon />}
-              </IconButton>
-            </div>
-            <div>
-              <IconButton aria-label="menu">
-                <SearchIcon fontSize="default" />
-              </IconButton>
-            </div>
-          </BottomBar>
-          <SlideInMenu visible={visible} close={() => setVisible(false)} />
-        </>
-      )}
+      <BottomBar>
+        <div>
+          <IconButton onClick={() => setVisible(!visible)} aria-label="menu">
+            {visible ? <CloseIcon /> : <MenuIcon />}
+          </IconButton>
+        </div>
+        <div>
+          <IconButton aria-label="menu">
+            <SearchIcon fontSize="default" />
+          </IconButton>
+        </div>
+      </BottomBar>
     </MuiThemeProvider>
   )
 }

@@ -13,21 +13,45 @@ const FixedContainer = styled.div`
   top: 0;
   left: 0;
   background-color: #fff;
-  overflow-y: scroll;
+  overflow-y: auto;
   z-index: 35;
+
+  .show-on-desktop {
+    @media (max-width: 960px) {
+      width: 60rem;
+    }
+  }
+
+  .hide-on-desktop {
+    @media (min-width: 960px) {
+      display: none;
+    }
+  }
+
+  .show-on-desktop {
+    @media (max-width: 960px) {
+      display: none;
+    }
+  }
 `
 
 const Container = styled(Grid)`
   font-family: raleway, sans-serif;
 
-  .mobile-column {
-    border-bottom: solid 1px #f0f0f0;
+  .column {
+    @media (min-width: 960px) {
+      min-height: 100%;
+      border-right: solid 1px #f0f0f0;
+      width: 960px;
+    }
+
+    @media (max-width: 960px) {
+      border-bottom: solid 1px #f0f0f0;
+    }
   }
 
-  .desktop-column {
-    min-height: 100%;
-    border-right: solid 1px #f0f0f0;
-    width: 960px;
+  @media (min-width: 960px) {
+    height: 100%;
   }
 `
 
@@ -67,33 +91,21 @@ const SlideInMenu: FC<SlideInMenuProps> = ({ visible, close }) => {
       style={{ transformOrigin: "0 0 0" }}
       {...(visible ? { timeout: 500 } : {})}
     >
-      <FixedContainer style={{ width: mdAndUp ? "60rem" : "100vw" }}>
-        {mdAndUp && (
-          <CloseButton>
-            <IconButton onClick={() => close()} aria-label="menu">
-              <CloseIcon fontSize="large" />
-            </IconButton>
-          </CloseButton>
-        )}
-        <Container style={{ height: mdAndUp ? "100%" : "" }} container>
-          <Column
-            xs={12}
-            md={6}
-            className={mdAndUp ? "desktop-column" : "mobile-column"}
-            item
-          >
+      <FixedContainer>
+        <CloseButton className="show-on-desktop">
+          <IconButton onClick={() => close()} aria-label="menu">
+            <CloseIcon fontSize="large" />
+          </IconButton>
+        </CloseButton>
+        <Container container>
+          <Column xs={12} md={6} className={"column"} item>
             <Menu />
           </Column>
-          <Column
-            xs={12}
-            md={6}
-            className={mdAndUp ? "desktop-column" : "mobile-column"}
-            item
-          >
+          <Column xs={12} md={6} className={"column"} item>
             <Intro />
           </Column>
         </Container>
-        {mdAndUp || <MobileBottomMargin />}
+        <MobileBottomMargin className="hide-on-desktop" />
       </FixedContainer>
     </Slide>
   )
