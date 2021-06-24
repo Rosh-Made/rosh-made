@@ -45,6 +45,9 @@ const Header = styled(AppBar)`
 
 const LogoHeader = styled.div`
   min-height: 8rem;
+  @media (max-width: 960px) {
+    display: none;
+  }
 `
 
 const Container = styled.div`
@@ -117,7 +120,7 @@ const Layout: FC = ({ children }) => {
           <SearchIcon className="show-on-desktop" fontSize="large" />
         </div>
       </Header>
-      <LogoHeader className="show-on-desktop" />
+      <LogoHeader />
       <Container>{children}</Container>
       <BottomBar>
         <div>
