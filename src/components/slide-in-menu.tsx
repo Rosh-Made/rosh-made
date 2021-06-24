@@ -16,10 +16,8 @@ const FixedContainer = styled.div`
   overflow-y: auto;
   z-index: 35;
 
-  .show-on-desktop {
-    @media (max-width: 960px) {
-      width: 60rem;
-    }
+  @media (min-width: 960px) {
+    width: 60rem;
   }
 
   .hide-on-desktop {
