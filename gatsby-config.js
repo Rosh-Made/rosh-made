@@ -20,6 +20,8 @@ module.exports = {
         },
       },
     },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     `gatsby-theme-material-ui`,
     `gatsby-plugin-styled-components`,
     {
@@ -37,6 +39,5 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
-    `gatsby-plugin-mdx`,
   ],
 }

@@ -14,6 +14,7 @@ import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
 import SocialIcons from "./social-icons"
 import { Link } from "gatsby-theme-material-ui"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 const Header = styled(AppBar)`
   min-height: 8rem;
@@ -122,16 +123,31 @@ const FooterLinks = styled.div`
   }
 `
 
+const LogoImage = styled.div`
+  img {
+    height: 4.5rem !important;
+    margin-top: 0.25rem;
+  }
+`
+
 const Layout: FC = ({ children }) => {
   const [visible, setVisible] = useState(false)
 
-  const data = useStaticQuery(graphql`
-    query LogoQuery {
-      logo: file(base: { eq: "logo.png" }) {
-        publicURL
+  const { logo } = useStaticQuery(graphql`
+    query {
+      logo: file(relativePath: { eq: "logo.png" }) {
+        childImageSharp {
+          gatsbyImageData(
+            width: 200
+            placeholder: BLURRED
+            formats: [AUTO, WEBP, AVIF]
+          )
+        }
       }
     }
   `)
+
+  const image = getImage(logo)
 
   return (
     <MuiThemeProvider theme={themeLight}>
@@ -147,13 +163,9 @@ const Layout: FC = ({ children }) => {
           </IconButton>
           <SlideInMenu visible={visible} close={() => setVisible(false)} />
         </div>
-        <div onClick={() => navigate("/")}>
-          <img
-            style={{ height: "4.5rem", marginTop: 4 }}
-            src={data.logo.publicURL}
-            alt="logo"
-          />
-        </div>
+        <LogoImage onClick={() => navigate("/")}>
+          <GatsbyImage image={image} alt="logo" />
+        </LogoImage>
         <div>
           <SearchIcon className="show-on-desktop" fontSize="large" />
         </div>

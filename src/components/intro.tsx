@@ -2,6 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import { graphql, useStaticQuery } from "gatsby"
 import SocialIcons from "./social-icons"
+import BackgroundImage from "gatsby-background-image"
 
 const Container = styled.div`
   display: flex;
@@ -12,42 +13,57 @@ const Container = styled.div`
   margin-bottom: 4rem;
 `
 
-const ProfilePic = styled.div`
-  width: 12rem;
-  height: 12rem;
-  -webkit-border-radius: 12rem;
-  -webkit-background-clip: padding-box;
-  -moz-border-radius: 12rem;
-  -moz-background-clip: padding;
-  border-radius: 50%;
-  background-clip: padding-box;
-  margin: 7px 0 0 5px;
-  float: left;
-  background-size: cover;
-  background-position: center center;
-`
-
 const Pitch = styled.div`
   width: 16rem;
   text-align: center;
 `
 
+const ProfileImage = styled.div`
+  .deco {
+    width: 12rem;
+    height: 12rem;
+    -webkit-border-radius: 12rem;
+    -webkit-background-clip: padding-box;
+    -moz-border-radius: 12rem;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    margin: 7px 0 0 5px;
+    float: left;
+    background-size: cover;
+    background-position: center center;
+
+    &::before,
+    &::after {
+      border-radius: 50%;
+    }
+  }
+`
+
 const Intro = () => {
   const data = useStaticQuery(graphql`
-    query ImageQuery {
-      profile: file(base: { eq: "profile.jpg" }) {
-        publicURL
+    query {
+      placeholderImage: file(relativePath: { eq: "profile.jpg" }) {
+        childImageSharp {
+          fluid(quality: 100, maxWidth: 200) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
       }
     }
   `)
 
+  const imageData = data.placeholderImage.childImageSharp.fluid
+
   return (
     <Container>
-      <div>
-        <ProfilePic
-          style={{ backgroundImage: `url(${data.profile.publicURL})` }}
+      <ProfileImage>
+        <BackgroundImage
+          className="deco"
+          Tag="div"
+          fluid={imageData}
+          backgroundColor={`#040e18`}
         />
-      </div>
+      </ProfileImage>
       <h3>Welcome to RoshMade.</h3>
       <Pitch>
         The Tiny Canal Cottage® is a 1920's Craftsman-style house by the Venice
