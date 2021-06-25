@@ -12,6 +12,8 @@ import SearchIcon from "@material-ui/icons/Search"
 import { graphql, navigate, useStaticQuery } from "gatsby"
 import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
+import SocialIcons from "./social-icons"
+import { Link } from "gatsby-theme-material-ui"
 
 const Header = styled(AppBar)`
   min-height: 8rem;
@@ -84,6 +86,42 @@ const BottomBar = styled.div`
   }
 `
 
+const Footer = styled.div`
+  position: relative;
+  border-top: solid 1px #bdc3aa;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 8rem;
+  padding-top: 2rem;
+  padding-bottom: 8rem;
+
+  @media (max-width: 60rem) {
+    padding-bottom: 2rem;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+  }
+`
+
+const FooterLinks = styled.div`
+  display: flex;
+  flex-direction: row;
+  text-transform: uppercase;
+  align-items: center;
+  gap: 2rem;
+  font-family: raleway, sans-serif;
+  color: inherit;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  a,
+  a:hover {
+    color: #bdc3aa;
+    text-underline: none;
+    font-weight: 600;
+  }
+`
+
 const Layout: FC = ({ children }) => {
   const [visible, setVisible] = useState(false)
 
@@ -122,6 +160,15 @@ const Layout: FC = ({ children }) => {
       </Header>
       <LogoHeader />
       <Container>{children}</Container>
+      <Footer>
+        <FooterLinks>
+          <Link to="/about">About</Link>
+          <Link to="/legal">Legal</Link>
+          <Link to="/legal">Github</Link>
+          <Link to="/contact">Contact</Link>
+        </FooterLinks>
+        <SocialIcons />
+      </Footer>
       <BottomBar>
         <div>
           <IconButton onClick={() => setVisible(!visible)} aria-label="menu">

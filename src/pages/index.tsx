@@ -115,32 +115,33 @@ const Index: FC = () => {
     <Layout>
       <Container spacing={10} container>
         {data.blog.posts.map((post: Post) => (
-          <Grid
-            xs={12}
-            sm={6}
-            md={4}
-            lg={3}
-            key={post.id}
-            item
-            onClick={() => navigate(post.fields.slug)}
-          >
-            <Card>
-              <Image
-                style={{
-                  backgroundImage: `url(${post.frontmatter.featuredimage})`,
-                }}
-              />
-              <Date>{post.frontmatter.date}</Date>
-              <Title>{post.frontmatter.title}</Title>
-              <Separator />
-              <Tags>
-                {post.frontmatter.tags?.map(tag => (
-                  <div>{tag}</div>
-                ))}
-              </Tags>
-            </Card>
-          </Grid>
-        ))}
+            <Grid
+              xs={12}
+              sm={6}
+              md={4}
+              lg={3}
+              key={post.id}
+              item
+              onClick={() => navigate(post.fields.slug)}
+            >
+              <Card>
+                <Image
+                  style={{
+                    backgroundImage: `url(${post.frontmatter.featuredimage})`,
+                  }}
+                />
+                <Date>{post.frontmatter.date}</Date>
+                <Title>{post.frontmatter.title}</Title>
+                <Separator />
+                <Tags>
+                  {post.frontmatter.tags?.map(tag => (
+                    <div>{tag}</div>
+                  ))}
+                </Tags>
+              </Card>
+            </Grid>
+          )
+        )}
       </Container>
     </Layout>
   )

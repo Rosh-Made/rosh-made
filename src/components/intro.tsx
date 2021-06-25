@@ -1,9 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { graphql, useStaticQuery } from "gatsby"
-import InstagramIcon from "@material-ui/icons/Instagram"
-import LinkedInIcon from "@material-ui/icons/LinkedIn"
-import EmailIcon from "@material-ui/icons/Email"
+import SocialIcons from "./social-icons"
 
 const Container = styled.div`
   display: flex;
@@ -34,12 +32,6 @@ const Pitch = styled.div`
   text-align: center;
 `
 
-const SocialIcons = styled.div`
-  color: #000;
-  display: flex;
-  gap: 0.5rem;
-`
-
 const Intro = () => {
   const data = useStaticQuery(graphql`
     query ImageQuery {
@@ -64,11 +56,7 @@ const Intro = () => {
         family (including her husband, 2 children, and 2 rescue pups) recently
         relocated.
       </Pitch>
-      <SocialIcons>
-        <InstagramIcon />
-        <LinkedInIcon />
-        <EmailIcon />
-      </SocialIcons>
+      <SocialIcons />
     </Container>
   )
 }
