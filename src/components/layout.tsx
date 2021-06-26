@@ -125,7 +125,7 @@ const FooterLinks = styled.div`
 
 const LogoImage = styled.div`
   img {
-    height: 4.5rem !important;
+    max-height: 4.5rem !important;
     margin-top: 0.25rem;
   }
 `
@@ -139,7 +139,7 @@ const Layout: FC = ({ children }) => {
         childImageSharp {
           gatsbyImageData(
             width: 200
-            placeholder: BLURRED
+            placeholder: TRACED_SVG
             formats: [AUTO, WEBP, AVIF]
           )
         }
