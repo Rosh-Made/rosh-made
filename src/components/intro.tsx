@@ -61,7 +61,7 @@ const Intro = () => {
           className="deco"
           Tag="div"
           fluid={imageData}
-          backgroundColor={`#040e18`}
+          backgroundColor="#ffffff"
         />
       </ProfileImage>
       <h3>Welcome to RoshMade.</h3>

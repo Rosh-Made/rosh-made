@@ -143,7 +143,7 @@ const Index: FC = () => {
                     className="deco"
                     Tag="div"
                     fluid={imageData}
-                    backgroundColor={`#040e18`}
+                    backgroundColor="#ffffff"
                   />
                 </Image>
                 <Date>{post.frontmatter.date}</Date>
