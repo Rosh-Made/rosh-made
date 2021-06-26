@@ -11,7 +11,8 @@ module.exports = {
   },
   /* Your site config here */
   plugins: [
-    `gatsby-plugin-netlify-cms`,
+    `gatsby-theme-material-ui`,
+    `gatsby-plugin-styled-components`,
     {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
@@ -20,10 +21,13 @@ module.exports = {
         },
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
-    `gatsby-theme-material-ui`,
-    `gatsby-plugin-styled-components`,
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/static/assets`,
+        name: "assets",
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -38,6 +42,21 @@ module.exports = {
         path: `${__dirname}/blog/`,
       },
     },
-    `gatsby-transformer-remark`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-relative-images`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {},
+          },
+        ],
+      },
+    },
+    `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-netlify`,
   ],
 }

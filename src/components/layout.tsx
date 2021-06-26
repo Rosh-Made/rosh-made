@@ -164,7 +164,7 @@ const Layout: FC = ({ children }) => {
           <SlideInMenu visible={visible} close={() => setVisible(false)} />
         </div>
         <LogoImage onClick={() => navigate("/")}>
-          <GatsbyImage image={image} alt="logo" />
+          {image && <GatsbyImage image={image} alt="logo" />}
         </LogoImage>
         <div>
           <SearchIcon className="show-on-desktop" fontSize="large" />

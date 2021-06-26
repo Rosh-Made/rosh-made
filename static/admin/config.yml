@@ -1,10 +1,10 @@
 backend:
   name: github
   repo: Rosh-Made/rosh-made
-  branch: main
+  branch: develop
 
-media_folder: static/assets
-public_folder: /assets
+media_folder: static/img
+public_folder: /img
 
 collections:
   - name: blog
