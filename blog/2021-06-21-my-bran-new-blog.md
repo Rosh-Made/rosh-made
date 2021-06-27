@@ -11,4 +11,4 @@ This is a new picture
 
 
 
-![](/img/img_0327.jpeg)
+![](/assets/img_0327.jpeg)
