@@ -66,11 +66,8 @@ const Intro = () => {
       </ProfileImage>
       <h3>Welcome to RoshMade.</h3>
       <Pitch>
-        The Tiny Canal Cottage® is a 1920's Craftsman-style house by the Venice
-        Beach Canals in Southern California. After residing there for 10 years,
-        Sustainable Small Space Living Consultant Whitney Leigh Morris and her
-        family (including her husband, 2 children, and 2 rescue pups) recently
-        relocated.
+      Roshani is a 30 something with a passion for the planet, home design, travel, and creative lifestyle.
+      <p>Rosh x</p>
       </Pitch>
       <SocialIcons />
     </Container>
