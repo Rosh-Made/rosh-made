@@ -58,7 +58,6 @@ export const query = graphql`
       frontmatter {
         date(formatString: "LL")
         title
-        featuredimage
         tags
       }
       excerpt

@@ -3,6 +3,7 @@ import styled from "styled-components"
 import Layout from "../components/layout"
 import { graphql, navigate, useStaticQuery } from "gatsby"
 import { Grid } from "@material-ui/core"
+import BackgroundImage from "gatsby-background-image"
 
 interface Post {
   id: string
@@ -18,7 +19,7 @@ interface Fields {
 interface Frontmatter {
   date: string
   title: string
-  featuredimage: string
+  featuredimage: any
   tags: string[]
 }
 
@@ -32,13 +33,16 @@ const Card = styled.div`
 
 const Image = styled.div`
   width: 100%;
-  padding-top: 125%;
-  background-size: cover;
-  background-position: center center;
+  .deco {
+    width: 100%;
+    padding-top: 125%;
+    background-size: cover;
+    background-position: center center;
 
-  opacity: 1;
-  -webkit-transition: 0.3s ease-in-out;
-  transition: 0.3s ease-in-out;
+    opacity: 1;
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+  }
 
   :hover {
     opacity: 0.65;
@@ -101,7 +105,13 @@ const Index: FC = () => {
           frontmatter {
             date(formatString: "LL")
             title
-            featuredimage
+            featuredimage {
+              childImageSharp {
+                fluid(quality: 100, maxWidth: 1024) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
             tags
           }
           excerpt
@@ -114,7 +124,10 @@ const Index: FC = () => {
   return (
     <Layout>
       <Container spacing={10} container>
-        {data.blog.posts.map((post: Post) => (
+        {data.blog.posts.map((post: Post) => {
+          const imageData = post.frontmatter.featuredimage.childImageSharp.fluid
+
+          return (
             <Grid
               xs={12}
               sm={6}
@@ -125,11 +138,14 @@ const Index: FC = () => {
               onClick={() => navigate(post.fields.slug)}
             >
               <Card>
-                <Image
-                  style={{
-                    backgroundImage: `url(${post.frontmatter.featuredimage})`,
-                  }}
-                />
+                <Image>
+                  <BackgroundImage
+                    className="deco"
+                    Tag="div"
+                    fluid={imageData}
+                    backgroundColor="#ffffff"
+                  />
+                </Image>
                 <Date>{post.frontmatter.date}</Date>
                 <Title>{post.frontmatter.title}</Title>
                 <Separator />
@@ -141,7 +157,7 @@ const Index: FC = () => {
               </Card>
             </Grid>
           )
-        )}
+        })}
       </Container>
     </Layout>
   )

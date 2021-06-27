@@ -7,4 +7,8 @@ tags:
   - Food
   - Home
 ---
-This is about making a drink
+This is a new picture
+
+
+
+![](/assets/img_0327.jpeg)
