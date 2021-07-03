@@ -64,9 +64,12 @@ const Intro = () => {
           backgroundColor="#ffffff"
         />
       </ProfileImage>
-      <h3>Welcome to RoshMade.</h3>
+      <h3>Welcome to Roshmade</h3>
       <Pitch>
-      Roshani is a 30 something with a passion for the planet, home design, travel, and creative lifestyle.
+      <p>Hello there,</p>
+      I'm Roshani, is a 30 something, based in Auckland, NZ. 
+      Roshmade is my blog/Journal where I share my passion for the planet, home design, travel, and creative + mindful living.
+      Enjoy your time here :)
       <p>Rosh x</p>
       </Pitch>
       <SocialIcons />
