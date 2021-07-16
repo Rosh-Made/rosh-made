@@ -8,6 +8,7 @@ import {
 } from "@material-ui/core"
 import styled from "styled-components"
 import MenuIcon from "@material-ui/icons/Menu"
+import SearchIcon from "@material-ui/icons/Search"
 import { navigate } from "gatsby"
 import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
@@ -125,7 +126,7 @@ const FooterLinks = styled.div`
 
 const LogoImage = styled.div`
   svg {
-    max-height: 5.5rem;
+    max-height: 4.5rem;
     margin-top: 0.25rem;
   }
 `
@@ -150,7 +151,13 @@ const Layout: FC = ({ children }) => {
         <LogoImage onClick={() => navigate("/")}>
           <Logo />
         </LogoImage>
-        <div />
+        <div>
+          <SearchIcon
+            style={{ visibility: "hidden" }}
+            className="show-on-desktop"
+            fontSize="large"
+          />
+        </div>
       </Header>
       <LogoHeader />
       <Container>{children}</Container>

@@ -1,28 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="199.98" height="133.32" viewBox="0 0 1800 1200">
+<svg xmlns="http://www.w3.org/2000/svg" width="163.778" height="80.009" viewBox="0 0 784 383">
   <defs>
     <style>
       .cls-1 {
-        font-size: 297.917px;
-        font-family: Voga;
-        font-weight: 500;
+        font-size: 300px;
+        font-family: ambroise-firmin-std;
+        font-weight: 300;
       }
 
       .cls-2 {
-        font-size: 65.938px;
-      }
-
-      .cls-2, .cls-3 {
+        font-size: 66.667px;
         fill: #393939;
-        font-family: "Abhaya Libre";
+        font-family: rufina-alt-01;
         font-weight: 700;
-      }
-
-      .cls-3 {
-        font-size: 187.5px;
       }
     </style>
   </defs>
-  <text id="R_O_S_H" data-name="R O S H" class="cls-1" transform="translate(-11.764 781.044) scale(2.844)">R O S H</text>
-  <text id="M_A_D_E" data-name="M  A  D  E" class="cls-2" transform="translate(998.222 1046.785) scale(2.844)">M  A  D  E</text>
-  <text id="_" data-name="|" class="cls-3" x="887.855" y="1046.849">|</text>
+  <text id="R_O_S_H" data-name="R O S H" class="cls-1" x="0.455" y="219.986">R O S H</text>
+  <text id="_M_A_D_E" data-name="| M A D E" class="cls-2" x="392.337" y="349.123">| M A D E</text>
 </svg>
