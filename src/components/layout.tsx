@@ -126,7 +126,7 @@ const FooterLinks = styled.div`
 
 const LogoImage = styled.div`
   svg {
-    max-height: 5.5rem;
+    max-height: 4.5rem;
     margin-top: 0.25rem;
   }
 `
