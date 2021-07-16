@@ -1,4 +1,4 @@
-import React, { FC, useState } from "react"
+import React, { FC, useEffect, useState } from "react"
 import {
   AppBar,
   createMuiTheme,
@@ -133,6 +133,14 @@ const LogoImage = styled.div`
 
 const Layout: FC = ({ children }) => {
   const [visible, setVisible] = useState(false)
+  const [fontsReady, setFontsReady] = useState(false)
+
+  useEffect(() => {
+    // @ts-ignore
+    document.fonts.ready.then(() => {
+      setFontsReady(true)
+    })
+  }, [])
 
   return (
     <MuiThemeProvider theme={themeLight}>
@@ -149,7 +157,7 @@ const Layout: FC = ({ children }) => {
           <SlideInMenu visible={visible} close={() => setVisible(false)} />
         </div>
         <LogoImage onClick={() => navigate("/")}>
-          <Logo />
+          {fontsReady && <Logo />}
         </LogoImage>
         <div>
           <SearchIcon
