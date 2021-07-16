@@ -39,6 +39,10 @@ const ProfileImage = styled.div`
   }
 `
 
+const Title = styled.h3`
+ margin-bottom: 0;
+`
+
 const Intro = () => {
   const data = useStaticQuery(graphql`
     query {
@@ -64,7 +68,7 @@ const Intro = () => {
           backgroundColor="#ffffff"
         />
       </ProfileImage>
-      <h3>Welcome to Roshmade</h3>
+      <Title>Welcome to Roshmade</Title>
       <Pitch>
       <p>Hello there,</p>
       I'm Roshani, is a 30 something, based in Auckland, NZ. 

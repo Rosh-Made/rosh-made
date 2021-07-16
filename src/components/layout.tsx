@@ -151,17 +151,13 @@ const Layout: FC = ({ children }) => {
         <LogoImage onClick={() => navigate("/")}>
           <img src={logo} alt="logo" />
         </LogoImage>
-        <div>
-          <SearchIcon className="show-on-desktop" fontSize="large" />
-        </div>
+        <div />
       </Header>
       <LogoHeader />
       <Container>{children}</Container>
       <Footer>
         <FooterLinks>
           <Link to="/about">About</Link>
-          <Link to="/legal">Legal</Link>
-          <Link to="/legal">Github</Link>
           <Link to="/contact">Contact</Link>
         </FooterLinks>
         <SocialIcons />
@@ -172,11 +168,7 @@ const Layout: FC = ({ children }) => {
             {visible ? <CloseIcon /> : <MenuIcon />}
           </IconButton>
         </div>
-        <div>
-          <IconButton aria-label="menu">
-            <SearchIcon fontSize="default" />
-          </IconButton>
-        </div>
+        <div/>
       </BottomBar>
     </MuiThemeProvider>
   )
