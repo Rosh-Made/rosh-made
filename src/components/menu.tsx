@@ -15,6 +15,7 @@ const Container = styled.div`
 const Menu: FC = () => {
   return (
     <Container>
+      <Link color="inherit">About</Link>
       <Link color="inherit">Travel</Link>
       <Link color="inherit">Home + Reno</Link>
       <Link color="inherit">Lifestyle</Link>

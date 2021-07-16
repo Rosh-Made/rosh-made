@@ -8,14 +8,13 @@ import {
 } from "@material-ui/core"
 import styled from "styled-components"
 import MenuIcon from "@material-ui/icons/Menu"
-import SearchIcon from "@material-ui/icons/Search"
 import { navigate } from "gatsby"
 import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
 import SocialIcons from "./social-icons"
 import { Link } from "gatsby-theme-material-ui"
 // @ts-ignore
-import logo from "../img/logo.png"
+import Logo from "/src/svg/logo.svg"
 
 const Header = styled(AppBar)`
   min-height: 8rem;
@@ -125,8 +124,8 @@ const FooterLinks = styled.div`
 `
 
 const LogoImage = styled.div`
-  img {
-    max-height: 4.5rem !important;
+  svg {
+    max-height: 5.5rem;
     margin-top: 0.25rem;
   }
 `
@@ -149,19 +148,15 @@ const Layout: FC = ({ children }) => {
           <SlideInMenu visible={visible} close={() => setVisible(false)} />
         </div>
         <LogoImage onClick={() => navigate("/")}>
-          <img src={logo} alt="logo" />
+          <Logo />
         </LogoImage>
-        <div>
-          <SearchIcon className="show-on-desktop" fontSize="large" />
-        </div>
+        <div />
       </Header>
       <LogoHeader />
       <Container>{children}</Container>
       <Footer>
         <FooterLinks>
           <Link to="/about">About</Link>
-          <Link to="/legal">Legal</Link>
-          <Link to="/legal">Github</Link>
           <Link to="/contact">Contact</Link>
         </FooterLinks>
         <SocialIcons />
@@ -172,11 +167,7 @@ const Layout: FC = ({ children }) => {
             {visible ? <CloseIcon /> : <MenuIcon />}
           </IconButton>
         </div>
-        <div>
-          <IconButton aria-label="menu">
-            <SearchIcon fontSize="default" />
-          </IconButton>
-        </div>
+        <div />
       </BottomBar>
     </MuiThemeProvider>
   )

@@ -66,6 +66,7 @@ const Title = styled.div`
   text-transform: uppercase;
   font-size: 1.5rem;
   font-weight: 200;
+  text-align: center;
 `
 
 const Separator = styled.div`
