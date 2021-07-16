@@ -27,6 +27,7 @@
     "gatsby-plugin-image": "^1.8.0",
     "gatsby-plugin-netlify": "^3.8.0",
     "gatsby-plugin-netlify-cms": "^5.7.1",
+    "gatsby-plugin-react-svg": "^3.0.1",
     "gatsby-plugin-sharp": "^3.8.0",
     "gatsby-plugin-styled-components": "^4.7.1",
     "gatsby-plugin-web-font-loader": "^1.0.4",
