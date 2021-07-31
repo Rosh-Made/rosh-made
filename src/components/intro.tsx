@@ -46,7 +46,7 @@ const Title = styled.h3`
 const Intro = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "profile.jpg" }) {
+      placeholderImage: file(relativePath: { eq: "IMG_4751.jpg" }) {
         childImageSharp {
           fluid(quality: 100, maxWidth: 200) {
             ...GatsbyImageSharpFluid_withWebp
@@ -71,8 +71,8 @@ const Intro = () => {
       <Title>Welcome to Roshmade</Title>
       <Pitch>
       <p>Hello there,</p>
-      I'm Roshani, is a 30 something, based in Auckland, NZ. 
-      Roshmade is my blog/Journal where I share my passion for the planet, home design, travel, and creative + mindful living.
+      I'm Roshani, a fulltime IT Professional, based in Auckland, NZ. 
+      Roshmade is my blog Journal where I share my passion for the planet, home design, travel, and creative + mindful living.
       Enjoy your time here :)
       <p>Rosh x</p>
       </Pitch>
