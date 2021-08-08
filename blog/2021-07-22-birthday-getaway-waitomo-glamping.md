@@ -17,11 +17,7 @@ If you're looking for a unique hideaway to unwind and unplug from the world, enj
 
 We are so pleased we picked the right spot for our first-ever glamping experience. Everything was magical and beyond what we imagined. Here are some highlights & tips for our stay.
 
-
-
 ![Soaking up the view as I soak up](/assets/img_3934.jpg "Soaking up the view")
-
-
 
 ![Breathtaking views ](/assets/img_4084.jpg)
 
@@ -31,18 +27,18 @@ We are so pleased we picked the right spot for our first-ever glamping experienc
 Set on a 700-hectare farm on the crest of a hill, around three hours’ south of Auckland and a short drive from the famous Waitomo Caves. \
 \
 **`INCLUDED:`** \
-``\
-~ One large custom canvas safari tent\
-~ Queen size super comfy Canopy bed + (2 x small beds for additional guests)\
-~ Ensuite bathroom with flushing toilet, shower & Eco-friendly toiletries\
-~ 2 x soaking outdoor tubs to soak up the overlooking hills ;) \
-~ A s'mores kit + Firepit to cozy up on cold nights. Talk about a greater combo! \
-~ Complimentary organic eggs + milk from the farm + a fresh loaf of homemade bread + organic herbs and many more* \
-~ Outdoor kitchen & pizza oven\
-~ Board games + Lanterns \
+
+\~ One large custom canvas safari tent\
+\~ Queen size super comfy Canopy bed + (2 x small beds for additional guests)\
+\~ Ensuite bathroom with flushing toilet, shower & Eco-friendly toiletries\
+\~ 2 x soaking outdoor tubs to soak up the overlooking hills ;) \
+\~ A s'mores kit + Firepit to cozy up on cold nights. Talk about a greater combo! \
+\~ Complimentary organic eggs + milk from the farm + a fresh loaf of homemade bread + organic herbs and many more* \
+\~ Outdoor kitchen & pizza oven\
+\~ Board games + Lanterns \
 \
-**`WHAT TO BRING:`** \
-``\
+
+``**`WHAT TO BRING:`** \``\
 ~ Food - we stuck to charcuterie snacks such as hummus, veggies, cheese & crackers or you can order catering for an additional cost\
 ~ Gumboots or walking shoes if you want to do a farm walk\
 \
