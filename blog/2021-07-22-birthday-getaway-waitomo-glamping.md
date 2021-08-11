@@ -1,8 +1,8 @@
 ---
-title: Birthday Getaway | Waitomo Hilltop Glamping
+title: Birthday Getaway | Waitomo Glamping
 date: 2021-08-07T21:19:46.197Z
 description: Waitomo Hilltop Glamping
-featuredimage: /assets/img_4097-2.jpg
+featuredimage: /assets/img_4084.jpg
 tags:
   - Travel
 ---
@@ -27,18 +27,18 @@ We are so pleased we picked the right spot for our first-ever glamping experienc
 Set on a 700-hectare farm on the crest of a hill, around three hours’ south of Auckland and a short drive from the famous Waitomo Caves. \
 \
 **`INCLUDED:`** \
-
-\~ One large custom canvas safari tent\
-\~ Queen size super comfy Canopy bed + (2 x small beds for additional guests)\
-\~ Ensuite bathroom with flushing toilet, shower & Eco-friendly toiletries\
-\~ 2 x soaking outdoor tubs to soak up the overlooking hills ;) \
-\~ A s'mores kit + Firepit to cozy up on cold nights. Talk about a greater combo! \
-\~ Complimentary organic eggs + milk from the farm + a fresh loaf of homemade bread + organic herbs and many more* \
-\~ Outdoor kitchen & pizza oven\
-\~ Board games + Lanterns \
 \
+~ One large custom canvas safari tent\
+~ Queen size super comfy Canopy bed + (2 x small beds for additional guests)\
+~ Ensuite bathroom with flushing toilet, shower & Eco-friendly toiletries\
+~ 2 x soaking outdoor tubs to soak up the overlooking hills ;) \
+~ A s'mores kit + Firepit to cozy up on cold nights. Talk about a greater combo! \
+~ Complimentary organic eggs + milk from the farm + a fresh loaf of homemade bread + organic herbs and many more* \
+~ Outdoor kitchen & pizza oven\
+~ Board games + Lanterns 
 
-``**`WHAT TO BRING:`** \``\
+`WHAT TO BRING:`\
+\
 ~ Food - we stuck to charcuterie snacks such as hummus, veggies, cheese & crackers or you can order catering for an additional cost\
 ~ Gumboots or walking shoes if you want to do a farm walk\
 \
@@ -51,8 +51,7 @@ Set on a 700-hectare farm on the crest of a hill, around three hours’ south of
 \
 **`WHAT TO DO:`** \
 \
-~ Marokopa Falls - was a lovely stop on our drive around the area, A beautiful waterfall just a 10- minute walk off the road.
-
+~ Marokopa Falls - was a lovely stop on our drive around the area, A beautiful waterfall just a 10- minute walk off the road.\
 ~ Waitomo Glowworm Caves - We didn't had time to do.
 
 ![](/assets/img_4050.jpg)
