@@ -2,7 +2,7 @@ import React, { FC } from "react"
 import styled from "styled-components"
 import InstagramIcon from "@material-ui/icons/Instagram"
 import LinkedInIcon from "@material-ui/icons/LinkedIn"
-import YoutubeIcon from "@material-ui/icons/Youtube"
+import YouTubeIcon from "@material-ui/icons/YouTube"
 import { IconButton } from "@material-ui/core"
 
 const Container = styled.div`
@@ -24,7 +24,7 @@ const SocialIcons: FC = () => {
         target="_blank"
         href="https://www.youtube.com/channel/UC_wdUjHLaJ3Z-nGCv9wEjyA"
       >
-        <YoutubeIcon />
+        <YouTubeIcon />
       </IconButton>
       <IconButton
         target="_blank"
