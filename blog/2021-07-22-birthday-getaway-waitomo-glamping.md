@@ -2,7 +2,7 @@
 title: Birthday Getaway | Waitomo Glamping
 date: 2021-08-07T21:19:46.197Z
 description: Waitomo Hilltop Glamping
-featuredimage: /assets/img_4084.jpg
+featuredimage: /assets/img_4085.jpg
 tags:
   - Travel
 ---
@@ -15,12 +15,23 @@ The concept of *Glamping* is a fusion of glamor + camping where stunning nature 
 
 If you're looking for a unique hideaway to unwind and unplug from the world, enjoy breathtaking panoramic views and experience the peaceful New Zealand Countryside, then Waitomo Hilltop Glamping is the SPOT! 
 
-We are so pleased we picked the right spot for our first-ever glamping experience. Everything was magical and beyond what we imagined. Here are some highlights & tips for our stay.
+![](/assets/img_3958.jpg)
+
+\
+\
+\
+\
+\
+We are so pleased we picked the right spot for our first-ever glamping experience. Everything was magical and beyond what we imagined. Here are some highlights & tips for our stay. 
+
+
 
 ![Soaking up the view as I soak up](/assets/img_3934.jpg "Soaking up the view")
 
-![Breathtaking views ](/assets/img_4084.jpg)
 
+
+Soaking up the sunrise + overlooking hills \
+\
 \
 **`LOCATED:`** 
 
@@ -42,8 +53,7 @@ Set on a 700-hectare farm on the crest of a hill, around three hours’ south of
 ~ Food - we stuck to charcuterie snacks such as hummus, veggies, cheese & crackers or you can order catering for an additional cost\
 ~ Gumboots or walking shoes if you want to do a farm walk\
 \
-\
-`Tips:`\
+`TIPS:`\
 \
 ~ No electricity up in the tent, so make sure you charge your devices\
 ~ Star gazing opportunities. hint: Grab some beanbags \
@@ -52,6 +62,4 @@ Set on a 700-hectare farm on the crest of a hill, around three hours’ south of
 **`WHAT TO DO:`** \
 \
 ~ Marokopa Falls - was a lovely stop on our drive around the area, A beautiful waterfall just a 10- minute walk off the road.\
-~ Waitomo Glowworm Caves - We didn't had time to do.
-
-![](/assets/img_4050.jpg)
+~ Waitomo Glowworm Caves
