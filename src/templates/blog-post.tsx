@@ -12,18 +12,15 @@ const Date = styled.div`
 
 const Title = styled.div`
   margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-size: 2.8rem;
+  font-size: 1.3rem;
   font-family: raleway, sans-serif;
   font-weight: 300;
   font-style: normal;
-`
 
-const Content = styled.div`
-  margin-top: 3rem;
-  font-family: freight-sans-pro, sans-serif;
-  font-style: normal;
-  font-weight: 300;
+  @media (min-width: 600px) {
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+  }
 `
 
 const BlogHeaderContainer = styled.div`
@@ -31,6 +28,13 @@ const BlogHeaderContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+`
+
+const Content = styled.div`
+  margin-top: 3rem;
+  font-family: freight-sans-pro, sans-serif;
+  font-style: normal;
+  font-weight: 300;
 `
 
 const BlogPost: FC<any> = ({ data }) => {

@@ -2,7 +2,8 @@ import React, { FC } from "react"
 import styled from "styled-components"
 import InstagramIcon from "@material-ui/icons/Instagram"
 import LinkedInIcon from "@material-ui/icons/LinkedIn"
-import PinterestIcon from "@material-ui/icons/Pinterest"
+import YouTubeIcon from "@material-ui/icons/YouTube"
+import { IconButton } from "@material-ui/core"
 
 const Container = styled.div`
   color: #000;
@@ -13,9 +14,24 @@ const Container = styled.div`
 const SocialIcons: FC = () => {
   return (
     <Container>
-      <InstagramIcon />
-      <PinterestIcon />
-      <LinkedInIcon />
+      <IconButton
+        target="_blank"
+        href="https://www.instagram.com/maryannroshani"
+      >
+        <InstagramIcon />
+      </IconButton>
+      <IconButton
+        target="_blank"
+        href="https://www.youtube.com/channel/UC_wdUjHLaJ3Z-nGCv9wEjyA"
+      >
+        <YouTubeIcon />
+      </IconButton>
+      <IconButton
+        target="_blank"
+        href="https://www.linkedin.com/in/maryannrosh/"
+      >
+        <LinkedInIcon />
+      </IconButton>
     </Container>
   )
 }

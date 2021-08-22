@@ -55,11 +55,16 @@ const LogoHeader = styled.div`
 `
 
 const Container = styled.div`
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+
+  @media (min-width: 600px) {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
 `
 
 const themeLight = createMuiTheme({
@@ -129,6 +134,8 @@ const LogoImage = styled.div`
     max-height: 4.2rem;
     margin-top: 0.25rem;
   }
+
+  cursor: pointer;
 `
 
 const Layout: FC = ({ children }) => {
