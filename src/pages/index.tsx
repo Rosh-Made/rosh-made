@@ -98,7 +98,9 @@ const Index: FC = () => {
         publicURL
       }
 
-      blog: allMarkdownRemark {
+      blog: allMarkdownRemark(
+        sort: { order: DESC, fields: frontmatter___date }
+      ) {
         posts: nodes {
           fields {
             slug

@@ -129,6 +129,8 @@ const LogoImage = styled.div`
     max-height: 4.2rem;
     margin-top: 0.25rem;
   }
+
+  cursor: pointer;
 `
 
 const Layout: FC = ({ children }) => {
