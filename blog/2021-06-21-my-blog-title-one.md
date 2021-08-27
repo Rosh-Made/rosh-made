@@ -1,6 +1,6 @@
 ---
 title: Winter Escapes | South Island, NZ
-date: 2021-07-17T07:28:21.028Z
+date: 2021-06-30T07:28:21.028Z
 description: Winter in New Zealand is a great time to hit the road! and South
   Island is definitely tough to beat in the whole of NZ.
 featuredimage: /assets/img_4636.jpg
