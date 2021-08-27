@@ -1,6 +1,6 @@
 ---
 title: IT Career Switch | Software Testing
-date: 2021-08-25T20:34:29.003Z
+date: 2021-07-01T20:34:29.003Z
 description: Switching to a career in IT is within your reach, even if it may
   seem daunting. Anyone with the desire to get an IT job can find one that suits
   their unique skills, talents and interests. There's a good chance that many of
