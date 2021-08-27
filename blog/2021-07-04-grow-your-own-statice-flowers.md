@@ -1,6 +1,6 @@
 ---
-title: "Homegrown | Statice flowers "
-date: 2021-07-04T20:43:07.762Z
+title: "Home to grow | Statice Flowers "
+date: 2021-08-05T20:43:07.762Z
 description: Statice flowers
 featuredimage: /assets/img_4399.jpg
 tags:
