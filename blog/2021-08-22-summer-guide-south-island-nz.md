@@ -1,6 +1,6 @@
 ---
 title: Summer Guide | South Island, NZ
-date: 2021-06-01T06:52:06.288Z
+date: 2021-07-23T06:52:06.288Z
 description: From stunning glacial lakes to golden sand beaches, snow-capped
   mountains to lush green forests, adrenaline-pumping extreme sports to
   delicious local food, New Zealand’s South Island truly has it all. One of the
