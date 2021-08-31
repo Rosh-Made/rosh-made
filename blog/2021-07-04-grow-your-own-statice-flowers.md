@@ -2,7 +2,7 @@
 title: "Home to grow | Statice Flowers "
 date: 2021-08-05T20:43:07.762Z
 description: Statice flowers
-featuredimage: /assets/img_4399.jpg
+featuredimage: /assets/img_4814.jpg
 tags:
   - DIY
 ---
