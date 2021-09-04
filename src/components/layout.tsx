@@ -92,7 +92,7 @@ const BottomBar = styled.div`
 
 const Footer = styled.div`
   position: relative;
-  border-top: solid 1px #bdc3aa;
+  border-top: solid 1px #c1c1c1;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -111,7 +111,7 @@ const Footer = styled.div`
 const FooterLinks = styled.div`
   display: flex;
   flex-direction: row;
-  text-transform: uppercase;
+  //text-transform: uppercase;
   align-items: center;
   gap: 2rem;
   font-family: raleway, sans-serif;
@@ -156,6 +156,7 @@ const Layout: FC = ({ children }) => {
       <Container>{children}</Container>
       <Footer>
         <FooterLinks>
+          © Rosh made 2021 | CMS Built with ♥ - Shanika & Maryann
           {/*<Link to="/about">About</Link>*/}
           {/*<Link to="/contact">Contact</Link>*/}
         </FooterLinks>
