@@ -8,7 +8,15 @@ import { IconButton } from "@material-ui/core"
 const Container = styled.div`
   color: #000;
   display: flex;
-  gap: 0.5rem;
+
+  .icon {
+    color: #000000;
+  }
+
+  a {
+    padding: 8px;
+    margin: 0;
+  }
 `
 
 const SocialIcons: FC = () => {
@@ -18,19 +26,19 @@ const SocialIcons: FC = () => {
         target="_blank"
         href="https://www.instagram.com/maryannroshani"
       >
-        <InstagramIcon />
+        <InstagramIcon className="icon" />
       </IconButton>
       <IconButton
         target="_blank"
         href="https://www.youtube.com/channel/UC_wdUjHLaJ3Z-nGCv9wEjyA"
       >
-        <YouTubeIcon />
+        <YouTubeIcon className="icon" />
       </IconButton>
       <IconButton
         target="_blank"
         href="https://www.linkedin.com/in/maryannrosh/"
       >
-        <LinkedInIcon />
+        <LinkedInIcon className="icon" />
       </IconButton>
     </Container>
   )

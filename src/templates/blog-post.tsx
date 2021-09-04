@@ -35,6 +35,7 @@ const Content = styled.div`
   font-family: freight-sans-pro, sans-serif;
   font-style: normal;
   font-weight: 300;
+  font-size: 1rem;
 `
 
 const BlogPost: FC<any> = ({ data }) => {

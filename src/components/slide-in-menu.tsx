@@ -1,6 +1,6 @@
 import React, { FC } from "react"
 import styled from "styled-components"
-import { Fade, Grid, Slide, useMediaQuery, useTheme } from "@material-ui/core"
+import { Grid, Slide, useMediaQuery, useTheme } from "@material-ui/core"
 import Menu from "./menu"
 import Intro from "./intro"
 import { IconButton } from "gatsby-theme-material-ui"
