@@ -156,7 +156,8 @@ const Layout: FC = ({ children }) => {
       <Container>{children}</Container>
       <Footer>
         <FooterLinks>
-          © Rosh made 2021 | CMS Built with ♥ - Shanika & Maryann
+          © Rosh made 2021 &nbsp; | &nbsp; CMS Built with ♡ &nbsp; | &nbsp;
+          Shanika & Maryann
           {/*<Link to="/about">About</Link>*/}
           {/*<Link to="/contact">Contact</Link>*/}
         </FooterLinks>
