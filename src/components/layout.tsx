@@ -12,7 +12,6 @@ import SearchIcon from "@material-ui/icons/Search"
 import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
 import SocialIcons from "./social-icons"
-import { Link } from "gatsby-theme-material-ui"
 import { Logo } from "./logo"
 
 const Header = styled(AppBar)`
@@ -157,8 +156,8 @@ const Layout: FC = ({ children }) => {
       <Container>{children}</Container>
       <Footer>
         <FooterLinks>
-          <Link to="/about">About</Link>
-          <Link to="/contact">Contact</Link>
+          {/*<Link to="/about">About</Link>*/}
+          {/*<Link to="/contact">Contact</Link>*/}
         </FooterLinks>
         <SocialIcons />
       </Footer>
