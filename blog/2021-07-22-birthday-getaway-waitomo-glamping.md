@@ -24,11 +24,7 @@ If you're looking for a unique hideaway to unwind and unplug from the world, enj
 \
 We are so pleased we picked the right spot for our first-ever glamping experience. Everything was magical and beyond what we imagined. Here are some highlights & tips for our stay. 
 
-
-
 ![Soaking up the view as I soak up](/assets/img_3934.jpg "Soaking up the view")
-
-
 
 Soaking up the sunrise + overlooking hills \
 \
@@ -63,3 +59,5 @@ Set on a 700-hectare farm on the crest of a hill, around three hours’ south of
 \
 ~ Marokopa Falls - was a lovely stop on our drive around the area, A beautiful waterfall just a 10- minute walk off the road.\
 ~ Waitomo Glowworm Caves
+
+`youtube: https://www.youtube.com/watch?v=0nq29GFdoq4&t=16s&ab_channel=ShanikaWijerathna`
