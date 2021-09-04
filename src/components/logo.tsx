@@ -14,14 +14,28 @@ const LogoImage = styled.div`
   cursor: pointer;
 `
 
+const isFontsReady = () => {
+  return (
+    // @ts-ignore
+    document.fonts.check("300px mencken-std-head-narrow") &&
+    // @ts-ignore
+    document.fonts.check("58.333px rufina-alt-01")
+  )
+}
+
 export const Logo: FC = () => {
   const [fontsReady, setFontsReady] = useState(false)
 
-  useEffect(() => {
-    // @ts-ignore
-    document.fonts.ready.then(() => {
+  const resolveFont = () => {
+    if (isFontsReady()) {
       setFontsReady(true)
-    })
+    } else {
+      setTimeout(() => resolveFont())
+    }
+  }
+
+  useEffect(() => {
+    resolveFont()
   }, [])
 
   return (
