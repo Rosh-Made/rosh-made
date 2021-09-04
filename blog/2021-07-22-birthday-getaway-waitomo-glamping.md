@@ -13,22 +13,14 @@ If you're a nature-lover at heart and enjoy camping but want to treat yourself a
 \
 The concept of *Glamping* is a fusion of glamor + camping where stunning nature meets modern luxury. Once in a while, it's nice to go somewhere hassle-free without having to think of packing, or setting up your camp, 
 
-If you're looking for a unique hideaway to unwind and unplug from the world, enjoy breathtaking panoramic views and experience the peaceful New Zealand Countryside, then Waitomo Hilltop Glamping is the SPOT! 
+If you're looking for a unique hideaway to unwind and unplug from the world, enjoy breathtaking panoramic views and experience the peaceful New Zealand Countryside, then [Waitomo Hilltop Glamping](https://www.waitomoglamping.nz/) is the SPOT! 
 
 ![](/assets/img_3958.jpg)
 
 \
-\
-\
-\
-\
 We are so pleased we picked the right spot for our first-ever glamping experience. Everything was magical and beyond what we imagined. Here are some highlights & tips for our stay. 
 
-
-
 ![Soaking up the view as I soak up](/assets/img_3934.jpg "Soaking up the view")
-
-
 
 Soaking up the sunrise + overlooking hills \
 \
@@ -53,7 +45,7 @@ Set on a 700-hectare farm on the crest of a hill, around three hours’ south of
 ~ Food - we stuck to charcuterie snacks such as hummus, veggies, cheese & crackers or you can order catering for an additional cost\
 ~ Gumboots or walking shoes if you want to do a farm walk\
 \
-`TIPS:`\
+`TIPS`\
 \
 ~ No electricity up in the tent, so make sure you charge your devices\
 ~ Star gazing opportunities. hint: Grab some beanbags \
@@ -63,3 +55,5 @@ Set on a 700-hectare farm on the crest of a hill, around three hours’ south of
 \
 ~ Marokopa Falls - was a lovely stop on our drive around the area, A beautiful waterfall just a 10- minute walk off the road.\
 ~ Waitomo Glowworm Caves
+
+`youtube: https://www.youtube.com/watch?v=IaobeakZgmA`
