@@ -110,7 +110,7 @@ const Index: FC = () => {
             title
             featuredimage {
               childImageSharp {
-                fluid(quality: 100, maxWidth: 1024) {
+                fluid(quality: 100, maxWidth: 500) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }

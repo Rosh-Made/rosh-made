@@ -1,4 +1,4 @@
-import React, { FC, useEffect, useState } from "react"
+import React, { FC, useState } from "react"
 import {
   AppBar,
   createMuiTheme,
@@ -9,13 +9,11 @@ import {
 import styled from "styled-components"
 import MenuIcon from "@material-ui/icons/Menu"
 import SearchIcon from "@material-ui/icons/Search"
-import { navigate } from "gatsby"
 import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
 import SocialIcons from "./social-icons"
 import { Link } from "gatsby-theme-material-ui"
-// @ts-ignore
-import Logo from "/src/svg/logo.svg"
+import { Logo } from "./logo"
 
 const Header = styled(AppBar)`
   min-height: 8rem;
@@ -129,25 +127,8 @@ const FooterLinks = styled.div`
   }
 `
 
-const LogoImage = styled.div`
-  svg {
-    max-height: 4.2rem;
-    margin-top: 0.25rem;
-  }
-
-  cursor: pointer;
-`
-
 const Layout: FC = ({ children }) => {
   const [visible, setVisible] = useState(false)
-  const [fontsReady, setFontsReady] = useState(false)
-
-  useEffect(() => {
-    // @ts-ignore
-    document.fonts.ready.then(() => {
-      setFontsReady(true)
-    })
-  }, [])
 
   return (
     <MuiThemeProvider theme={themeLight}>
@@ -163,9 +144,7 @@ const Layout: FC = ({ children }) => {
           </IconButton>
           <SlideInMenu visible={visible} close={() => setVisible(false)} />
         </div>
-        <LogoImage onClick={() => navigate("/")}>
-          {fontsReady && <Logo />}
-        </LogoImage>
+        <Logo />
         <div>
           <SearchIcon
             style={{ visibility: "hidden" }}
