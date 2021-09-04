@@ -1044,6 +1044,13 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@babel/runtime@^7.14.8":
+  version "7.15.4"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.15.4.tgz#fd17d16bfdf878e6dd02d19753a39fa8a8d9c84a"
+  integrity sha512-99catp6bHCaxr4sJ/DbTGgHS4+Rs2RVd2g7iOap6SLGPDknRK9ztKNsE/Fg6QhSeh1FGE5f6gHGQmvvn3I3xhw==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
 "@babel/standalone@^7.14.0":
   version "7.14.6"
   resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.14.6.tgz#9070bd3cc2bb997d42e14bdf3b0d24a11b00242b"
@@ -3928,7 +3935,7 @@ cheerio@1.0.0-rc.3:
     lodash "^4.15.0"
     parse5 "^3.0.1"
 
-cheerio@^1.0.0-rc.9:
+cheerio@^1.0.0-rc.10, cheerio@^1.0.0-rc.9:
   version "1.0.0-rc.10"
   resolved "https://registry.yarnpkg.com/cheerio/-/cheerio-1.0.0-rc.10.tgz#2ba3dcdfcc26e7956fc1f440e61d51c643379f3e"
   integrity sha512-g0J0q/O6mW8z5zxQ3A8E8J1hUgp4SMOvEoW/x84OwyHKe/Zccz83PVT4y5Crcr530FV6NgmKI1qvGTKVl9XXVw==
@@ -6981,6 +6988,15 @@ gatsby-recipes@^0.18.1:
     xstate "^4.9.1"
     yoga-layout-prebuilt "^1.9.6"
 
+gatsby-remark-embed-video@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-embed-video/-/gatsby-remark-embed-video-3.1.1.tgz#a457c9ad1c97436734245e90541f7d0dc21678e2"
+  integrity sha512-icqxETtK/WzP6yAwqxlide4UuBY5V6Q6uOYNSdN7d4iLyMxncScmAZFHh0n+NeYWM+lK2nUD9zU0r3v0q5WOhA==
+  dependencies:
+    get-video-id "^3.1.9"
+    remark-burger "^1.0.1"
+    unist-util-visit "^2.0.3"
+
 gatsby-remark-images@^5.5.0:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-5.5.0.tgz#7e30481cf82cb02fc551919c33db118c1e347dee"
@@ -7021,6 +7037,17 @@ gatsby-remark-relative-images@^2.0.2:
     lodash "4.17.20"
     traverse "0.6.6"
     unist-util-select "3.0.1"
+
+gatsby-remark-responsive-iframe@^4.10.0:
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-responsive-iframe/-/gatsby-remark-responsive-iframe-4.10.0.tgz#f6ed029b867834132cf6eebbf7029c93ca089641"
+  integrity sha512-Z8VD88n2U+G9hNXkP+fJu9rd778bHEN0UfPjamtEaNQ01jrO9BxJW/J7bJd/9fJXuANRKJd0qQn1Y9RMZJDQ3A==
+  dependencies:
+    "@babel/runtime" "^7.14.8"
+    cheerio "^1.0.0-rc.10"
+    common-tags "^1.8.0"
+    lodash "^4.17.21"
+    unist-util-visit "^2.0.3"
 
 gatsby-source-filesystem@^3.7.1:
   version "3.7.1"
@@ -7392,6 +7419,11 @@ get-value@^2.0.3, get-value@^2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
+
+get-video-id@^3.1.9:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/get-video-id/-/get-video-id-3.4.1.tgz#ea4e03288e4be6f89fac7516f23717c558203bc8"
+  integrity sha512-2MkfbzofPQ7YsW0mrShmGEvnGrNzjXzAwJEePYwoi1dDqTpghHDMq5+T61Stmez8X4I+I8phT+unuttw/AB36w==
 
 get-window@^1.1.1:
   version "1.1.2"
@@ -13532,6 +13564,11 @@ relateurl@^0.2.7:
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha1-VNvzd+UUQKypCkzSdGANP/LYiKk=
+
+remark-burger@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/remark-burger/-/remark-burger-1.0.1.tgz#cda57d4bc1e952ae86b2407fbcf36492ab352106"
+  integrity sha512-F91SyEzat4hBkWsWElHIvMcCQuWoSeZXTuR4DmLvhUIjYkzzVLaX6GRxhkiDrZb/9asvTrYzwEr9HvxN1tqs9Q==
 
 remark-footnotes@2.0.0:
   version "2.0.0"
