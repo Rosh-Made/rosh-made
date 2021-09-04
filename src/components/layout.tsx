@@ -1,7 +1,7 @@
 import React, { FC, useEffect, useState } from "react"
 import {
   AppBar,
-  createMuiTheme,
+  createTheme,
   CssBaseline,
   IconButton,
   MuiThemeProvider,
@@ -67,7 +67,7 @@ const Container = styled.div`
   }
 `
 
-const themeLight = createMuiTheme({
+const themeLight = createTheme({
   palette: {
     background: {
       default: "#fff",
