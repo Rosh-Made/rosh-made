@@ -2,7 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import { graphql, useStaticQuery } from "gatsby"
 import SocialIcons from "./social-icons"
-import BackgroundImage from "gatsby-background-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 const Container = styled.div`
   display: flex;
@@ -18,56 +18,48 @@ const Pitch = styled.div`
   text-align: center;
 `
 
-const ProfileImage = styled.div`
-  .deco {
-    width: 12rem;
-    height: 12rem;
-    -webkit-border-radius: 12rem;
-    -webkit-background-clip: padding-box;
-    -moz-border-radius: 12rem;
-    -moz-background-clip: padding;
-    background-clip: padding-box;
-    margin: 7px 0 0 5px;
-    float: left;
-    background-size: cover;
-    background-position: center center;
-
-    &::before,
-    &::after {
-      border-radius: 50%;
-    }
-  }
-`
-
 const Title = styled.h3`
  margin-bottom: 0;
+`
+
+const CircleImage = styled.div`
+  width: 12rem;
+  height: 12rem;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  
+  img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+  }
 `
 
 const Intro = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "IMG_4751.jpg" }) {
+      profilePic: file(relativePath: { eq: "IMG_4751.jpg" }) {
         childImageSharp {
-          fluid(quality: 100, maxWidth: 200) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
+          gatsbyImageData(
+            width: 200
+            aspectRatio: 1
+            transformOptions: {cropFocus: CENTER}
+            placeholder: TRACED_SVG
+          )
         }
       }
     }
   `)
 
-  const imageData = data.placeholderImage.childImageSharp.fluid
+  const profilePic = getImage(data.profilePic);
 
   return (
     <Container>
-      <ProfileImage>
-        <BackgroundImage
-          className="deco"
-          Tag="div"
-          fluid={imageData}
-          backgroundColor="#ffffff"
-        />
-      </ProfileImage>
+      <CircleImage>
+        {profilePic && <GatsbyImage alt="image" image={profilePic} />}
+      </CircleImage>
       <Title>Welcome to Roshmade</Title>
       <Pitch>
       <p>Hello there,</p>

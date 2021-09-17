@@ -1,8 +1,8 @@
 import React, { FC, useState } from "react"
-import BackgroundImage from "gatsby-background-image"
 import styled from "styled-components"
 import VizSensor from "react-visibility-sensor"
 import { Fade } from "@material-ui/core"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 const Card = styled.div`
   width: 100%;
@@ -66,17 +66,14 @@ const Tags = styled.div`
   text-transform: uppercase;
 `
 
-const PreLoadImage = styled(BackgroundImage)`
-  display: none;
-  width: 100%;
-`
-
 export const PostCard: FC<{ post: any }> = ({ post }) => {
-  const [active, setActive] = useState<boolean>(false)
-  const imageData = post.frontmatter.featuredimage.childImageSharp.fluid
-  return (<> <PreLoadImage fluid={imageData} />
+  const [active, setActive] = useState<boolean>(false);
+  const image = getImage(post.frontmatter.featuredimage);
+
+  // @ts-ignore
+  return (<>
     <VizSensor
-      minTopValue={200}
+      minTopValue={100}
       partialVisibility={true}
     onChange={(isVisible) => {
       if (!active) {
@@ -87,19 +84,14 @@ export const PostCard: FC<{ post: any }> = ({ post }) => {
 
     <Fade in={active} timeout={1500}><Card>
       <Image>
-        <BackgroundImage
-          className="deco"
-          Tag="div"
-          fluid={imageData}
-          backgroundColor="#ffffff"
-        />
+        { image && <GatsbyImage image={image} alt="image" />}
       </Image>
       <Date>{post.frontmatter.date}</Date>
       <Title>{post.frontmatter.title}</Title>
       <Separator />
       <Tags>
         {post.frontmatter.tags?.map((tag: string) => (
-          <div>{tag}</div>
+          <div key={tag}>{tag}</div>
         ))}
       </Tags>
     </Card>

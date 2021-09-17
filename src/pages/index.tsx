@@ -69,9 +69,12 @@ const Index: FC = () => {
             title
             featuredimage {
               childImageSharp {
-                fluid(quality: 100, maxWidth: 500) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
+                 gatsbyImageData(
+                  width: 500
+                  aspectRatio: 0.8
+                  transformOptions: {cropFocus: CENTER}
+                  placeholder: TRACED_SVG
+                )
               }
             }
             tags
@@ -86,8 +89,8 @@ const Index: FC = () => {
   return (
     <Layout>
       <Container spacing={10} container>
-        {data.blog.posts.map((post: Post) =>
-          (
+        {data.blog.posts.map((post: Post) => {
+          return (
             <CardContainer
               xs={12}
               sm={6}
@@ -99,7 +102,8 @@ const Index: FC = () => {
             >
               <PostCard post={post} />
             </CardContainer>
-          ))}
+          )
+        })}
       </Container>
     </Layout>
   )
