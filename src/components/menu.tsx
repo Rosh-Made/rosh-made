@@ -27,10 +27,10 @@ const Menu: FC = () => {
         <Logo />
       </LogoWrapper>
       <Link color="inherit">About</Link>
-      <Link color="inherit">Travel</Link>
-      <Link color="inherit">Home + Reno</Link>
+      <Link color="inherit">Home</Link>
       <Link color="inherit">Lifestyle</Link>
-      <Link color="inherit">Technology</Link>
+      <Link color="inherit">Travel</Link>
+      <Link color="inherit">IT</Link>
     </Container>
   )
 }
