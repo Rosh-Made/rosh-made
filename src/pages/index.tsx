@@ -55,6 +55,18 @@ const Image = styled.div`
 
 const Container = styled(Grid)`
   margin-top: 2rem;
+  @media(max-width: 600px) {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+`
+
+const CardContainer = styled(Grid)`
+  @media(max-width: 600px) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 `
 
 const Date = styled.div`
@@ -135,7 +147,7 @@ const Index: FC = () => {
           const imageData = post.frontmatter.featuredimage.childImageSharp.fluid
 
           return (
-            <Grid
+            <CardContainer
               xs={12}
               sm={6}
               md={4}
@@ -162,7 +174,7 @@ const Index: FC = () => {
                   ))}
                 </Tags>
               </Card>
-            </Grid>
+            </CardContainer>
           )
         })}
       </Container>
