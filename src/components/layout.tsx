@@ -45,15 +45,16 @@ const Header = styled(AppBar)`
 `
 
 const LogoHeader = styled.div`
-  min-height: 8rem;
-  @media (max-width: 960px) {
-    display: none;
+  display: none;
+  @media (min-width: 960px) {
+    min-height: 8rem;
+    display: block;
   }
 `
 
 const Container = styled.div`
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
