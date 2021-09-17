@@ -14,33 +14,11 @@ const LogoImage = styled.div`
   cursor: pointer;
 `
 
-const isFontsReady = () => {
-  return (
-    // @ts-ignore
-    document.fonts.check("300px mencken-std-head-narrow") &&
-    // @ts-ignore
-    document.fonts.check("58.333px rufina-alt-01")
-  )
-}
-
 export const Logo: FC = () => {
-  const [fontsReady, setFontsReady] = useState(false)
-
-  const resolveFont = () => {
-    if (isFontsReady()) {
-      setFontsReady(true)
-    } else {
-      setTimeout(() => resolveFont())
-    }
-  }
-
-  useEffect(() => {
-    resolveFont()
-  }, [])
 
   return (
     <LogoImage onClick={() => navigate("/")}>
-      {fontsReady && <LogoSvg />}
+      <LogoSvg />
     </LogoImage>
   )
 }

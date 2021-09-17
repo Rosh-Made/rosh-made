@@ -3,7 +3,7 @@ import styled from "styled-components"
 import Layout from "../components/layout"
 import { graphql, navigate, useStaticQuery } from "gatsby"
 import { Grid } from "@material-ui/core"
-import BackgroundImage from "gatsby-background-image"
+import { PostCard } from "../components/Card"
 
 interface Post {
   id: string
@@ -23,69 +23,24 @@ interface Frontmatter {
   tags: string[]
 }
 
-const Card = styled.div`
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  cursor: pointer;
-`
-
-const Image = styled.div`
-  width: 100%;
-  .deco {
-    width: 100%;
-    padding-top: 125%;
-    background-size: cover;
-    background-position: center center;
-
-    @media (min-width: 769px) {
-      opacity: 1;
-      -webkit-transition: 0.3s ease-in-out;
-      transition: 0.3s ease-in-out;
-    }
-  }
-
-  :hover {
-    @media (min-width: 769px) {
-      opacity: 0.65;
-    }
-  }
-`
-
 const Container = styled(Grid)`
-  margin-top: 2rem;
+  margin-top: 0.25rem;
+  @media(max-width: 600px) {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  @midia (min-width: 960px) {
+    margin-top: 2rem;
+  }
 `
 
-const Date = styled.div`
-  margin-top: 1.5rem;
-  font-family: raleway, sans-serif;
-  color: #8b9a72;
-`
-
-const Title = styled.div`
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-family: freight-sans-pro, sans-serif;
-  text-transform: uppercase;
-  font-size: 1.5rem;
-  font-weight: 200;
-  text-align: center;
-`
-
-const Separator = styled.div`
-  border-top: #8b9a72 solid 1px;
-  width: 1.5rem;
-`
-
-const Tags = styled.div`
-  margin-top: 1.1rem;
-  font-family: raleway, sans-serif;
-  display: flex;
-  gap: 4px;
-  font-size: 0.6rem;
-  color: #1f1f1f;
-  text-transform: uppercase;
+const CardContainer = styled(Grid)`
+  @media(max-width: 600px) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 `
 
 const Index: FC = () => {
@@ -131,11 +86,9 @@ const Index: FC = () => {
   return (
     <Layout>
       <Container spacing={10} container>
-        {data.blog.posts.map((post: Post) => {
-          const imageData = post.frontmatter.featuredimage.childImageSharp.fluid
-
-          return (
-            <Grid
+        {data.blog.posts.map((post: Post) =>
+          (
+            <CardContainer
               xs={12}
               sm={6}
               md={4}
@@ -144,27 +97,9 @@ const Index: FC = () => {
               item
               onClick={() => navigate(post.fields.slug)}
             >
-              <Card>
-                <Image>
-                  <BackgroundImage
-                    className="deco"
-                    Tag="div"
-                    fluid={imageData}
-                    backgroundColor="#ffffff"
-                  />
-                </Image>
-                <Date>{post.frontmatter.date}</Date>
-                <Title>{post.frontmatter.title}</Title>
-                <Separator />
-                <Tags>
-                  {post.frontmatter.tags?.map(tag => (
-                    <div>{tag}</div>
-                  ))}
-                </Tags>
-              </Card>
-            </Grid>
-          )
-        })}
+              <PostCard post={post} />
+            </CardContainer>
+          ))}
       </Container>
     </Layout>
   )
