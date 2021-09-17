@@ -116,8 +116,7 @@ const FooterLinks = styled.div`
   gap: 2rem;
   font-family: raleway, sans-serif;
   color: inherit;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin: 2rem;
   a,
   a:hover {
     color: #bdc3aa;
@@ -156,8 +155,7 @@ const Layout: FC = ({ children }) => {
       <Container>{children}</Container>
       <Footer>
         <FooterLinks>
-          © Rosh made 2021 &nbsp; | &nbsp; CMS Built with ♡ &nbsp; | &nbsp;
-          Shanika & Maryann
+          © Rosh made 2021
           {/*<Link to="/about">About</Link>*/}
           {/*<Link to="/contact">Contact</Link>*/}
         </FooterLinks>
