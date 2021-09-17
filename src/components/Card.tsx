@@ -73,7 +73,6 @@ export const PostCard: FC<{ post: any }> = ({ post }) => {
   // @ts-ignore
   return (<>
     <VizSensor
-      minTopValue={100}
       partialVisibility={true}
     onChange={(isVisible) => {
       if (!active) {

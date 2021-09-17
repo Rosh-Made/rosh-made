@@ -46,7 +46,7 @@ const Intro = () => {
             width: 200
             aspectRatio: 1
             transformOptions: {cropFocus: CENTER}
-            placeholder: TRACED_SVG
+            placeholder: BLURRED
           )
         }
       }

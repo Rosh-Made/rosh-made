@@ -59,6 +59,7 @@ const Index: FC = () => {
 
       blog: allMarkdownRemark(
         sort: { order: DESC, fields: frontmatter___date }
+        filter: {frontmatter: {published: {eq: true}}}
       ) {
         posts: nodes {
           fields {
@@ -73,7 +74,7 @@ const Index: FC = () => {
                   width: 500
                   aspectRatio: 0.8
                   transformOptions: {cropFocus: CENTER}
-                  placeholder: TRACED_SVG
+                  placeholder: BLURRED
                 )
               }
             }
