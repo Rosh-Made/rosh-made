@@ -39,13 +39,17 @@ const Image = styled.div`
     background-size: cover;
     background-position: center center;
 
-    opacity: 1;
-    -webkit-transition: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
+    @media (min-width: 769px) {
+      opacity: 1;
+      -webkit-transition: 0.3s ease-in-out;
+      transition: 0.3s ease-in-out;
+    }
   }
 
   :hover {
-    opacity: 0.65;
+    @media (min-width: 769px) {
+      opacity: 0.65;
+    }
   }
 `
 

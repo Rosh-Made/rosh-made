@@ -36,6 +36,11 @@ const Content = styled.div`
   font-style: normal;
   font-weight: 300;
   font-size: 1rem;
+  
+  a {
+    color: #3c87e8;
+    text-decoration: none;
+  }
 `
 
 const BlogPost: FC<any> = ({ data }) => {
