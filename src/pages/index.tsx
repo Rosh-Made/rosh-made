@@ -43,7 +43,8 @@ const CardContainer = styled(Grid)`
   }
 `
 
-const Index: FC = () => {
+const Index: FC<{location:any}> = ({location}) => {
+
   const data = useStaticQuery(graphql`
     query HeaderQuery {
       site {
@@ -87,10 +88,15 @@ const Index: FC = () => {
     }
   `)
 
+  const params = new URLSearchParams(location.search);
+  const tag = params.get("tag");
+
+  const posts = data.blog.posts.filter((post: Post) => !tag || post.frontmatter.tags.includes(tag));
+
   return (
     <Layout>
       <Container spacing={10} container>
-        {data.blog.posts.map((post: Post) => {
+        {posts.map((post: Post) => {
           return (
             <CardContainer
               xs={12}
