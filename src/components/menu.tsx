@@ -20,17 +20,18 @@ const LogoWrapper = styled.div`
   }
 `
 
-const Menu: FC = () => {
+const Menu: FC<{close: () => void}> = ({close}) => {
+
   return (
     <Container>
       <LogoWrapper>
         <Logo />
       </LogoWrapper>
-      <Link color="inherit">About</Link>
-      <Link color="inherit">Home</Link>
-      <Link color="inherit">Lifestyle</Link>
-      <Link color="inherit">Travel</Link>
-      <Link color="inherit">IT</Link>
+      <Link onClick={() => close()} to="/?tag=LIFESTYLE" color="inherit">Lifestyle</Link>
+      <Link onClick={() => close()} to="/?tag=Travel" color="inherit">Travel</Link>
+      <Link onClick={() => close()} to="/?tag=Home" color="inherit">Home</Link>
+      <Link onClick={() => close()} to="/?tag=IT" color="inherit">IT</Link>
+      <Link onClick={() => close()} to="/" color="inherit">All</Link>
     </Container>
   )
 }
