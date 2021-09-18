@@ -59,6 +59,7 @@ const Index: FC = () => {
 
       blog: allMarkdownRemark(
         sort: { order: DESC, fields: frontmatter___date }
+        filter: {frontmatter: {published: {eq: true}}}
       ) {
         posts: nodes {
           fields {
@@ -69,9 +70,12 @@ const Index: FC = () => {
             title
             featuredimage {
               childImageSharp {
-                fluid(quality: 100, maxWidth: 500) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
+                 gatsbyImageData(
+                  width: 500
+                  aspectRatio: 0.8
+                  transformOptions: {cropFocus: CENTER}
+                  placeholder: BLURRED
+                )
               }
             }
             tags
@@ -86,8 +90,8 @@ const Index: FC = () => {
   return (
     <Layout>
       <Container spacing={10} container>
-        {data.blog.posts.map((post: Post) =>
-          (
+        {data.blog.posts.map((post: Post) => {
+          return (
             <CardContainer
               xs={12}
               sm={6}
@@ -99,7 +103,8 @@ const Index: FC = () => {
             >
               <PostCard post={post} />
             </CardContainer>
-          ))}
+          )
+        })}
       </Container>
     </Layout>
   )
