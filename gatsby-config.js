@@ -11,6 +11,20 @@ module.exports = {
   },
   /* Your site config here */
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-DRN4BB93PS", // Google Analytics / GA
+        ],
+        pluginConfig: {
+          head: true,
+
+          exclude: ["/admin/**"],
+        },
+      },
+    },
+    `gatsby-plugin-react-helmet`,
     `gatsby-theme-material-ui`,
     `gatsby-plugin-styled-components`,
     {

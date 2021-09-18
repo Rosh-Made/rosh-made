@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 import { graphql, navigate, useStaticQuery } from "gatsby"
 import { Grid } from "@material-ui/core"
 import { PostCard } from "../components/Card"
+import { Helmet } from "react-helmet"
 
 interface Post {
   id: string
@@ -95,6 +96,17 @@ const Index: FC<{location:any}> = ({location}) => {
 
   return (
     <Layout>
+
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Roshmade - Personal Blog</title>
+        <link rel="canonical" href="https://www.roshmade.com" />
+
+        <meta property="og:title" content="Roshmade - Personal Blog" />
+        <meta property="og:description" content="Roshmade is my journal blog where I share my passion for the planet, home design, travel, and creative + mindful living." />
+        <meta property="og:image" content="https://www.roshmade.com/static/97a1978370520a4559a3f54fd1ba2eb0/a6d46/IMG_4751.webp" />
+      </Helmet>
+
       <Container spacing={10} container>
         {posts.map((post: Post) => {
           return (
