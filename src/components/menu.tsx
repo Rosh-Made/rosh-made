@@ -27,11 +27,11 @@ const Menu: FC<{close: () => void}> = ({close}) => {
       <LogoWrapper>
         <Logo />
       </LogoWrapper>
-      <Link onClick={() => close()} to="/?tag=LIFESTYLE" color="inherit">Lifestyle</Link>
       <Link onClick={() => close()} to="/?tag=Travel" color="inherit">Travel</Link>
       <Link onClick={() => close()} to="/?tag=Home" color="inherit">Home</Link>
+      <Link onClick={() => close()} to="/?tag=LIFESTYLE" color="inherit">Lifestyle</Link>
       <Link onClick={() => close()} to="/?tag=IT" color="inherit">IT</Link>
-      <Link onClick={() => close()} to="/" color="inherit">All</Link>
+      <Link onClick={() => close()} to="/" color="inherit">All Blogs</Link>
     </Container>
   )
 }
