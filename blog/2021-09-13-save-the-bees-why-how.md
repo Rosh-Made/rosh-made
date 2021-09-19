@@ -44,3 +44,8 @@ I’d beg you to try at least one of these flowers, not only it will you give yo
 Have you had a go at planting any of these flowers in your garden?
 
 ![](/assets/img_5076.jpg)
+
+Nothing makes me happier than being in the garden, watching something grow from nothing, seeing the beautiful bees and butterflies on flowers, and relish your great outdoors. \
+Try yourself. 
+
+![](/assets/img_5512.jpg)
