@@ -97,7 +97,7 @@ const SlideInMenu: FC<SlideInMenuProps> = ({ visible, close }) => {
         </CloseButton>
         <Container container>
           <Column xs={12} md={6} className={"column"} item>
-            <Menu />
+            <Menu close={close} />
           </Column>
           <Column xs={12} md={6} className={"column"} item>
             <Intro />

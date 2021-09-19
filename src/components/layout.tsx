@@ -45,15 +45,16 @@ const Header = styled(AppBar)`
 `
 
 const LogoHeader = styled.div`
-  min-height: 8rem;
-  @media (max-width: 960px) {
-    display: none;
+  display: none;
+  @media (min-width: 960px) {
+    min-height: 8rem;
+    display: block;
   }
 `
 
 const Container = styled.div`
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
@@ -116,8 +117,7 @@ const FooterLinks = styled.div`
   gap: 2rem;
   font-family: raleway, sans-serif;
   color: inherit;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin: 2rem;
   a,
   a:hover {
     color: #bdc3aa;
@@ -156,8 +156,7 @@ const Layout: FC = ({ children }) => {
       <Container>{children}</Container>
       <Footer>
         <FooterLinks>
-          © Rosh made 2021 &nbsp; | &nbsp; CMS Built with ♡ &nbsp; | &nbsp;
-          Shanika & Maryann
+          © Roshmade 2021
           {/*<Link to="/about">About</Link>*/}
           {/*<Link to="/contact">Contact</Link>*/}
         </FooterLinks>

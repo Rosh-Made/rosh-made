@@ -3,7 +3,8 @@ import styled from "styled-components"
 import Layout from "../components/layout"
 import { graphql, navigate, useStaticQuery } from "gatsby"
 import { Grid } from "@material-ui/core"
-import BackgroundImage from "gatsby-background-image"
+import { PostCard } from "../components/Card"
+import { Helmet } from "react-helmet"
 
 interface Post {
   id: string
@@ -23,68 +24,28 @@ interface Frontmatter {
   tags: string[]
 }
 
-const Card = styled.div`
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  cursor: pointer;
-`
-
-const Image = styled.div`
-  width: 100%;
-  .deco {
-    width: 100%;
-    padding-top: 125%;
-    background-size: cover;
-    background-position: center center;
-
-    opacity: 1;
-    -webkit-transition: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
-  }
-
-  :hover {
-    opacity: 0.65;
-  }
-`
-
 const Container = styled(Grid)`
-  margin-top: 2rem;
+  margin-top: 0.25rem;
+  @media(max-width: 600px) {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  @midia (min-width: 960px) {
+    margin-top: 2rem;
+  }
 `
 
-const Date = styled.div`
-  margin-top: 1.5rem;
-  font-family: raleway, sans-serif;
-  color: #8b9a72;
+const CardContainer = styled(Grid)`
+  @media(max-width: 600px) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 `
 
-const Title = styled.div`
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-family: freight-sans-pro, sans-serif;
-  text-transform: uppercase;
-  font-size: 1.5rem;
-  font-weight: 200;
-  text-align: center;
-`
+const Index: FC<{location:any}> = ({location}) => {
 
-const Separator = styled.div`
-  border-top: #8b9a72 solid 1px;
-  width: 1.5rem;
-`
-
-const Tags = styled.div`
-  margin-top: 1.1rem;
-  font-family: raleway, sans-serif;
-  display: flex;
-  gap: 4px;
-  font-size: 0.6rem;
-  color: #1f1f1f;
-  text-transform: uppercase;
-`
-
-const Index: FC = () => {
   const data = useStaticQuery(graphql`
     query HeaderQuery {
       site {
@@ -100,6 +61,7 @@ const Index: FC = () => {
 
       blog: allMarkdownRemark(
         sort: { order: DESC, fields: frontmatter___date }
+        filter: {frontmatter: {published: {eq: true}}}
       ) {
         posts: nodes {
           fields {
@@ -110,9 +72,12 @@ const Index: FC = () => {
             title
             featuredimage {
               childImageSharp {
-                fluid(quality: 100, maxWidth: 500) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
+                 gatsbyImageData(
+                  width: 500
+                  aspectRatio: 0.8
+                  transformOptions: {cropFocus: CENTER}
+                  placeholder: BLURRED
+                )
               }
             }
             tags
@@ -124,14 +89,28 @@ const Index: FC = () => {
     }
   `)
 
+  const params = new URLSearchParams(location.search);
+  const tag = params.get("tag");
+
+  const posts = data.blog.posts.filter((post: Post) => !tag || post.frontmatter.tags.includes(tag));
+
   return (
     <Layout>
-      <Container spacing={10} container>
-        {data.blog.posts.map((post: Post) => {
-          const imageData = post.frontmatter.featuredimage.childImageSharp.fluid
 
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Roshmade - Personal Blog</title>
+        <link rel="canonical" href="https://www.roshmade.com" />
+
+        <meta property="og:title" content="Roshmade - Personal Blog" />
+        <meta property="og:description" content="Roshmade is my journal blog where I share my passion for the planet, home design, travel, and creative + mindful living." />
+        <meta property="og:image" content="https://www.roshmade.com/static/97a1978370520a4559a3f54fd1ba2eb0/a6d46/IMG_4751.webp" />
+      </Helmet>
+
+      <Container spacing={10} container>
+        {posts.map((post: Post) => {
           return (
-            <Grid
+            <CardContainer
               xs={12}
               sm={6}
               md={4}
@@ -140,25 +119,8 @@ const Index: FC = () => {
               item
               onClick={() => navigate(post.fields.slug)}
             >
-              <Card>
-                <Image>
-                  <BackgroundImage
-                    className="deco"
-                    Tag="div"
-                    fluid={imageData}
-                    backgroundColor="#ffffff"
-                  />
-                </Image>
-                <Date>{post.frontmatter.date}</Date>
-                <Title>{post.frontmatter.title}</Title>
-                <Separator />
-                <Tags>
-                  {post.frontmatter.tags?.map(tag => (
-                    <div>{tag}</div>
-                  ))}
-                </Tags>
-              </Card>
-            </Grid>
+              <PostCard post={post} />
+            </CardContainer>
           )
         })}
       </Container>
