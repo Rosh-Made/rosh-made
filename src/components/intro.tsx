@@ -28,6 +28,11 @@ const CircleImage = styled.div`
   position: relative;
   overflow: hidden;
   border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 50%;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
   
   img {
     display: inline;
