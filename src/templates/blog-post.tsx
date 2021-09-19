@@ -58,9 +58,11 @@ const BlogPost: FC<any> = ({ data }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{`Roshmade - ${post.frontmatter.title}`}</title>
-        <link rel="canonical" href="https://www.roshmade.com" />
+        <link rel="canonical" href={`https://www.roshmade.com/${post.fields.slug}`} />
 
+        <meta property="og:url" content={`https://www.roshmade.com/${post.fields.slug}`} />
         <meta property="og:title" content={`Roshmade Blog - ${post.frontmatter.title}`} />
+        <meta property="og:type"  content="article" />
         <meta property="og:description" content={post.frontmatter.description} />
         <meta property="og:image" content={featuredimage} />
       </Helmet>
