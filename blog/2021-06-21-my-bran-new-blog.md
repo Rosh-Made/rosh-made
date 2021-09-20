@@ -17,27 +17,36 @@ The mid last year 2020, while we were home during the lockdown, I promised mysel
 
 I started to look for some sustainable alternatives online and few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and reasons:
 
-\~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household
-\~ They are partnered with [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) brands 
+~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household
+
+~ They are partnered with [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) brands
+
 ~ Has few Packages options, I got the Complete Kitchen package, that came up with 
 o	1 x Dish Washing Liquid 5L
 o	1 x Multi-Purpose Cleaner 5L
 o	1 x The Honest Eco Dish Washing Liquid bottle
 o	1 x The Honest Eco All Purpose bottle
-o	*Handwash wasn’t included in this package which I had to buy it separately. 
+o	*Handwash wasn’t included in this package which I had to buy it separately
 
-~ This is what I love about this: The Honest Eco offers refills or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)closer to you which means you don’t have to buy plastics bottles again. WOW!\
-\~ Products come in 5L which means you can use for months based on your household size
-\~ Cruelty-free and approved ingredients 
+![](/assets/viber_image_2021-09-21_09-17-58-101.jpg)
+
+~ This is what I love about this: The Honest Eco offers refills or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)closer to you which means you don’t have to buy plastics bottles again. WOW!
+
+~ Products come in 5L which means you can use for months based on your household size
+
+~ Cruelty-free and approved ingredients 
+
 ~ And of course, aesthetically pleasing, beautiful, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
+
+
+
+![](/assets/img_5176-2.jpg)
+
 ~ And if I did my math right, you’re saving a quite a few dollars
-
-
 
 ![](/assets/img_5202.jpg)
 
-
-Reducing our plastic use is critical and will require determined social and behavioural shifts. But the good news is that even the smallest switches can make a positive impact.
+Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact.
 
 Please don’t forget to share this with your family and friends. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and your community. 
 
