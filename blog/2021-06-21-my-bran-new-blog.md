@@ -37,7 +37,6 @@ o	*Handwash wasn’t included in this package which I had to buy it separately.
 ![](/assets/img_5202.jpg)
 
 
-
 Reducing our plastic use is critical and will require determined social and behavioural shifts. But the good news is that even the smallest switches can make a positive impact.
 
 Please don’t forget to share this with your family and friends. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and your community. 
