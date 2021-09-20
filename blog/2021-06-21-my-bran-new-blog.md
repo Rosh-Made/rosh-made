@@ -28,15 +28,19 @@ o	1 x The Honest Eco Dish Washing Liquid bottle
 o	1 x The Honest Eco All Purpose bottle
 o	*Handwash wasn’t included in this package which I had to buy it separately
 
-![](/assets/img_5176-2.jpg)
+![](/assets/viber_image_2021-09-21_09-17-58-101.jpg)
 
 ~ This is what I love about this: The Honest Eco offers refills or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)closer to you which means you don’t have to buy plastics bottles again. WOW!
 
-\~ Products come in 5L which means you can use for months based on your household size
+~ Products come in 5L which means you can use for months based on your household size
 
-\~ Cruelty-free and approved ingredients 
+~ Cruelty-free and approved ingredients 
 
 ~ And of course, aesthetically pleasing, beautiful, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
+
+
+
+![](/assets/img_5176-2.jpg)
 
 ~ And if I did my math right, you’re saving a quite a few dollars
 
