@@ -33,13 +33,13 @@ I started to look for some sustainable alternatives online and few options poppe
 
 ~ Has few Packages options, I've got the Complete Kitchen package (unfortunately this package specials is not available)
 
-o	1 x Dish Washing Liquid 5L
+1 x Dish Washing Liquid 5L
 
-o	1 x Multi-Purpose Cleaner 5L
+1 x Multi-Purpose Cleaner 5L
 
-o	1 x The Honest Eco Dish Washing Liquid bottle
+1 x The Honest Eco Dish Washing Liquid bottle
 
-o	1 x The Honest Eco All Purpose bottle
+1 x The Honest Eco All Purpose bottle
 
 \*Handwash wasn’t included in this package which I had to buy it separately
 
