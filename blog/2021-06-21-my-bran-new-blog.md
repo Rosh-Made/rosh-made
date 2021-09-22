@@ -2,12 +2,20 @@
 title: "Sustainable Swaps | Kitchen "
 published: true
 date: 2021-08-20T03:36:50.582Z
-description: "PURPOSE: To reduce plastic usage in the kitchen and adapting to
-  sustainable alternatives. "
+description: >-
+  PURPOSE: 
+
+
+  To reduce plastic usage in the kitchen and adapting to sustainable alternatives. 
 featuredimage: /assets/img_5176.jpg
 tags:
   - LIFESTYLE
 ---
+PURPOSE: 
+
+To reduce plastic usage in the kitchen and adapting to sustainable alternatives. 
+
+
 PROBLEM:
 
 Let’s talk about an issue that we hear on a daily basis and we use willingly or unwillingly.
