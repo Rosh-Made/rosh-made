@@ -51,11 +51,13 @@ o	1 x The Honest Eco All Purpose bottle
 
 ~ And if I did my math right, you’re saving a quite a few dollars
 
-![](/assets/img_5202.jpg)
-
 Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact.
 
 Please don’t forget to share this with your family and friends. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and your community. 
+
+![](/assets/untitled-design.jpeg)
+
+
 
 “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 — Jane Goodall
