@@ -4,7 +4,7 @@ published: true
 date: 2021-08-20T03:36:50.582Z
 description: "PURPOSE: To reduce plastic usage in the kitchen and adapting to
   sustainable alternatives. "
-featuredimage: /assets/img_5176-2.jpg
+featuredimage: /assets/img_5176.jpg
 tags:
   - LIFESTYLE
 ---
@@ -13,6 +13,8 @@ PROBLEM:
 Let’s talk about an issue that we hear on a daily basis and we use willingly or unwillingly.
 
 Yes, plastics! It has become so central to our everyday life, more frightening, by 2050 it's estimated that there could be more plastic in the ocean than fish. Let that sink IN!
+
+
 The mid last year 2020, while we were home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
 
 I started to look for some sustainable alternatives online and few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and reasons:
