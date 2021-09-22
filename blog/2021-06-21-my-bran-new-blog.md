@@ -39,7 +39,7 @@ o	1 x The Honest Eco All Purpose bottle
 \
 ~ This is what I love about this: The Honest Eco offers refills or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)closer to you which means you don’t have to buy plastics bottles again. WOW!
 
-~ Products come in 5L which means you can use for months based on your household size
+~ Comes in bulk size 5L, which means its ideal for big household
 
 ~ Cruelty-free and approved ingredients 
 
