@@ -21,15 +21,22 @@ I started to look for some sustainable alternatives online and few options poppe
 
 ~ They are partnered with [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) brands
 
-~ Has few Packages options, I got the Complete Kitchen package, that came up with 
+~ Has few Packages options, I've got the Complete Kitchen package (unfortunately this package specials is not available)
+
 o	1 x Dish Washing Liquid 5L
+
 o	1 x Multi-Purpose Cleaner 5L
+
 o	1 x The Honest Eco Dish Washing Liquid bottle
+
 o	1 x The Honest Eco All Purpose bottle
-o	*Handwash wasn’t included in this package which I had to buy it separately
 
-![](/assets/viber_image_2021-09-21_09-17-58-101.jpg)
+\*Handwash wasn’t included in this package which I had to buy it separately
 
+![](/assets/viber_image_2021-09-21_09-17-58-101-2.jpg)
+
+\
+\
 ~ This is what I love about this: The Honest Eco offers refills or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)closer to you which means you don’t have to buy plastics bottles again. WOW!
 
 ~ Products come in 5L which means you can use for months based on your household size
@@ -37,8 +44,6 @@ o	*Handwash wasn’t included in this package which I had to buy it separately
 ~ Cruelty-free and approved ingredients 
 
 ~ And of course, aesthetically pleasing, beautiful, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
-
-
 
 ![](/assets/img_5176-2.jpg)
 
