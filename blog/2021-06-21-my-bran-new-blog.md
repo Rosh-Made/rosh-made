@@ -31,7 +31,7 @@ I started to look for sustainable alternatives online and few options popped up.
 
 ~ They are partnered with [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) brands
 
-~ Has few Packages options, I've got the Complete Kitchen package (unfortunately this package specials is not available)
+~ Has few Packages options, I've got the Complete Kitchen package (unfortunately this package specials is not available, you may have to buy individually)
 
 1 x Dish Washing Liquid 5L
 
