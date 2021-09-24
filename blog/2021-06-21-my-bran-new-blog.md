@@ -11,17 +11,15 @@ featuredimage: /assets/img_5176-2.jpg
 tags:
   - LIFESTYLE
 ---
-PURPOSE: 
+BLOG PURPOSE: 
 
 To reduce plastic usage in the kitchen and adapting to sustainable alternatives. 
 
-
 PROBLEM:
 
-Let’s talk about an issue that we hear on a daily basis and we use willingly or unwillingly.
+Let’s talk about an issue that we hear on a daily basis and we consume on guilt.
 
 Yes, plastics! It has become so central to our everyday life, more frightening, by 2050 it's estimated that there could be more plastic in the ocean than fish. Let that sink IN!
-
 
 The mid last year 2020, while we were home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
 
@@ -63,9 +61,7 @@ Reducing our plastic use is critical and will require determined social and beha
 
 Please don’t forget to share this with your family and friends. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and your community. 
 
-![](/assets/untitled-design.jpeg)
-
-
+![](/assets/collage.jpeg)
 
 “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 — Jane Goodall
