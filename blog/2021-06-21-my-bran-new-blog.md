@@ -11,11 +11,11 @@ featuredimage: /assets/img_5176-2.jpg
 tags:
   - LIFESTYLE
 ---
-BLOG PURPOSE:
+**BLOG PURPOSE:**
 
 To reduce plastic usage in the kitchen and adapting to sustainable alternatives.
 
-PROBLEM:
+**PROBLEM:**
 
 Let’s talk about an issue that we hear on a daily basis and we consume on guilt.
 
@@ -25,7 +25,7 @@ The mid last year 2020, while I was home during the lockdown, I promised myself 
 
 The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
 
-SOLUTION:
+**SOLUTION:**
 
 I started to look for sustainable alternatives online, few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and 7 reasons why:
 
@@ -68,17 +68,15 @@ Other Options:
 
 ~ [](https://ecostore.com/nz/)[Eco Store](https://ecostore.com/nz/) has few [package options](https://ecostore.com/nz/shop/household/packs/) for Home/Cleaning care where you can buy directly from them but not sure if they have glass bottles. 
 
-> “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
-> — Jane Goodall
-
-
-
 ![](/assets/collage.jpeg)
-
-
 
 Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. 
 
 Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you. 
 
 Stay bless and Live Mindfully!
+
+
+
+> “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
+> — Jane Goodall
