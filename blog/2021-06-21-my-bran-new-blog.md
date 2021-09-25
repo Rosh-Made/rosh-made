@@ -30,11 +30,11 @@ The [Honest Eco](https://www.thehonesteco.nz/shop) has a refill service or else 
 
 ![](/assets/screen-shot-2021-09-25-at-4.47.56-pm.png)
 
-~ Comes in bulk size 5L, which means its ideal for big household and save trips to the store
+~ Comes in bulk size 5L, which means you save money, ideal for big household and save trips to the store
 
 ~ Cruelty-free and approved ingredients 
 
-~ Has few Packages options, I've got the Complete Kitchen package (unfortunately this package specials is not available at the moment)
+~ Has few Packages options, I've got the Complete Kitchen package (unfortunately the package specials are not available at the moment)
 
 1 x Dish Washing Liquid 5L\
 1 x Multi-Purpose Cleaner 5L\
@@ -46,18 +46,13 @@ The [Honest Eco](https://www.thehonesteco.nz/shop) has a refill service or else 
 ![Kitchen Package](/assets/viber_image_2021-09-21_09-17-58-101-2.jpg "Kitchen Package")
 
 \
-\
-~ And of course, aesthetically pleasing, beautiful, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
+~ And of course, aesthetically pleasing, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
 
-~ And if I did my math right, you’re saving a quite a few dollars
-
-Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact.
-
-Please don’t forget to share this with your family and friends. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and your community. 
+Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and your community. 
 
 ![](/assets/collage.jpeg)
 
 “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 — Jane Goodall
 
-I'm going to be covering more on sustainable swaps on another blog, stay tuned!
+I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned!
