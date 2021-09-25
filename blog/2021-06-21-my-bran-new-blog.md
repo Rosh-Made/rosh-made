@@ -33,8 +33,15 @@ I started to look for sustainable alternatives online, few options popped up.  I
 
 ~ They are partnered with well-known Eco-friendly kiwi brands: [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) 
 
+~ Has few Packages options, I've got the Complete Kitchen package (unfortunately the [package specials](https://www.thehonesteco.nz/packages) is not available at the moment)
+
+1 x Dish Washing Liquid 5L\
+1 x Multi-Purpose Cleaner 5L\
+1 x The Honest Eco Dish Washing Liquid bottle\
+1 x The Honest Eco All Purpose bottle
+
 ~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. \
-[The Honest Eco](https://www.thehonesteco.nz/shop) has a refill service or else you can take your own containers or jars to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy plastic bottles again. How incredible is this concept of refilling? LOVE it!
+[The Honest Eco](https://www.thehonesteco.nz/shop) has their own refill service or else you can take your own containers or jars to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy plastic bottles again. How incredible is this concept of refilling? LOVE it!
 
 [The Honest Eco](https://www.thehonesteco.nz/shop) Refill Service Process
 
@@ -46,23 +53,11 @@ I started to look for sustainable alternatives online, few options popped up.  I
 
 
 
-~ Comes in bulk size 5L, which means you save money, ideal for big household and save trips to the store
+~ Comes in bulk size (5L), which means you save money, ideal for big household and save trips to the store
 
-~ Cruelty-free and approved ingredients 
-
-~ Has few Packages options, I've got the Complete Kitchen package (unfortunately the package specials are not available at the moment)
-
-1 x Dish Washing Liquid 5L\
-1 x Multi-Purpose Cleaner 5L\
-1 x The Honest Eco Dish Washing Liquid bottle\
-1 x The Honest Eco All Purpose bottle
-
-\*Handwash was not included in this package. 
-
-![Kitchen Package](/assets/viber_image_2021-09-21_09-17-58-101-2.jpg "Kitchen Package")
-
+~ Cruelty-free and approved ingredients \
 \
-~ And of course, aesthetically pleasing, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
+~ And of course, aesthetically pleasing, functional & sustainable refillable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
 
 Other Options:
 
@@ -75,8 +70,6 @@ Thank you for taking your precious time to read and I hope you enjoyed my very F
 Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you. 
 
 Stay bless and Live Mindfully!
-
-
 
 > “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 > — Jane Goodall
