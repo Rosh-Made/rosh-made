@@ -59,7 +59,9 @@ I started to look for sustainable alternatives online, few options popped up.  I
 
 Other Options:
 
-~ [](https://ecostore.com/nz/)[Eco Store](https://ecostore.com/nz/) has few [package options](https://ecostore.com/nz/shop/household/packs/) for Home/Cleaning care or else you can take your own containers or jars and they will refill it for you.
+~[ Eco Store](https://ecostore.com/nz/) has few [package options](https://ecostore.com/nz/shop/household/packs/) for Home/Cleaning care or else you can take your own containers or jars and they will refill it for you.
+
+
 
 ![](/assets/collage.jpeg)
 
