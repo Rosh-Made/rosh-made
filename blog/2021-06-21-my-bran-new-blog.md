@@ -25,14 +25,10 @@ I started to look for sustainable alternatives online and few options popped up.
 
 ~ Partnered with well-known Eco-friendly kiwi brands: [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) 
 
-~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. 
-
-I love this concept of refilling. \
-The [Honest Eco offers](https://www.thehonesteco.nz/shop) have a refill service or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)where you can have your own containers and jars refilled meaning you never have to buy plastic bottles again. How incredible is this?
+~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. \
+The [Honest Eco](https://www.thehonesteco.nz/shop) has a refill service or else you can take your own containers or jars to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy plastic bottles again. How incredible is this concept of refilling? LOVE it!
 
 ![](/assets/screen-shot-2021-09-25-at-4.47.56-pm.png)
-
-
 
 ~ Comes in bulk size 5L, which means its ideal for big household and save trips to the store
 
