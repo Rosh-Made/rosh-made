@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Swaps | Kitchen "
 published: true
-date: 2021-08-20T03:36:50.582Z
+date: 2021-09-25T19:55:15.992Z
 description: >-
   PURPOSE: 
 
@@ -58,7 +58,7 @@ Reducing our plastic use is critical and will require determined social and beha
 
 ![](/assets/collage.jpeg)
 
-“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
-— Jane Goodall
+> “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
+> — Jane Goodall
 
 I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned!
