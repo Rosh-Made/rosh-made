@@ -38,10 +38,10 @@ I started to look for sustainable alternatives online, few options popped up.  I
 1 x Dish Washing Liquid 5L\
 1 x Multi-Purpose Cleaner 5L\
 1 x The Honest Eco Dish Washing Liquid Glass bottle\
-1 x The Honest Eco All Purpose Glass bottle
+1 x The Honest Eco All-Purpose Glass bottle
 
 ~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. \
-[The Honest Eco](https://www.thehonesteco.nz/shop) has their own refill service where you can send your 5L container to refill or else you can take that to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy plastic bottles again. How incredible is this concept of refilling? LOVE it!
+[The Honest Eco](https://www.thehonesteco.nz/shop) has their own refill service where you can send your 5L container to refill or else you can take that to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy new plastic bottles again. How incredible is this concept of refilling? LOVE it! 
 
 [The Honest Eco](https://www.thehonesteco.nz/shop) Refill Service Process
 
@@ -50,8 +50,6 @@ I started to look for sustainable alternatives online, few options popped up.  I
 [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) Refill process
 
 ![](/assets/ecostore.jpeg)
-
-
 
 ~ Comes in bulk size (5L), which means you save money, ideal for big household and save trips to the store
 
