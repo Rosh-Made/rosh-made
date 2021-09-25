@@ -11,63 +11,54 @@ featuredimage: /assets/img_5176-2.jpg
 tags:
   - LIFESTYLE
 ---
-PURPOSE: 
+BLOG PURPOSE:
 
-To reduce plastic usage in the kitchen and adapting to sustainable alternatives. 
-
+To reduce plastic usage in the kitchen and adapting to sustainable alternatives.
 
 PROBLEM:
 
-Let’s talk about an issue that we hear on a daily basis and we use willingly or unwillingly.
+Let’s talk about an issue that we hear on a daily basis and we consume on guilt.
 
 Yes, plastics! It has become so central to our everyday life, more frightening, by 2050 it's estimated that there could be more plastic in the ocean than fish. Let that sink IN!
 
+The mid last year 2020, while I was home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. 
 
-The mid last year 2020, while we were home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
+The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
 
-I started to look for sustainable alternatives online and few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and reasons:
-
-~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household
-
-~ They are partnered with [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) brands
-
-~ Has few Packages options, I've got the Complete Kitchen package (unfortunately this package specials is not available, you may have to buy individually)
-
-1 x Dish Washing Liquid 5L
-
-1 x Multi-Purpose Cleaner 5L
-
-1 x The Honest Eco Dish Washing Liquid bottle
-
-1 x The Honest Eco All Purpose bottle
-
-\*Handwash wasn’t included in this package which I had to buy it separately
-
-![](/assets/viber_image_2021-09-21_09-17-58-101-2.jpg)
-
-\
-\
-~ This is what I love about this: The Honest Eco offers refills or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)closer to you which means you don’t have to buy plastics bottles again. WOW!
-
-~ Comes in bulk size 5L, which means its ideal for big household
-
-~ Cruelty-free and approved ingredients 
-
-~ And of course, aesthetically pleasing, beautiful, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
+I started to look for sustainable alternatives online and few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and 7 reasons why:
 
 ![](/assets/img_5176-2.jpg)
 
-~ And if I did my math right, you’re saving a quite a few dollars
+~ Partnered with well-known Eco-friendly kiwi brands: [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) 
 
-Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact.
+~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. \
+The [Honest Eco](https://www.thehonesteco.nz/shop) has a refill service or else you can take your own containers or jars to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy plastic bottles again. How incredible is this concept of refilling? LOVE it!
 
-Please don’t forget to share this with your family and friends. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and your community. 
+![](/assets/screen-shot-2021-09-25-at-4.47.56-pm.png)
 
-![](/assets/untitled-design.jpeg)
+~ Comes in bulk size 5L, which means you save money, ideal for big household and save trips to the store
 
+~ Cruelty-free and approved ingredients 
 
+~ Has few Packages options, I've got the Complete Kitchen package (unfortunately the package specials are not available at the moment)
+
+1 x Dish Washing Liquid 5L\
+1 x Multi-Purpose Cleaner 5L\
+1 x The Honest Eco Dish Washing Liquid bottle\
+1 x The Honest Eco All Purpose bottle
+
+\*Handwash was not included in this package. 
+
+![Kitchen Package](/assets/viber_image_2021-09-21_09-17-58-101-2.jpg "Kitchen Package")
+
+\
+~ And of course, aesthetically pleasing, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
+
+Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and your community. 
+
+![](/assets/collage.jpeg)
 
 “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 — Jane Goodall
 
-I'm going to be covering more on sustainable swaps on another blog, stay tuned!
+I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned!
