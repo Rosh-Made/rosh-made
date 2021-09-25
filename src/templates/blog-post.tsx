@@ -38,6 +38,7 @@ const Content = styled.div`
   font-style: normal;
   font-weight: 300;
   font-size: 1rem;
+  text-align: justify;
   
   a {
     color: #3c87e8;
