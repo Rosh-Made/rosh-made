@@ -11,49 +11,47 @@ featuredimage: /assets/img_5176-2.jpg
 tags:
   - LIFESTYLE
 ---
-BLOG PURPOSE: 
-
-To reduce plastic usage in the kitchen and adapt to sustainable alternatives. 
-
-PROBLEM:
-
 Let’s talk about an issue that we hear on a daily basis and we consume on guilt.
 
 Yes, plastics! It has become so central to our everyday life, more frightening, by 2050 it's estimated that there could be more plastic in the ocean than fish. Let that sink IN!
 
-The mid last year 2020, while I was home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
+The mid last year 2020, while I was home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. 
 
-I started to look for sustainable alternatives online and few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and reasons:
+The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
 
-~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household
+I started to look for sustainable alternatives online and few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and 7 reasons why:
 
-~ They are partnered with [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) brands
+![](/assets/img_5176-2.jpg)
 
-~ Has few Packages options, I've got the Complete Kitchen package (unfortunately this package specials is not available, you may have to buy individually)
+~ Partnered with well-known Eco-friendly kiwi brands: [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) 
 
-1 x Dish Washing Liquid 5L
+~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. 
 
-1 x Multi-Purpose Cleaner 5L
+I love this concept of refilling. \
+The [Honest Eco offers](https://www.thehonesteco.nz/shop) have a refill service or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)where you can have your own containers and jars refilled meaning you never have to buy plastic bottles again. How incredible is this?
 
-1 x The Honest Eco Dish Washing Liquid bottle
+![](/assets/screen-shot-2021-09-25-at-4.47.56-pm.png)
 
-1 x The Honest Eco All Purpose bottle
 
-\*Handwash wasn’t included in this package which I had to buy it separately
 
-![](/assets/viber_image_2021-09-21_09-17-58-101-2.jpg)
-
-\
-\
-~ This is what I love about this: The Honest Eco offers refills or else you can visit any [Refill nation stores by Eco Store ](https://ecostore.com/nz/storelocator/refill/)closer to you which means you don’t have to buy plastics bottles again. WOW!
-
-~ Comes in bulk size 5L, which means its ideal for big household
+~ Comes in bulk size 5L, which means its ideal for big household and save trips to the store
 
 ~ Cruelty-free and approved ingredients 
 
-~ And of course, aesthetically pleasing, beautiful, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
+~ Has few Packages options, I've got the Complete Kitchen package (unfortunately this package specials is not available at the moment)
 
-![](/assets/img_5176-2.jpg)
+1 x Dish Washing Liquid 5L\
+1 x Multi-Purpose Cleaner 5L\
+1 x The Honest Eco Dish Washing Liquid bottle\
+1 x The Honest Eco All Purpose bottle
+
+\*Handwash was not included in this package. 
+
+![Kitchen Package](/assets/viber_image_2021-09-21_09-17-58-101-2.jpg "Kitchen Package")
+
+\
+\
+~ And of course, aesthetically pleasing, beautiful, functional & sustainable [Glass bottles](https://www.thehonesteco.nz/bottles) with labels on your preference. 
 
 ~ And if I did my math right, you’re saving a quite a few dollars
 
