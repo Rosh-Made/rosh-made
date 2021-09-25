@@ -11,6 +11,12 @@ featuredimage: /assets/img_5176-2.jpg
 tags:
   - LIFESTYLE
 ---
+BLOG PURPOSE:
+
+To reduce plastic usage in the kitchen and adapting to sustainable alternatives.
+
+PROBLEM:
+
 Let’s talk about an issue that we hear on a daily basis and we consume on guilt.
 
 Yes, plastics! It has become so central to our everyday life, more frightening, by 2050 it's estimated that there could be more plastic in the ocean than fish. Let that sink IN!
