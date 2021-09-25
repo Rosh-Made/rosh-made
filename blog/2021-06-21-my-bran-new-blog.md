@@ -36,15 +36,15 @@ I started to look for sustainable alternatives online, few options popped up.  I
 ~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. \
 [The Honest Eco](https://www.thehonesteco.nz/shop) has a refill service or else you can take your own containers or jars to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy plastic bottles again. How incredible is this concept of refilling? LOVE it!
 
+[The Honest Eco](https://www.thehonesteco.nz/shop) Refill Service Process
+
 ![](/assets/screen-shot-2021-09-25-at-4.47.56-pm.png)
 
-[The Honest Eco](https://www.thehonesteco.nz/shop) Refill Service
-
-
+[Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) Refill process
 
 ![](/assets/ecostore.jpeg)
 
-[Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) Refill Station
+
 
 ~ Comes in bulk size 5L, which means you save money, ideal for big household and save trips to the store
 
@@ -73,7 +73,7 @@ Other Options:
 > “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 > — Jane Goodall
 
-Thank you for taking your time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. 
+Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. 
 
 Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you. 
 
