@@ -68,10 +68,14 @@ Other Options:
 
 ~ [](https://ecostore.com/nz/)[Eco Store](https://ecostore.com/nz/) has few [package options](https://ecostore.com/nz/shop/household/packs/) for Home/Cleaning care where you can buy directly from them but not sure if they have glass bottles. 
 
-![](/assets/collage.jpeg)
-
 > “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 > — Jane Goodall
+
+
+
+![](/assets/collage.jpeg)
+
+
 
 Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. 
 
