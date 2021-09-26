@@ -7,8 +7,16 @@ featuredimage: /assets/img_4399.jpg
 tags:
   - HOME
 ---
-Statice flowers are vivid Mediterranean imports that have found favor with florists, crafters, and home gardeners alike who appreciate the showy, long-lasting bracts. You won’t find statice plants in many nurseries, but the seeds are cheap and sprout readily even for those with brownish thumbs. Due to its funky, musty odor, you won’t want to bury your nose in a statice bouquet, but you will find the rugged plants a pleasing addition to rock gardens or seaside landscapes.
+BLOG PURPOSE: 
 
-
+How to grow ever-lasting vibrant and paper-textured statice flowers in your home garden. 
 
 ![](/assets/img_4814.jpg)
+
+REASON: 
+
+I'm a flower girl, they make me the happiest, are we relatable ? ;) 
+
+I buy fresh cut flowers every month mostly during summer. But boy oh boy they can be crazy expensive, Statice, Sunflowers, Eucalyptus (it's foliage) are a few of my favourites but in that naughty expensive list. If I'm not mistaken 10 stem bunches of statice is 40 bucks (NZ). Say what! 
+
+This is when it hit me why not try growing them in my garden. hmm.
