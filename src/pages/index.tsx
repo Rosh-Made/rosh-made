@@ -26,7 +26,7 @@ interface Frontmatter {
 
 const Container = styled(Grid)`
   margin-top: 0.25rem;
-  @media(max-width: 600px) {
+  @media (max-width: 600px) {
     width: 100%;
     margin-left: 0;
     margin-right: 0;
@@ -38,14 +38,13 @@ const Container = styled(Grid)`
 `
 
 const CardContainer = styled(Grid)`
-  @media(max-width: 600px) {
+  @media (max-width: 600px) {
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
 `
 
-const Index: FC<{location:any}> = ({location}) => {
-
+const Index: FC<{ location: any }> = ({ location }) => {
   const data = useStaticQuery(graphql`
     query HeaderQuery {
       site {
@@ -61,7 +60,7 @@ const Index: FC<{location:any}> = ({location}) => {
 
       blog: allMarkdownRemark(
         sort: { order: DESC, fields: frontmatter___date }
-        filter: {frontmatter: {published: {eq: true}}}
+        filter: { frontmatter: { published: { eq: true } } }
       ) {
         posts: nodes {
           fields {
@@ -72,10 +71,10 @@ const Index: FC<{location:any}> = ({location}) => {
             title
             featuredimage {
               childImageSharp {
-                 gatsbyImageData(
+                gatsbyImageData(
                   width: 500
                   aspectRatio: 0.8
-                  transformOptions: {cropFocus: CENTER}
+                  transformOptions: { cropFocus: CENTER }
                   placeholder: BLURRED
                 )
               }
@@ -89,22 +88,32 @@ const Index: FC<{location:any}> = ({location}) => {
     }
   `)
 
-  const params = new URLSearchParams(location.search);
-  const tag = params.get("tag");
+  const params = new URLSearchParams(location.search)
+  const tag = params.get("tag")
 
-  const posts = data.blog.posts.filter((post: Post) => !tag || post.frontmatter.tags.includes(tag));
+  const posts = data.blog.posts.filter((post: Post) => {
+    return (
+      !tag ||
+      !!post.frontmatter.tags.find(t => t.toUpperCase() === tag.toUpperCase())
+    )
+  })
 
   return (
     <Layout>
-
       <Helmet>
         <meta charSet="utf-8" />
         <title>Roshmade - Personal Blog</title>
         <link rel="canonical" href="https://www.roshmade.com" />
 
         <meta property="og:title" content="Roshmade - Personal Blog" />
-        <meta property="og:description" content="Roshmade is my journal blog where I share my passion for the planet, home design, travel, and creative + mindful living." />
-        <meta property="og:image" content="https://www.roshmade.com/static/97a1978370520a4559a3f54fd1ba2eb0/a6d46/IMG_4751.webp" />
+        <meta
+          property="og:description"
+          content="Roshmade is my journal blog where I share my passion for the planet, home design, travel, and creative + mindful living."
+        />
+        <meta
+          property="og:image"
+          content="https://www.roshmade.com/static/97a1978370520a4559a3f54fd1ba2eb0/a6d46/IMG_4751.webp"
+        />
       </Helmet>
 
       <Container spacing={10} container>

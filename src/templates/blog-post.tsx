@@ -48,6 +48,8 @@ const Content = styled.div`
 
 const ShareButtons = styled.div`
   margin-top: 2rem;
+  display: flex;
+  justify-content: flex-end;
 `
 
 const BlogPost: FC<any> = ({ data }) => {
@@ -68,13 +70,14 @@ const BlogPost: FC<any> = ({ data }) => {
         <meta
           property="og:url"
           content={`https://www.roshmade.com/${post.fields.slug}`}
-        />
-        <meta
+
+        /><meta
           property="og:title"
           content={`Roshmade Blog - ${post.frontmatter.title}`}
+
+        /><meta property="og:type" content="article" />
+        <meta property="og:description" content={post.excerpt}
         />
-        <meta property="og:type" content="article" />
-        <meta property="og:description" content={post.excerpt} />
         <meta property="og:image" content={featuredimage} />
       </Helmet>
 
@@ -85,7 +88,7 @@ const BlogPost: FC<any> = ({ data }) => {
         </BlogHeaderContainer>
         <Content dangerouslySetInnerHTML={{ __html: post.html }} />
         <ShareButtons>
-          <div className="sharethis-inline-share-buttons" />
+          <div className="s9-widget-wrapper" />
         </ShareButtons>
       </Container>
     </Layout>
