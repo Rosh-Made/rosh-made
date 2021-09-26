@@ -61,13 +61,11 @@ Other Options:
 
 ~[ Eco Store](https://ecostore.com/nz/) has few [package options](https://ecostore.com/nz/shop/household/packs/) for Home/Cleaning care or else you can take your own containers or jars and they will refill it for you.
 
-
-
-![](/assets/collage.jpeg)
-
 Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. 
 
 Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you. 
+
+![](/assets/collage.jpeg)
 
 Stay bless and Live Mindfully!
 
