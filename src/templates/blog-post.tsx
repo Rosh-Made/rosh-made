@@ -70,15 +70,13 @@ const BlogPost: FC<any> = ({ data }) => {
         <meta
           property="og:url"
           content={`https://www.roshmade.com/${post.fields.slug}`}
-        />
-        <meta
+
+        /><meta
           property="og:title"
           content={`Roshmade Blog - ${post.frontmatter.title}`}
-        />
-        <meta property="og:type" content="article" />
-        <meta
-          property="og:description"
-          content={post.frontmatter.description}
+
+        /><meta property="og:type" content="article" />
+        <meta property="og:description" content={post.excerpt}
         />
         <meta property="og:image" content={featuredimage} />
       </Helmet>
