@@ -39,7 +39,7 @@ const Content = styled.div`
   font-weight: 300;
   font-size: 1rem;
   text-align: justify;
-  
+
   a {
     color: #3c87e8;
     text-decoration: none;
@@ -48,23 +48,38 @@ const Content = styled.div`
 
 const ShareButtons = styled.div`
   margin-top: 2rem;
+  display: flex;
+  justify-content: flex-end;
 `
 
 const BlogPost: FC<any> = ({ data }) => {
-  const post = data.markdownRemark;
-  const featuredimage = `https://www.roshmade.com${getSrc(post.frontmatter.featuredimage)}`;
+  const post = data.markdownRemark
+  const featuredimage = `https://www.roshmade.com${getSrc(
+    post.frontmatter.featuredimage
+  )}`
   return (
     <Layout>
-
       <Helmet>
         <meta charSet="utf-8" />
         <title>{`Roshmade - ${post.frontmatter.title}`}</title>
-        <link rel="canonical" href={`https://www.roshmade.com/${post.fields.slug}`} />
+        <link
+          rel="canonical"
+          href={`https://www.roshmade.com/${post.fields.slug}`}
+        />
 
-        <meta property="og:url" content={`https://www.roshmade.com/${post.fields.slug}`} />
-        <meta property="og:title" content={`Roshmade Blog - ${post.frontmatter.title}`} />
-        <meta property="og:type"  content="article" />
-        <meta property="og:description" content={post.frontmatter.description} />
+        <meta
+          property="og:url"
+          content={`https://www.roshmade.com/${post.fields.slug}`}
+        />
+        <meta
+          property="og:title"
+          content={`Roshmade Blog - ${post.frontmatter.title}`}
+        />
+        <meta property="og:type" content="article" />
+        <meta
+          property="og:description"
+          content={post.frontmatter.description}
+        />
         <meta property="og:image" content={featuredimage} />
       </Helmet>
 
@@ -74,8 +89,8 @@ const BlogPost: FC<any> = ({ data }) => {
           <Title>{post.frontmatter.title}</Title>
         </BlogHeaderContainer>
         <Content dangerouslySetInnerHTML={{ __html: post.html }} />
-        <ShareButtons >
-          <div className="sharethis-inline-share-buttons" />
+        <ShareButtons>
+          <div className="s9-widget-wrapper" />
         </ShareButtons>
       </Container>
     </Layout>
@@ -95,7 +110,7 @@ export const query = graphql`
             gatsbyImageData(
               width: 400
               aspectRatio: 1
-              transformOptions: {cropFocus: CENTER}
+              transformOptions: { cropFocus: CENTER }
               quality: 100
             )
           }

@@ -1093,7 +1093,7 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.14.8", "@babel/runtime@^7.15.4":
+"@babel/runtime@^7.10.3", "@babel/runtime@^7.14.8", "@babel/runtime@^7.15.4":
   version "7.15.4"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.15.4.tgz#fd17d16bfdf878e6dd02d19753a39fa8a8d9c84a"
   integrity sha512-99catp6bHCaxr4sJ/DbTGgHS4+Rs2RVd2g7iOap6SLGPDknRK9ztKNsE/Fg6QhSeh1FGE5f6gHGQmvvn3I3xhw==
@@ -7021,6 +7021,14 @@ gatsby-plugin-sharp@^3.8.0:
     sharp "^0.28.0"
     svgo "1.3.2"
     uuid "3.4.0"
+
+gatsby-plugin-social9-socialshare@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-social9-socialshare/-/gatsby-plugin-social9-socialshare-1.0.5.tgz#989d1612ca11cc2b61913ab2735741e8dfd9af66"
+  integrity sha512-vz3ZtSxG87CMqNuspmB9GrJ7LV+WODSyD6EYImXlHUUcxQL23ZNta8+QF1nhsl3Yt33PHjD5mhy7dj/WcBnUsQ==
+  dependencies:
+    "@babel/runtime" "^7.10.3"
+    minimatch "3.0.4"
 
 gatsby-plugin-styled-components@^4.7.1:
   version "4.7.1"
