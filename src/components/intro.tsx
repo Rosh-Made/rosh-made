@@ -19,7 +19,7 @@ const Pitch = styled.div`
 `
 
 const Title = styled.h3`
- margin-bottom: 0;
+  margin-bottom: 0;
 `
 
 const CircleImage = styled.div`
@@ -33,12 +33,15 @@ const CircleImage = styled.div`
   -moz-border-radius: 50%;
   -moz-background-clip: padding;
   background-clip: padding-box;
-  
+
   img {
     display: inline;
     margin: 0 auto;
     height: 100%;
     width: auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
   }
 `
 
@@ -50,7 +53,7 @@ const Intro = () => {
           gatsbyImageData(
             width: 200
             aspectRatio: 1
-            transformOptions: {cropFocus: CENTER}
+            transformOptions: { cropFocus: CENTER }
             placeholder: BLURRED
           )
         }
@@ -58,7 +61,7 @@ const Intro = () => {
     }
   `)
 
-  const profilePic = getImage(data.profilePic);
+  const profilePic = getImage(data.profilePic)
 
   return (
     <Container>
@@ -67,11 +70,12 @@ const Intro = () => {
       </CircleImage>
       <Title>Welcome to Roshmade</Title>
       <Pitch>
-      <p>Hello there,</p>
-      I'm Roshani, 31, fulltime IT professional, based in Auckland, NZ. 
-      Roshmade is my journal blog where I share my passion for the planet, home design, travel, and creative + mindful living.
-      Enjoy your time here :)
-      <p>Rosh x</p>
+        <p>Hello there,</p>
+        I'm Roshani, 31, fulltime IT professional, based in Auckland, NZ.
+        Roshmade is my journal blog where I share my passion for the planet,
+        home design, travel, and creative + mindful living. Enjoy your time here
+        :)
+        <p>Rosh x</p>
       </Pitch>
       <SocialIcons />
     </Container>
