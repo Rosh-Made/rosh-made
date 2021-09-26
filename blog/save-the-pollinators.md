@@ -9,9 +9,14 @@ featuredimage: /assets/img_5040-2.jpg
 tags:
   - Home
 ---
+**BLOG PURPOSE:**
+
+Bring the awareness of declining Pollinators & what we can do as individuals.
+
 ![](/assets/img_5040-copy.jpg)
 
-What’s come to your mind when you think about flowers, plants, and trees?
+What’s come to your mind when you think about flowers, plants, and trees?\
+
 Yes, they are beautiful, delicate, bring a splash of colors to the garden, and perfect for attracting beautiful insects. 
 
 But hey! they also play a vital role in the functioning of our ecosystems. This is especially true in the case of pollinators. In Simple, the functioning of our ecosystem rests on the tiny backs of these pollinators – a big burden for their little shoulders to bear! 
@@ -22,13 +27,22 @@ This amazing wildlife moves from plant to plant while searching for protein-rich
 
 Here's a little art that explains pollination.
 
-Current Issue
+![](/assets/pollination.png)
+
+
+
+**PROBLEM:**
+
+
 Pollinators are in trouble and are dropping at a terrifying rate worldwide. These little workers are so essential for our natural world, and they are more important than ever.
 Bees are the most important pollinators, including butterflies, moths, wasps, flies, and beetle.
 Reasons 
 Habitat loss, invasive species, parasites, and pesticides are largely to blame.
-How
-       So, if there’s anything we can do to give them a helping hand, we definitely should! Here are few simple things that you could do.
+
+
+**SOLUTION:**      
+
+ So, if there’s anything we can do to give them a helping hand, we definitely should! Here are few simple things that you could do.
 •	Become a backyard wildlife gardener:\
 All you need to do is grow plants that attract and help pollinators, here are my top bee-friendly plants that are easy to grow and must-have. 
 Flowers: Cornflower, Sunflower, Dahlia, Daisy, Marigold
@@ -57,8 +71,6 @@ Benefits
 •	Gardening is a great therapy; it really does rejuvenate your soul. Nothing makes me happier than being in the garden, watching something grow from nothing, seeing the beautiful pollinators, and relishing your great outdoors. Go and make a difference for wildlife like pollinators! and Happy Gardening....
 
 ![](/assets/img_5470-2.jpg)
-
-
 
 > To sow a seed is to have hope for the future. 
 >
