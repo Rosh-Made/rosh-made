@@ -68,12 +68,13 @@ Spread the word among your friends and family, use your social media to share ho
 ~ A great summer project for kids
 An educational + fun project to do with the kids. Start with swan plants, sunflower seeds…
 
-Benefits
-•	Attracts not only bees but other pollinating insects from spring through summer 
-•	Reproduce and produce enough seeds for dispersal and propagation
-•	Help with warding off unwanted insects, such as fleas, flies, and mosquitoes.
-•	All these flowers I listed above has a pretty good flowering duration
-•	Gardening is a great therapy; it really does rejuvenate your soul. Nothing makes me happier than being in the garden, watching something grow from nothing, seeing the beautiful pollinators, and relishing your great outdoors. Go and make a difference for wildlife like pollinators! and Happy Gardening....
+**BENEFITS**
+
+* Attracts not only bees but other pollinating insects from spring through summer 
+* Reproduce and produce enough seeds for dispersal and propagation
+* Help with warding off unwanted insects, such as fleas, flies, and mosquitoes.
+* All these flowers I listed above has a pretty good flowering duration
+* Gardening is a great therapy; it really does *rejuvenate your soul*. Nothing makes me happier than being in the garden, watching something grow from nothing, seeing the beautiful pollinators, and relishing your great outdoors. Go and make a difference for wildlife like pollinators! and Happy Gardening.
 
 ![](/assets/img_5470-2.jpg)
 
