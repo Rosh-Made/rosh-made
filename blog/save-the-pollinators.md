@@ -29,38 +29,43 @@ Here's a little art that explains pollination.
 
 ![](/assets/pollination.png)
 
-
-
 **PROBLEM:**
-
 
 Pollinators are in trouble and are dropping at a terrifying rate worldwide. These little workers are so essential for our natural world, and they are more important than ever.
 Bees are the most important pollinators, including butterflies, moths, wasps, flies, and beetle.
 Reasons 
 Habitat loss, invasive species, parasites, and pesticides are largely to blame.
 
-
 **SOLUTION:**      
 
  So, if there’s anything we can do to give them a helping hand, we definitely should! Here are few simple things that you could do.
-•	Become a backyard wildlife gardener:\
-All you need to do is grow plants that attract and help pollinators, here are my top bee-friendly plants that are easy to grow and must-have. 
-Flowers: Cornflower, Sunflower, Dahlia, Daisy, Marigold
-Herbs: Lavender, Borage, Thyme, Sage, Fennel, Rosemary
-Natives: Pohutukawa, Rata
-Shrubs: Swan Plant, Hibiscus, Hydrangeas, Citrus
+
+
+~ Become a backyard wildlife gardener:\
+\
+All you need to do is grow plants that attract and help pollinators, here are my top bee-friendly plants that are easy to grow and must-have. \
+
+Flowers: **Cornflower, Sunflower, Dahlia, Daisy, Marigold**\
+
+Herbs: **Lavender, Borage, Thyme, Sage, Fennel, Rosemary**\
+
+Natives: **Pohutukawa, Rata**\
+
+Shrubs: **Swan Plant, Hibiscus, Hydrangeas, Citrus**
 
 ![](/assets/img_5093.jpg)
 
-Hints: 
-You don’t need a big backyard, what you have is more than enough. 
-I’d suggest you buy plants if you’re a beginner, but also you can try to sow seeds. 
-You don’t have to start big, just start with a couple, and see how it goes. This is my second year planting, so I’m going big this time ;) 
-They need water just like other species, so keep water for them.
-•	Use social media for the better! 
+*Hints:* 
+
+* You don’t need a big backyard, what you have is more than enough. 
+* I’d suggest you buy seedlings if you’re a beginner, but also you can try sowing seeds. 
+* You don’t have to start big, just start with a couple, and see how it goes. This is my second year planting, so I’m going big this time ;) 
+* They need water just like other species, so keep water for them.
+
+~ Use social media for the better! 
 Spread the word among your friends and family, use your social media to share how important it is to grow plants, and your amazing progress.  
 
-•	A great summer project for kids
+~ A great summer project for kids
 An educational + fun project to do with the kids. Start with swan plants, sunflower seeds…
 
 Benefits
