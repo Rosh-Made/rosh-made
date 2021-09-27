@@ -40,7 +40,6 @@ Habitat loss, invasive species, parasites, and pesticides are largely to blame.
 
  So, if there’s anything we can do to give them a helping hand, we definitely should! Here are few simple things that you could do.
 
-
 ~ Become a backyard wildlife gardener:\
 \
 All you need to do is grow plants that attract and help pollinators, here are my top bee-friendly plants that are easy to grow and must-have. \
@@ -78,6 +77,6 @@ An educational + fun project to do with the kids. Start with swan plants, sunflo
 
 ![](/assets/img_5470-2.jpg)
 
-> To sow a seed is to have hope for the future. 
+> "To sow a seed is to have hope for the future". 
 >
 > \- Unknown
