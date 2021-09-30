@@ -1,9 +1,11 @@
 import React, { FC, useState } from "react"
 import {
   AppBar,
+  Backdrop,
   createMuiTheme,
   CssBaseline,
   IconButton,
+  makeStyles,
   MuiThemeProvider,
 } from "@material-ui/core"
 import styled from "styled-components"
@@ -24,7 +26,7 @@ const Header = styled(AppBar)`
   align-items: center;
   color: #5f5f5f;
   background-color: #fff;
-  z-index: 34;
+  z-index: 33;
   position: relative;
 
   @media (min-width: 960px) {
@@ -126,9 +128,18 @@ const FooterLinks = styled.div`
   }
 `
 
+const useStyles = makeStyles(theme => ({
+  backdrop: {
+    zIndex: 34,
+    backgroundColor: "transparent",
+  },
+}))
+
 const Layout: FC = ({ children }) => {
   const [visible, setVisible] = useState(false)
+  const classes = useStyles()
 
+  // @ts-ignore
   return (
     <MuiThemeProvider theme={themeLight}>
       <CssBaseline />
@@ -141,7 +152,13 @@ const Layout: FC = ({ children }) => {
           >
             <MenuIcon fontSize="large" />
           </IconButton>
-          <SlideInMenu visible={visible} close={() => setVisible(false)} />
+          <Backdrop
+            className={classes.backdrop}
+            open={visible}
+            onClick={() => setVisible(false)}
+          >
+            <SlideInMenu visible={visible} close={() => setVisible(false)} />
+          </Backdrop>
         </div>
         <Logo />
         <div>
