@@ -26,3 +26,5 @@ I started with Statice, a year later, now I have this beautiful bunch of statice
 Stay tuned on how to grow statice from seeds and for plant care tips and hacks (to be honest, Statice is low maintenance).
 
 ![](/assets/img_3553_jpg.jpg)
+
+Blog Coming soon...
