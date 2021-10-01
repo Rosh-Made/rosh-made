@@ -23,9 +23,13 @@ But hey! they also play a vital role in the functioning of our ecosystems. This 
 
 The aim of this blog is to bring awareness about the Pollinators who are in trouble and if there's anything we can give them a helping hand with, we definitely should! 
 
-Stay tuned for what we can/could do! 
+Stay tuned for what we can/could do!
+
+Blog Coming soon...
 
 ![](/assets/img_5509.jpg)
+
+
 
 > "To sow a seed is to have hope for the future". 
 >
