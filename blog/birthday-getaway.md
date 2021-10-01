@@ -19,3 +19,5 @@ If you're looking for a unique hideaway to unwind and unplug from the world, enj
 Stay tuned if you want to know what our experience was like and enjoy this small clip of our stay. 
 
 `youtube: https://www.youtube.com/watch?v=IaobeakZgmA`
+
+Blog Coming soon...
