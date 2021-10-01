@@ -52,7 +52,7 @@ I started to look for sustainable alternatives online, few options popped up.  I
 
 ![](/assets/ecostore.jpeg)
 
-~ Comes in bulk size (5L), which means you save money, ideal for big household and save trips to the store
+~ Comes in bulk size (5L), which means you save money, ideal for big households, and save trips to the store
 
 ~ Cruelty-free and approved ingredients \
 \
@@ -62,9 +62,11 @@ Other Options:
 
 ~[ Eco Store](https://ecostore.com/nz/) has few [package options](https://ecostore.com/nz/shop/household/packs/) for Home/Cleaning care or else you can take your own containers or jars and they will refill it for you.
 
-Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. 
+~ [Dazz NZ](https://dazz.co.nz/) is another great option, which I found out only recently. Their concept is simple, turning cleaning tablets + Water into your household cleaning spray! 
 
-Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you. 
+Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you.
+
+Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. Planet earth will thank you!
 
 ![](/assets/collage.jpeg)
 
