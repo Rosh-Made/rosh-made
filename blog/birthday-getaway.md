@@ -16,8 +16,6 @@ The concept of *Glamping* is a fusion of glamor + camping where stunning nature 
 
 If you're looking for a unique hideaway to unwind and unplug from the world, enjoy breathtaking panoramic views, and experience the peaceful New Zealand Countryside, then [Waitomo Hilltop Glamping](https://www.waitomoglamping.nz/) is the SPOT! 
 
-
-
-
+Stay tuned if you want to know what our experience was like and enjoy this small clip of our stay. 
 
 `youtube: https://www.youtube.com/watch?v=IaobeakZgmA`
