@@ -21,9 +21,11 @@ Yes, they are beautiful, delicate, bring a splash of colors to the garden.
 
 But hey! they also play a vital role in the functioning of our ecosystems. This is especially true in the case of pollinators. In Simple, the functioning of our ecosystem rests on the tiny backs of these pollinators – a big burden for their little shoulders to bear! 
 
+The aim of this blog is to bring awareness to the Pollinators who are in trouble and if there's anything we can (of course so many) give them a helping hand, we definitely should! 
 
+Stay tuned for what we can/could do! 
 
-![](/assets/img_5470-2.jpg)
+![](/assets/img_5509.jpg)
 
 > "To sow a seed is to have hope for the future". 
 >
