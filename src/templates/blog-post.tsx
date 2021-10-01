@@ -87,9 +87,6 @@ const BlogPost: FC<any> = ({ data }) => {
           <Title>{post.frontmatter.title}</Title>
         </BlogHeaderContainer>
         <Content dangerouslySetInnerHTML={{ __html: post.html }} />
-        <ShareButtons>
-          <div className="s9-widget-wrapper" />
-        </ShareButtons>
       </Container>
     </Layout>
   )
