@@ -23,6 +23,6 @@ This was one of the primary reason that I started growing plants at home.
 
 I started with Statice, a year later, now I have this beautiful bunch of statice sitting in the entranceway, which make me realize that I could literally grow anything and that's when my passion for plants begun. 
 
-Stay tuned on how to grow statice from seeds, for plant care tips, and many more. 
+Stay tuned on how to grow statice from seeds and for plant care tips and hacks (to be honest, Statice is low maintenance).
 
 ![](/assets/img_3553_jpg.jpg)
