@@ -3,7 +3,7 @@ title: Before + After | Bedroom Makeover
 published: true
 date: 2021-07-01T00:02:54.857Z
 description: Another special blog
-featuredimage: /assets/img_2394.jpg
+featuredimage: /assets/img_2365.jpg
 tags:
   - Home
 ---
