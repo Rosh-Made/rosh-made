@@ -17,17 +17,17 @@ Yes, plastics! It has become so central to our everyday life, more frightening, 
 
 The mid last year 2020, while I was home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. 
 
-The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
+The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dishwash, Handwash, clean spray) in plastic bottles every time they ran over. 
 
 I started to look for sustainable alternatives online, few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and 7 reasons why:
 
 ![](/assets/img_5176-2.jpg)
 
-~ They are partnered with well-known Eco-friendly kiwi brands: [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) 
+~ They are partners with well-known Eco-friendly kiwi brands: [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) 
 
-~ Has few Packages options, I've got the Complete Kitchen package (unfortunately the [package specials](https://www.thehonesteco.nz/packages) is not available at the moment)
+~ Have a few Package options, I've got the Complete Kitchen package (unfortunately the [package specials](https://www.thehonesteco.nz/packages) is not available at the moment)
 
-1 x Dish Washing Liquid 5L\
+1 x Dishwashing Liquid 5L\
 1 x Multi-Purpose Cleaner 5L\
 1 x The Honest Eco Dish Washing Liquid Glass bottle\
 1 x The Honest Eco All-Purpose Glass bottle
@@ -57,11 +57,11 @@ Other Options:
 
 Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you.
 
-Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. Planet earth will thank you!
+Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. Planet Earth will thank you!
 
 ![](/assets/collage.jpeg)
 
-Stay bless and Live Mindfully!
+Stay blessed and Live Mindfully!
 
 > “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 > — Jane Goodall
