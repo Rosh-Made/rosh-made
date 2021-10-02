@@ -27,7 +27,7 @@ I started to look for sustainable alternatives online, few options popped up.  I
 
 ~ Have a few Package options, I've got the Complete Kitchen package (unfortunately the [package specials](https://www.thehonesteco.nz/packages) is not available at the moment)
 
-1 x Dish Washing Liquid 5L\
+1 x Dishwashing Liquid 5L\
 1 x Multi-Purpose Cleaner 5L\
 1 x The Honest Eco Dish Washing Liquid Glass bottle\
 1 x The Honest Eco All-Purpose Glass bottle
