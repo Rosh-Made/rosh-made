@@ -13,10 +13,12 @@ If you're someone thinking of moving to software testing and want to know
 
 ~ How to get into the field?
 
+~ Software Testing market in NZ
+
 ~ How to have a smoother career switch? 
 
 ~ What my journey was like?
 
 ~ and What it's like working as a software tester?
 
-keep an eye on here for some important pointers and tips.
+keep an eye on here for some career guides, important pointers, and tips.
