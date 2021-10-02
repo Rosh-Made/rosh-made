@@ -1,5 +1,5 @@
 ---
-title: "Home to grow | Statice Flowers "
+title: "How to grow | Statice Flowers "
 published: true
 date: 2021-08-05T20:43:07.762Z
 description: Statice flowers
