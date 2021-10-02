@@ -23,7 +23,7 @@ I started to look for sustainable alternatives online, few options popped up.  I
 
 ![](/assets/img_5176-2.jpg)
 
-~ They are partnered with well-known Eco-friendly kiwi brands: [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) 
+~ They are partners with well-known Eco-friendly kiwi brands: [Eco store](https://ecostore.com/nz/) + [Earthwise](https://earthwise.co.nz/) 
 
 ~ Has few Packages options, I've got the Complete Kitchen package (unfortunately the [package specials](https://www.thehonesteco.nz/packages) is not available at the moment)
 
