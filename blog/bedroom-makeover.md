@@ -1,10 +1,10 @@
 ---
 title: Before + After | Bedroom Makeover
 published: true
-date: 2021-07-30T08:21:36.262Z
+date: 2021-07-01T00:02:54.857Z
 description: Another special blog
 featuredimage: /assets/img_2394.jpg
 tags:
   - Home
 ---
-This will be more content of the blog
+Someone who has the heart and soul for interior design, Renovating our very first home was honestly a dream come true. I cannot emphasize enough how much I loved the whole process of renovation and cannot wait to share my experience with you all.
