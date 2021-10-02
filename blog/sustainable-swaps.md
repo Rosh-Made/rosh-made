@@ -19,8 +19,6 @@ The mid last year 2020, while I was home during the lockdown, I promised myself 
 
 The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dish wash, Hand wash, clean spray) in plastic bottles every time they ran over. 
 
-
-
 I started to look for sustainable alternatives online, few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and 7 reasons why:
 
 ![](/assets/img_5176-2.jpg)
