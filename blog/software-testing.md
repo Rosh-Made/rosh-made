@@ -23,4 +23,6 @@ If you're someone thinking of moving to software testing and want to know
 
 ~ and What it's like working as a software tester?
 
-keep an eye on here for some career guides, important pointers, and tips.
+keep an eye on here for some career guides, important pointers, and tips. 
+
+![](/assets/img_3875.jpg)
