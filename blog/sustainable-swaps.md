@@ -61,7 +61,7 @@ Thank you for taking your precious time to read and I hope you enjoyed my very F
 
 ![](/assets/collage.jpeg)
 
-Stay bless and Live Mindfully!
+Stay blessed and Live Mindfully!
 
 > “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 > — Jane Goodall
