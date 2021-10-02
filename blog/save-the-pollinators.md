@@ -9,9 +9,7 @@ featuredimage: /assets/img_5040-2.jpg
 tags:
   - Home
 ---
-**BLOG PURPOSE:**
 
-Bring the awareness of declining Pollinators & what we can do as individuals.
 
 ![](/assets/img_5040-copy.jpg)
 
@@ -28,8 +26,6 @@ Stay tuned for what we can/could do!
 Blog Coming soon...
 
 ![](/assets/img_5509.jpg)
-
-
 
 > "To sow a seed is to have hope for the future". 
 >
