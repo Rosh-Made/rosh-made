@@ -13,7 +13,9 @@ If you're someone thinking of moving to software testing and want to know
 
 ~ How to get into the field?
 
-~ Software Testing market in NZ
+~ What's the current New Zealand Job market is like for Software Testers?
+
+~ What are the current hot skills (Soft + Technical) companies are looking for?  
 
 ~ How to have a smoother career switch? 
 
