@@ -8,3 +8,5 @@ tags:
   - Home
 ---
 Someone who has the heart and soul for interior design, Renovating our very first home was honestly a dream come true. I cannot emphasize enough how much I loved the whole process of renovation and cannot wait to share my experience with you all.
+
+![](/assets/before-after.jpg)
