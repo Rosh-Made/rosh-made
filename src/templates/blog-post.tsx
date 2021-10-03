@@ -5,7 +5,7 @@ import { Container } from "@material-ui/core"
 import styled from "styled-components"
 import { Helmet } from "react-helmet"
 import { getSrc } from "gatsby-plugin-image"
-import { Comments } from "../components/Comments"
+import { CommentsWrapper } from "../components/CommentsWrapper"
 
 const Date = styled.div`
   margin-top: 1.5rem;
@@ -81,7 +81,7 @@ const BlogPost: FC<any> = ({ data }) => {
           <Title>{post.frontmatter.title}</Title>
         </BlogHeaderContainer>
         <Content dangerouslySetInnerHTML={{ __html: post.html }} />
-        <Comments blogUrl={post.fields.slug.replaceAll("/", "")} />
+        <CommentsWrapper blogUrl={post.fields.slug} />
       </Container>
     </Layout>
   )

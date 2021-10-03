@@ -1,7 +1,6 @@
-import { getFirestore } from "firebase/firestore"
 import React, { FC, useState } from "react"
 import styled from "styled-components"
-import { useAuth, useFirebaseApp, useUser } from "reactfire"
+import { useAuth, useUser } from "reactfire"
 import FacebookIcon from "@material-ui/icons/Facebook"
 import {
   CircularProgress,
@@ -102,11 +101,13 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
 
       const displayName = user.displayName as string
       const profilePic = user.photoURL as string
+      const uid = user.uid
 
       await postComments({
         name: displayName,
         profilePic,
         comment,
+        uid,
         timestamp: new Date().getTime(),
       })
     } else if (name) {

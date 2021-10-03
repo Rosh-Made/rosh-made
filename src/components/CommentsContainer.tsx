@@ -7,7 +7,6 @@ import {
   ListItem,
   ListItemAvatar,
   ListItemText,
-  Typography,
 } from "@material-ui/core"
 import { TransitionGroup } from "react-transition-group"
 
