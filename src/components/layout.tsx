@@ -15,6 +15,17 @@ import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
 import SocialIcons from "./social-icons"
 import { Logo } from "./logo"
+import { FirebaseAppProvider } from "reactfire"
+
+const firebaseConfig = {
+  apiKey: "AIzaSyAx2XvriVPrZ_H1kBk9JBGILTrrv7UoNz4",
+  authDomain: "roshmade-blog.firebaseapp.com",
+  projectId: "roshmade-blog",
+  storageBucket: "roshmade-blog.appspot.com",
+  messagingSenderId: "431525069130",
+  appId: "1:431525069130:web:00aa1ba10a3419ced4c1b3",
+  measurementId: "G-DRN4BB93PS",
+}
 
 const Header = styled(AppBar)`
   min-height: 8rem;
@@ -141,53 +152,55 @@ const Layout: FC = ({ children }) => {
 
   // @ts-ignore
   return (
-    <MuiThemeProvider theme={themeLight}>
-      <CssBaseline />
-      <Header>
-        <div>
-          <IconButton
-            className="show-on-desktop"
-            onClick={() => setVisible(true)}
-            aria-label="menu"
-          >
-            <MenuIcon fontSize="large" />
-          </IconButton>
-          <Backdrop
-            className={classes.backdrop}
-            open={visible}
-            onClick={() => setVisible(false)}
-          >
-            <SlideInMenu visible={visible} close={() => setVisible(false)} />
-          </Backdrop>
-        </div>
-        <Logo />
-        <div>
-          <SearchIcon
-            style={{ visibility: "hidden" }}
-            className="show-on-desktop"
-            fontSize="large"
-          />
-        </div>
-      </Header>
-      <LogoHeader />
-      <Container>{children}</Container>
-      <Footer>
-        <FooterLinks>
-          © Roshmade 2021
-          {/*<Link to="/about">About</Link>*/}
-          {/*<Link to="/contact">Contact</Link>*/}
-        </FooterLinks>
-        <SocialIcons />
-      </Footer>
-      <BottomBar>
-        <div>
-          <IconButton onClick={() => setVisible(!visible)} aria-label="menu">
-            {visible ? <CloseIcon /> : <MenuIcon />}
-          </IconButton>
-        </div>
-        <div />
-      </BottomBar>
-    </MuiThemeProvider>
+    <FirebaseAppProvider firebaseConfig={firebaseConfig}>
+      <MuiThemeProvider theme={themeLight}>
+        <CssBaseline />
+        <Header>
+          <div>
+            <IconButton
+              className="show-on-desktop"
+              onClick={() => setVisible(true)}
+              aria-label="menu"
+            >
+              <MenuIcon fontSize="large" />
+            </IconButton>
+            <Backdrop
+              className={classes.backdrop}
+              open={visible}
+              onClick={() => setVisible(false)}
+            >
+              <SlideInMenu visible={visible} close={() => setVisible(false)} />
+            </Backdrop>
+          </div>
+          <Logo />
+          <div>
+            <SearchIcon
+              style={{ visibility: "hidden" }}
+              className="show-on-desktop"
+              fontSize="large"
+            />
+          </div>
+        </Header>
+        <LogoHeader />
+        <Container>{children}</Container>
+        <Footer>
+          <FooterLinks>
+            © Roshmade 2021
+            {/*<Link to="/about">About</Link>*/}
+            {/*<Link to="/contact">Contact</Link>*/}
+          </FooterLinks>
+          <SocialIcons />
+        </Footer>
+        <BottomBar>
+          <div>
+            <IconButton onClick={() => setVisible(!visible)} aria-label="menu">
+              {visible ? <CloseIcon /> : <MenuIcon />}
+            </IconButton>
+          </div>
+          <div />
+        </BottomBar>
+      </MuiThemeProvider>
+    </FirebaseAppProvider>
   )
 }
 
