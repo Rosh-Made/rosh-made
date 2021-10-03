@@ -1,7 +1,7 @@
 ---
 title: Before + After Reno | Bedroom
 published: true
-date: 2021-08-19T00:02:54.857Z
+date: 2021-09-01T00:02:54.857Z
 description: Another special blog
 featuredimage: /assets/img_2365.jpg
 tags:
