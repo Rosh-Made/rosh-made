@@ -95,8 +95,13 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
         user = userData.data
       } else {
         const provider = new FacebookAuthProvider()
-        const result = await signInWithPopup(auth, provider)
-        user = result.user
+        try {
+          const result = await signInWithPopup(auth, provider)
+          user = result.user
+        } catch (e) {
+          setPosting(false)
+          return
+        }
       }
 
       const displayName = user.displayName as string

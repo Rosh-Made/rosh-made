@@ -1,4 +1,11 @@
-import { collection, query, orderBy, addDoc } from "firebase/firestore"
+import {
+  collection,
+  query,
+  orderBy,
+  addDoc,
+  deleteDoc,
+  doc,
+} from "firebase/firestore"
 import { useFirestore, useFirestoreCollectionData } from "reactfire"
 import { Comment } from "../data/Comment"
 
@@ -15,12 +22,17 @@ export const useComments = (blogId: string) => {
     return comments as Comment[]
   }
 
-  const postComments = (comment: Comment) => {
-    addDoc(commentsCollection, comment)
+  const postComments = async (comment: Comment) => {
+    await addDoc(commentsCollection, comment)
+  }
+
+  const deleteComment = async (commentId: string) => {
+    await deleteDoc(doc(commentsCollection, commentId))
   }
 
   return {
     getComments,
     postComments,
+    deleteComment,
   }
 }
