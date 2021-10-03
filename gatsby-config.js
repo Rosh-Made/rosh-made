@@ -24,14 +24,6 @@ module.exports = {
         },
       },
     },
-    {
-      resolve: `gatsby-plugin-social9-socialshare`,
-      options: {
-        content: `0cf11181b8a54528ba9ba8d4f7dab379`,
-        async: true,
-        defer: true,
-      },
-    },
     `gatsby-plugin-react-helmet`,
     `gatsby-theme-material-ui`,
     `gatsby-plugin-styled-components`,

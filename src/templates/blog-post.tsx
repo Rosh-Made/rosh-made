@@ -5,6 +5,7 @@ import { Container } from "@material-ui/core"
 import styled from "styled-components"
 import { Helmet } from "react-helmet"
 import { getSrc } from "gatsby-plugin-image"
+import { CommentsWrapper } from "../components/CommentsWrapper"
 
 const Date = styled.div`
   margin-top: 1.5rem;
@@ -46,12 +47,6 @@ const Content = styled.div`
   }
 `
 
-const ShareButtons = styled.div`
-  margin-top: 2rem;
-  display: flex;
-  justify-content: flex-end;
-`
-
 const BlogPost: FC<any> = ({ data }) => {
   const post = data.markdownRemark
   const featuredimage = `https://www.roshmade.com${getSrc(
@@ -70,14 +65,13 @@ const BlogPost: FC<any> = ({ data }) => {
         <meta
           property="og:url"
           content={`https://www.roshmade.com/${post.fields.slug}`}
-
-        /><meta
+        />
+        <meta
           property="og:title"
           content={`Roshmade Blog - ${post.frontmatter.title}`}
-
-        /><meta property="og:type" content="article" />
-        <meta property="og:description" content={post.excerpt}
         />
+        <meta property="og:type" content="article" />
+        <meta property="og:description" content={post.excerpt} />
         <meta property="og:image" content={featuredimage} />
       </Helmet>
 
@@ -87,6 +81,7 @@ const BlogPost: FC<any> = ({ data }) => {
           <Title>{post.frontmatter.title}</Title>
         </BlogHeaderContainer>
         <Content dangerouslySetInnerHTML={{ __html: post.html }} />
+        <CommentsWrapper blogUrl={post.fields.slug} />
       </Container>
     </Layout>
   )
