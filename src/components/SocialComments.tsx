@@ -48,6 +48,12 @@ const CommentsButtons = styled.div`
   .Mui-checked {
     color: #4e4e4e;
   }
+
+  @media (max-width: 382px) {
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 100%;
+  }
 `
 
 const CustomRadioGroup = styled(RadioGroup)`
@@ -66,6 +72,11 @@ const RadioButtonLabel = styled.div`
 
 const NameInput = styled(TextField)`
   margin-right: 1rem;
+  margin-bottom: 0.5rem;
+
+  @media (max-width: 382px) {
+    margin-right: 0;
+  }
 `
 
 export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
@@ -75,7 +86,7 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
   const [posing, setPosting] = useState<boolean>(false)
   const auth = useAuth()
   const userData = useUser()
-  const { postComments, getComments } = useComments("test")
+  const { postComments, getComments } = useComments(blogUrl)
 
   const postComment = async () => {
     setPosting(true)
@@ -104,8 +115,11 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
         comment,
         timestamp: new Date().getTime(),
       })
+      setProfileOption("facebook")
     }
     setPosting(false)
+    setComment("")
+    setName("")
   }
 
   const comments = getComments()

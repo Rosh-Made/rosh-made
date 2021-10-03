@@ -81,7 +81,7 @@ const BlogPost: FC<any> = ({ data }) => {
           <Title>{post.frontmatter.title}</Title>
         </BlogHeaderContainer>
         <Content dangerouslySetInnerHTML={{ __html: post.html }} />
-        <Comments blogUrl={`https://www.roshmade.com/${post.fields.slug}`} />
+        <Comments blogUrl={post.fields.slug.replaceAll("/", "")} />
       </Container>
     </Layout>
   )
