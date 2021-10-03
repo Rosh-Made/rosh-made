@@ -9,7 +9,11 @@ tags:
 ---
 For someone who has the heart and soul for interior design, Renovating & Styling our very first home was honestly a dream come true. 
 
-One of my favorite renovation projects in the house was redoing our bedroom. 
+One of my favorite renovation projects in the house was redoing our bedroom. I feel like it's one of the most important rooms in a house, not because you spend one-third of your whole life sleeping; but simply it's a place to relax away from the world. 
+
+Given how much time we spend in this room, despite being essentially unconscious for most of it, it was so important for us to have a well-organized, relaxing, and minimal-looking space. 
+
+Looking for some ideas to create your dream bedroom, soon I will share some design tips and tricks to make this a reality. Stay around!
 
 
 
