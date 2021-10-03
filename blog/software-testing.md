@@ -1,7 +1,7 @@
 ---
 title: IT Career Switch | Software Testing
 published: true
-date: 2021-08-18T20:34:29.003Z
+date: 2021-09-17T20:34:29.003Z
 description: "Switching to a career in IT "
 featuredimage: /assets/img_3872.jpg
 tags:
@@ -9,11 +9,11 @@ tags:
 ---
 Switching to a career in IT from a non-IT background seems as daunting as it sounds but when I think about it now I feel like that was the best investment (time + money) and decision I made 3 years ago in my life.
 
-If you're someone thinking of moving to software testing and want to know
+If you're someone thinking of moving to software testing, or a recent graduate, or someone who's new to the local job market (NZ) and want to know
+
+~ What's the current local job market is like?
 
 ~ How to get into the field?
-
-~ What's the current New Zealand Job market is like for Software Testers?
 
 ~ What are the current hot skills (Soft + Technical) companies are looking for?  
 
@@ -21,7 +21,7 @@ If you're someone thinking of moving to software testing and want to know
 
 ~ What my journey was like?
 
-~ and What it's like working as a software tester?
+~ What it's like working as a software tester?
 
 keep an eye on here for some career guides, important pointers, and tips. 
 
