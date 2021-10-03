@@ -32,8 +32,15 @@ const TextInput = styled(TextField)`
   font-family: freight-sans-pro, sans-serif;
 `
 
-const TopDivider = styled(Divider)`
+const CommentsSection = styled.div`
   margin-top: 4em;
+`
+
+const Title = styled.div`
+  font-family: freight-sans-pro, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 0.5rem;
 `
 
 const PostButton = styled(Button)`
@@ -131,8 +138,9 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
   const comments = getComments()
 
   return (
-    <>
-      <TopDivider />
+    <CommentsSection>
+      <Title>Comments</Title>
+      <Divider />
       <CommentsContainer comments={comments || []} />
       <Container>
         <TextInput
@@ -176,14 +184,15 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
             />
           )}
           <PostButton
+            startIcon={posing && <CircularProgress size={20} />}
             variant="outlined"
             onClick={() => postComment()}
             disabled={!comment || posing || (profileOption === "name" && !name)}
           >
-            {posing && <CircularProgress size={20} />} Comment
+            Comment
           </PostButton>
         </CommentsButtons>
       </Container>
-    </>
+    </CommentsSection>
   )
 }
