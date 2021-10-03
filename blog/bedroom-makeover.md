@@ -7,6 +7,16 @@ featuredimage: /assets/img_2365.jpg
 tags:
   - Home
 ---
-Someone who has the heart and soul for interior design, Renovating our very first home was honestly a dream come true. I cannot emphasize enough how much I loved the whole process of renovation and cannot wait to share my experience with you all.
+For someone who has the heart and soul for interior design, Renovating & Styling our very first home was honestly a dream come true. 
 
-![](/assets/before-after.jpg)
+One of my favorite renovation projects in the house was redoing our bedroom. I feel like it's one of the most important rooms in a house, not because you spend one-third of your whole life sleeping; but simply it's a place to relax away from the world. 
+
+Given how much time we spend in this room, despite being essentially unconscious for most of it, it was so important for us to have a well-organized, relaxing, and minimal-looking space. 
+
+Are you looking for some ideas to create your dream bedroom?  Soon I will share some design tips and tricks to make this a reality. Stay around!
+
+
+
+![](/assets/before-after.png)
+
+Blog coming soon....
