@@ -1,5 +1,5 @@
 ---
-title: Before + After | Bedroom Makeover
+title: Before + After Reno | Bedroom
 published: true
 date: 2021-07-01T00:02:54.857Z
 description: Another special blog
