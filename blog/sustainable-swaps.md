@@ -17,7 +17,7 @@ Yes, plastics! It has become so central to our everyday life, more frightening, 
 
 The mid last year 2020, while I was home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. 
 
-The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dishwash, Handwash, clean spray) in plastic bottles every time they ran over. 
+The first thing that came to my mind was the KITCHEN, where a lot of waste happens to be indisposable plastic bottles, cling food film and chemically toxic things, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dishwash, Handwash, clean spray) in plastic bottles every time they ran over. 
 
 I started to look for sustainable alternatives online, few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and 7 reasons why:
 
@@ -55,13 +55,20 @@ Other Options:
 
 ~ [Dazz NZ](https://dazz.co.nz/) is another great option, which I found out only recently. Their concept is simple, turning cleaning tablets + Water into your household cleaning spray! 
 
+Just imagine how many of these little bad boys you're going to save? Yes, Planet Earth will thank you for that :)
+
+![](/assets/untitled-design.jpg)
+
 Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you.
 
-Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. Planet Earth will thank you!
+Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! \
+Meanwhile, make a little effort, do a little research on Refill Stations in your area, and start making a difference. Stay blessed and Live Mindfully!
 
 ![](/assets/collage.jpeg)
 
-Stay blessed and Live Mindfully!
+\
+***Update***\
+It's amazing to see a few of my friends have already moved to this approach. Honestly, this makes me so happy :)
 
 > “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 > — Jane Goodall
