@@ -57,7 +57,7 @@ Other Options:
 
 Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you.
 
-Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill stations in your area, and start making a difference. Planet Earth will thank you!
+Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! Meanwhile, make a little effort, do a little research on Refill Stations in your area, and start making a difference. Planet Earth will thank you!
 
 ![](/assets/collage.jpeg)
 
