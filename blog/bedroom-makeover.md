@@ -13,7 +13,7 @@ One of my favorite renovation projects in the house was redoing our bedroom. I f
 
 Given how much time we spend in this room, despite being essentially unconscious for most of it, it was so important for us to have a well-organized, relaxing, and minimal-looking space. 
 
-Are you looking for some ideas to create your dream bedroom?  Soon I will share some amazing design tips and tricks to make this a reality. Stay around!
+Are you looking for some ideas to create your dream bedroom?  Soon I will share some amazing design tips and our experience of the whole renovation process. Stay around!
 
 ![](/assets/before-after.png)
 
