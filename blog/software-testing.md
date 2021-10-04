@@ -11,9 +11,9 @@ Switching to a career in IT from a non-IT background seems as daunting as it sou
 
 If you're someone thinking of moving to software testing, or a recent graduate, or someone who's new to the local job market (NZ) and want to know
 
-~ What's the current local job market is like for Software Testers?
+~ What's the current job market is like for Software Testers?
 
-~ What are the current hot skills (Soft + Technical) companies are looking for?  
+~ What are the hot skills (Soft + Technical) companies are looking for at the moment?  
 
 ~ How to get into the field?
 
