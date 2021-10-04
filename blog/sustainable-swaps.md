@@ -17,7 +17,7 @@ Yes, plastics! It has become so central to our everyday life, more frightening, 
 
 The mid last year 2020, while I was home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. 
 
-The first thing that came to my mind was the KITCHEN, where a lot of waste happens be it plastic bottles, disposable, food waste, toxic chemicals, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dishwash, Handwash, clean spray) in plastic bottles every time they ran over. 
+The first thing that came to my mind was the KITCHEN, where a lot of waste happens to be indisposable plastic bottles, cling food film and chemically toxic things, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dishwash, Handwash, clean spray) in plastic bottles every time they ran over. 
 
 I started to look for sustainable alternatives online, few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and 7 reasons why:
 
