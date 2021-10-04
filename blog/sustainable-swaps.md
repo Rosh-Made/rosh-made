@@ -32,8 +32,6 @@ I started to look for sustainable alternatives online, few options popped up.  I
 1 x The Honest Eco Dish Washing Liquid Glass bottle\
 1 x The Honest Eco All-Purpose Glass bottle
 
-![](/assets/collage.jpeg)
-
 ~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. \
 [The Honest Eco](https://www.thehonesteco.nz/shop) has their own refill service where you can send your 5L container to refill or else you can take that to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy new plastic bottles again. How incredible is this concept of refilling? LOVE IT! 
 
@@ -66,10 +64,11 @@ Reducing our plastic use is critical and will require determined social and beha
 Thank you for taking your precious time to read and I hope you enjoyed my very FIRST blog. I'm going to be covering more on kitchen sustainable swaps on another blog, stay tuned! \
 Meanwhile, make a little effort, do a little research on Refill Stations in your area, and start making a difference. Stay blessed and Live Mindfully!
 
+![](/assets/collage.jpeg)
+
+\
 ***Update***\
 It's amazing to see a few of my friends have already moved to this approach. Honestly, this makes me so happy :)
-
-
 
 > “You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of a difference you want to make.”
 > — Jane Goodall
