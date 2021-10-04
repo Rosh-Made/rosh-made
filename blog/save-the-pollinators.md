@@ -9,8 +9,6 @@ featuredimage: /assets/img_5040-2.jpg
 tags:
   - Home
 ---
-
-
 ![](/assets/img_5040-copy.jpg)
 
 What’s come to your mind when you think about flowers, plants, and trees?
@@ -25,7 +23,7 @@ Stay tuned for what we can/could do!
 
 Blog Coming soon...
 
-![](/assets/img_5509.jpg)
+![](/assets/img_5512.jpg)
 
 > "To sow a seed is to have hope for the future". 
 >

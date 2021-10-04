@@ -9,11 +9,11 @@ tags:
 ---
 Switching to a career in IT from a non-IT background seems as daunting as it sounds but when I think about it now I feel like that was the best investment (time + money) and decision I made 3 years ago in my life.
 
-If you're someone thinking of moving to software testing, or a recent graduate, or someone who's new to the local job market (NZ) and want to know
+If you're someone thinking of moving to software testing, or someone who's new to the local job market (NZ), or a recent graduate and want to know
 
-~ What's the current local job market is like for Software Testers?
+~ What's the current job market is like for Software Testers?
 
-~ What are the current hot skills (Soft + Technical) companies are looking for?  
+~ What are the hot skills (Soft + Technical) companies are looking at the moment?  
 
 ~ How to get into the field?
 
@@ -23,6 +23,6 @@ If you're someone thinking of moving to software testing, or a recent graduate, 
 
 ~ What it's like working as a software tester?
 
-keep an eye on here for some career guides, important pointers, and tips. 
+keep an eye on here for some career guides, important pointers, and tips. Happy to help and guide you :) 
 
 ![](/assets/img_3875.jpg)

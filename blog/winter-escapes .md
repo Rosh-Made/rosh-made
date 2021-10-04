@@ -7,8 +7,10 @@ featuredimage: /assets/img_4636.jpg
 tags:
   - Travel
 ---
-Winter in New Zealand is a great time to hit the road! And South Island is definitely tough to beat in the whole of NZ.
+As cliched as it might sound, New Zealand is a winter wonderland. There are so many things you can during New Zealand’s South Island in winter, it’s just a matter of choosing your preference.
 
-
+Await for the blog to find out what we did in New Zealand’s South Island in Winter
 
 ![](/assets/img_4687.jpg)
+
+Blog coming soon....
