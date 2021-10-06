@@ -6,7 +6,6 @@ import styled from "styled-components"
 import { Helmet } from "react-helmet"
 import { getSrc } from "gatsby-plugin-image"
 import { Comments } from "../components/Comments"
-import { Subscribe } from "../components/Subscribe"
 
 const Date = styled.div`
   margin-top: 1.5rem;
@@ -48,13 +47,6 @@ const Content = styled.div`
   }
 `
 
-const SubscribeBlock = styled.div`
-  margin-top: 4rem;
-  display: flex;
-  width: 100%;
-  justify-content: flex-end;
-`
-
 const BlogPost: FC<any> = ({ data }) => {
   const post = data.markdownRemark
   const featuredimage = `https://www.roshmade.com${getSrc(
@@ -89,9 +81,6 @@ const BlogPost: FC<any> = ({ data }) => {
           <Title>{post.frontmatter.title}</Title>
         </BlogHeaderContainer>
         <Content dangerouslySetInnerHTML={{ __html: post.html }} />
-        <SubscribeBlock>
-          <Subscribe />
-        </SubscribeBlock>
         <Comments blogUrl={post.fields.slug} />
       </Container>
     </Layout>
