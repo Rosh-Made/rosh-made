@@ -13,7 +13,7 @@ import {
 import { Button } from "gatsby-theme-material-ui"
 import { FacebookAuthProvider, signInWithPopup } from "firebase/auth"
 import { useComments } from "../hooks/useComments"
-import { CommentsContainer } from "./CommentsContainer"
+import { CommentsList } from "./CommentsList"
 
 type SocialCommentsProps = {
   blogUrl: string
@@ -33,7 +33,7 @@ const TextInput = styled(TextField)`
 `
 
 const CommentsSection = styled.div`
-  margin-top: 4em;
+  margin-top: 0;
 `
 
 const Title = styled.div`
@@ -92,7 +92,8 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
   const [posing, setPosting] = useState<boolean>(false)
   const auth = useAuth()
   const userData = useUser()
-  const { postComments, getComments } = useComments(blogUrl)
+  const blogKey = blogUrl.split("/").join("")
+  const { postComments, getComments } = useComments(blogKey)
 
   const postComment = async () => {
     setPosting(true)
@@ -141,7 +142,7 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
     <CommentsSection>
       <Title>Comments</Title>
       <Divider />
-      <CommentsContainer comments={comments || []} />
+      <CommentsList comments={comments || []} />
       <Container>
         <TextInput
           id="outlined-multiline-static"

@@ -1,6 +1,5 @@
 import React, { FC } from "react"
 import { FirebaseAppProvider } from "reactfire"
-import { Comments } from "./Comments"
 
 const firebaseConfig = {
   apiKey: "AIzaSyAx2XvriVPrZ_H1kBk9JBGILTrrv7UoNz4",
@@ -12,12 +11,11 @@ const firebaseConfig = {
   measurementId: "G-DRN4BB93PS",
 }
 
-export const CommentsWrapper: FC<{ blogUrl: string }> = ({ blogUrl }) => {
-  if (typeof window === "undefined") return <p>Loading...</p>
-  const blogKey = blogUrl.split("/").join("")
+export const FirebaseWrapper: FC = ({ children }) => {
+  if (typeof window === "undefined") return <>{children}</>
   return (
     <FirebaseAppProvider firebaseConfig={firebaseConfig}>
-      <Comments blogUrl={blogKey} />
+      {children}
     </FirebaseAppProvider>
   )
 }

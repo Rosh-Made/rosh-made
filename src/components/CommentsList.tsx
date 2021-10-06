@@ -10,9 +10,7 @@ import {
 } from "@material-ui/core"
 import { TransitionGroup } from "react-transition-group"
 
-export const CommentsContainer: FC<{ comments: Comment[] }> = ({
-  comments,
-}) => {
+export const CommentsList: FC<{ comments: Comment[] }> = ({ comments }) => {
   if (comments.length == 0) {
     return <></>
   }
