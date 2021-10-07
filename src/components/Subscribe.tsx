@@ -3,7 +3,12 @@ import React, { FC, useEffect, useState } from "react"
 import NotificationsIcon from "@material-ui/icons/Notifications"
 import NotificationsActiveIcon from "@material-ui/icons/NotificationsActive"
 import styled from "styled-components"
-import { getMessaging, getToken, deleteToken } from "firebase/messaging"
+import {
+  getMessaging,
+  getToken,
+  deleteToken,
+  isSupported,
+} from "firebase/messaging"
 import { CircularProgress } from "@material-ui/core"
 
 const SubscribeButton = styled(Button)`
@@ -32,6 +37,7 @@ const analytics = (data: any) => {
 export const Subscribe: FC = () => {
   const [subscribed, setSubscribed] = useState<boolean>(false)
   const [loading, setLoading] = useState<boolean>(false)
+  const [supported, setSupported] = useState<boolean>(false)
 
   useEffect(() => {
     if (
@@ -40,7 +46,14 @@ export const Subscribe: FC = () => {
     ) {
       setSubscribed(true)
     }
+    isSupported().then(result => {
+      setSupported(result)
+    })
   }, [])
+
+  if (!supported) {
+    return <></>
+  }
 
   const messaging = getMessaging()
   const subscribe = () => {
