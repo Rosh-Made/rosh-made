@@ -3,25 +3,28 @@ import { getFirestore } from "firebase/firestore"
 import { FirestoreProvider, useFirebaseApp } from "reactfire"
 import { AuthWrapper } from "./AuthWrapper"
 import { SocialComments } from "./SocialComments"
+import { Subscribe } from "./Subscribe"
+import styled from "styled-components"
 
-const firebaseConfig = {
-  apiKey: "AIzaSyAx2XvriVPrZ_H1kBk9JBGILTrrv7UoNz4",
-  authDomain: "roshmade-blog.firebaseapp.com",
-  projectId: "roshmade-blog",
-  storageBucket: "roshmade-blog.appspot.com",
-  messagingSenderId: "431525069130",
-  appId: "1:431525069130:web:00aa1ba10a3419ced4c1b3",
-  measurementId: "G-DRN4BB93PS",
-}
+const SubscribeBlock = styled.div`
+  margin-top: 4rem;
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+`
 
 type SocialCommentsProps = {
   blogUrl: string
 }
 
 export const Comments: FC<SocialCommentsProps> = ({ blogUrl }) => {
+  if (typeof window === "undefined") return <p>Loading...</p>
   return (
     <FirestoreProvider sdk={getFirestore(useFirebaseApp())}>
       <AuthWrapper>
+        <SubscribeBlock>
+          <Subscribe />
+        </SubscribeBlock>
         <SocialComments blogUrl={blogUrl} />
       </AuthWrapper>
     </FirestoreProvider>

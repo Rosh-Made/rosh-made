@@ -24,6 +24,18 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-plugin-firebase-messaging`,
+      options: {
+        config: {
+          apiKey: "AIzaSyAx2XvriVPrZ_H1kBk9JBGILTrrv7UoNz4",
+          projectId: "roshmade-blog",
+          messagingSenderId: "431525069130",
+          appId: "1:431525069130:web:00aa1ba10a3419ced4c1b3",
+        },
+        firebaseVersion: "8.1.1",
+      },
+    },
     `gatsby-plugin-react-helmet`,
     `gatsby-theme-material-ui`,
     `gatsby-plugin-styled-components`,
