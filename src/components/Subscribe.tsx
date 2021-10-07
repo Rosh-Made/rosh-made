@@ -10,6 +10,7 @@ import {
   isSupported,
 } from "firebase/messaging"
 import { CircularProgress } from "@material-ui/core"
+import { useSubscribers } from "../hooks/useSubscribers"
 
 const SubscribeButton = styled(Button)`
   text-transform: none;
@@ -38,17 +39,13 @@ export const Subscribe: FC = () => {
   const [subscribed, setSubscribed] = useState<boolean>(false)
   const [loading, setLoading] = useState<boolean>(false)
   const [supported, setSupported] = useState<boolean>(false)
+  const { isSubscribed, subscribeUser, unsubscribeUser } = useSubscribers()
 
   useEffect(() => {
-    if (
-      localStorage.getItem("subscribed") &&
-      localStorage.getItem("subscribed") === "true"
-    ) {
-      setSubscribed(true)
-    }
     isSupported().then(result => {
       setSupported(result)
     })
+    isSubscribed().then(s => setSubscribed(s))
   }, [])
 
   if (!supported) {
@@ -61,20 +58,20 @@ export const Subscribe: FC = () => {
     getToken(messaging, {
       vapidKey: MESSAGING_VAPID_KEY,
     })
-      .then(() => {
-        localStorage.setItem("subscribed", "true")
-        setSubscribed(true)
-        setLoading(false)
-        analytics({
-          category: "SUBSCRIPTION",
-          action: "Subscribe",
-          label: "Subscribed",
-          value: 1,
+      .then(token => {
+        subscribeUser(token).then(() => {
+          setSubscribed(true)
+          setLoading(false)
+          analytics({
+            category: "SUBSCRIPTION",
+            action: "Subscribe",
+            label: "Subscribed",
+            value: 1,
+          })
         })
       })
       .catch(error => {
         console.error(error)
-        localStorage.setItem("subscribed", "false")
         setSubscribed(false)
         setLoading(false)
       })
@@ -84,14 +81,15 @@ export const Subscribe: FC = () => {
     setLoading(true)
     deleteToken(messaging)
       .then(() => {
-        localStorage.setItem("subscribed", "false")
-        setSubscribed(false)
-        setLoading(false)
-        analytics({
-          category: "SUBSCRIPTION",
-          action: "Unsubscribe",
-          label: "Unsubscribed",
-          value: 0,
+        unsubscribeUser().then(() => {
+          setSubscribed(false)
+          setLoading(false)
+          analytics({
+            category: "SUBSCRIPTION",
+            action: "Unsubscribe",
+            label: "Unsubscribed",
+            value: 0,
+          })
         })
       })
       .catch(error => {
