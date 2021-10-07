@@ -11,7 +11,11 @@ import {
   TextField,
 } from "@material-ui/core"
 import { Button } from "gatsby-theme-material-ui"
-import { FacebookAuthProvider, signInWithPopup } from "firebase/auth"
+import {
+  FacebookAuthProvider,
+  signInWithPopup,
+  signInAnonymously,
+} from "firebase/auth"
 import { useComments } from "../hooks/useComments"
 import { CommentsList } from "./CommentsList"
 
@@ -93,7 +97,7 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
   const auth = useAuth()
   const userData = useUser()
   const blogKey = blogUrl.split("/").join("")
-  const { postComments, getComments } = useComments(blogKey)
+  const { postComments, getComments, deleteComment } = useComments(blogKey)
 
   const postComment = async () => {
     setPosting(true)
@@ -124,9 +128,15 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
         timestamp: new Date().getTime(),
       })
     } else if (name) {
+      let user
+      const result = await signInAnonymously(auth)
+      user = result.user
+      const uid = user.uid
+
       await postComments({
         name,
         comment,
+        uid,
         timestamp: new Date().getTime(),
       })
       setProfileOption("facebook")
@@ -142,7 +152,7 @@ export const SocialComments: FC<SocialCommentsProps> = ({ blogUrl }) => {
     <CommentsSection>
       <Title>Comments</Title>
       <Divider />
-      <CommentsList comments={comments || []} />
+      <CommentsList comments={comments || []} deleteComment={deleteComment} />
       <Container>
         <TextInput
           id="outlined-multiline-static"

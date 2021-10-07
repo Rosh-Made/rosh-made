@@ -27,7 +27,8 @@ export const useComments = (blogId: string) => {
   }
 
   const deleteComment = async (commentId: string) => {
-    await deleteDoc(doc(commentsCollection, commentId))
+    let docRef = doc(firestore, `/blogs/${blogId}/comments`, commentId)
+    await deleteDoc(docRef)
   }
 
   return {
