@@ -61,12 +61,12 @@ Go and make a difference for wildlife like pollinators and let's make the most o
 
 ![](/assets/img_5512.jpg)
 
-Here's a video that explains the importance of pollination and what would happen if the pollinators go extinct  - specifically Bees. 
-
-`youtube: https://www.youtube.com/watch?v=K0QTIwwvvrs`
-
-
-
 > "To sow a seed is to have hope for the future". 
 
 \- Unknown
+
+
+
+Here's a video that explains the importance of pollination and what would happen if the pollinators go extinct  - specifically Bees. 
+
+`youtube: https://www.youtube.com/watch?v=K0QTIwwvvrs`
