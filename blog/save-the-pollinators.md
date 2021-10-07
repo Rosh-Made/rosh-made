@@ -22,9 +22,37 @@ These amazing tiny creatures move from plant to plant for food: i.e nectar, as t
 
 Unfortunately, pollinators are in trouble and are dropping at a terrifying rate worldwide, pesticides are largely to blame. The aim of this blog is to raise awareness of these little workers who are so essential for our natural world. If there's anything we can give them a helping hand with, we definitely should! 
 
-Here are a few simple things that you could do at home. 
+Here are a few simple things that you could do 
 
-~ 
+~ Become a backyard *wildlife* gardener:
+
+All you need to do is grow plants that attract and help pollinators, here are my top bee-friendly plants that are easy to grow and must-have in a bee-friendly garden.  \
+\
+Flowers: Cornflower, Sunflower, Dahlia, Daisy, Marigold\
+Herbs: Lavender, Borage, Thyme, Sage, Fennel, Rosemary\
+Natives: Pohutukawa, Rata\
+Shrubs: Swan Plant, Hibiscus, Hydrangeas, Citrus
+
+![](/assets/img_5093.jpg)
+
+\
+Hints: 
+
+* You don’t need a big backyard, what you have is more than enough :)
+* I’d suggest you buy seedlings if you’re a beginner but also you can try sowing seeds which I'm doing. 
+* You don’t have to start big, just start with a couple, and see how it goes. This is my second year planting, so I’m going big this time ;) 
+* They need water just like other species, so don't forget to keep water for them.
+* I've had a few failures last year with seedlings, so expect that. Make sure you follow instructions!
+
+~ Use social media for the better! \
+Spread the word among your friends and family and share how important it is to grow plants and your amazing progress. \
+
+~ A great summer project for families  \
+An educational + fun project to do with the kids. Start with Swan plants, Sunflower..…
+
+Gardening is a great therapy; it really does rejuvenate your soul. Nothing makes me happier than being in the garden, watching something grow from nothing, seeing the beautiful pollinators, and relishing the great outdoors. Go and make a difference for wildlife like pollinators 
+
+Happy Gardening! 
 
 
 
