@@ -1,7 +1,7 @@
 ---
 title: Save the Pollinators | Home Garden
 published: true
-date: 2021-07-30T00:42:26.561Z
+date: 2021-09-20T00:42:26.561Z
 description: >
   Purpose: Bring the awareness of declining Pollinators & what we can do as
   individuals.
@@ -61,6 +61,12 @@ Go and make a difference for wildlife like pollinators and let's make the most o
 
 ![](/assets/img_5512.jpg)
 
+Here's a video that explains the importance of pollination and what would happen if the pollinators go extinct  - specifically Bees. 
+
+`youtube: undefined`
+
+
+
 > "To sow a seed is to have hope for the future". 
->
-> \- Unknown
+
+\- Unknown
