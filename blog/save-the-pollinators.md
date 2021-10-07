@@ -22,7 +22,7 @@ These amazing tiny creatures move from plant to plant for food: i.e nectar, as t
 
 Unfortunately, pollinators are in trouble and are dropping at a terrifying rate worldwide, pesticides are largely to blame. The aim of this blog is to raise awareness of these little workers who are so essential for our natural world. If there's anything we can give them a helping hand with, we definitely should! 
 
-Here are a few simple things that you could do 
+Here are a few simplest things that you could do.
 
 ~ Become a backyard *wildlife* gardener:
 
