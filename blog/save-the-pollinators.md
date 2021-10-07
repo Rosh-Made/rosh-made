@@ -41,18 +41,21 @@ Hints:
 * You don’t need a big backyard, what you have is more than enough :)
 * I’d suggest you buy seedlings if you’re a beginner but also you can try sowing seeds which I'm doing. 
 * You don’t have to start big, just start with a couple, and see how it goes. This is my second year planting, so I’m going big this time ;) 
-* They need water just like other species, so don't forget to keep water for them.
 * I've had a few failures last year with seedlings, so expect that. Make sure you follow instructions!
+* They need water just like other species, so don't forget to keep water for them.
+
+  ![](/assets/img_5126.jpg)
 
 ~ Use social media for the better! \
 Spread the word among your friends and family and share how important it is to grow plants and your amazing progress. \
 
 ~ A great summer project for families  \
-An educational + fun project to do with the kids. Start with Swan plants, Sunflower..…
+An educational + fun project to do with the kids. \
+Start with Swan plants, Sunflower..…
 
-Gardening is a great therapy; it really does rejuvenate your soul. Nothing makes me happier than being in the garden, watching something grow from nothing, seeing the beautiful pollinators, and relishing the great outdoors. Go and make a difference for wildlife like pollinators 
+Gardening is a great therapy; it really does rejuvenate your soul. Nothing makes me happier than being in the garden, watching something grow from nothing, seeing the beautiful pollinators, and relishing the great outdoors. 
 
-Happy Gardening! 
+Go and make a difference for wildlife like pollinators and let's make the most of the time we have with this lockdown. Happy Gardening! 
 
 
 
