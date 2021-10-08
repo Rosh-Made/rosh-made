@@ -17,8 +17,16 @@ This was one of the primary reasons that I started growing plants at home.
 
 I started with Statice, a year later, now I have this beautiful bunch of statice sitting in the entranceway, which make me realize that I could literally grow anything and that's when my passion for plants begun. 
 
-If you want to know how to grow statice from seeds and for plant care tips and hacks stay tuned(to be honest, Statice is low maintenance).
+Statice is one the easiest plant for a beginner, honestly it's super easy to care for and has low maintenance. 
+
+, they preserved so well, it's a perfect mix for drying as the colors dry true to their live colors. 
+
+
+
+
 
 ![](/assets/img_3553_jpg.jpg)
 
-Blog Coming soon...
+How to grow 
+
+1. First things first: Buy seeds :)
