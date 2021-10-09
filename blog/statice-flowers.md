@@ -44,10 +44,10 @@ Growing tips
 
 * To preserve the color of statice, hang to dry upside down in a well-aired indoor position
 * The most common problem for statice is related to overwatering, they do not need much water hence its drought tolerant. Statice is hardy and disease and bug resistant, therefore it's really low Maintenance!
-* keep the leftover seeds in a cool place. I store mine in the fridge :)
+* keep the leftover seeds in a cool place for better germination for next time, I store mine in the fridge :)
 
 Have you tried to grow statice in your garden? Be sure to leave a comment below to share your experience!
 
-Also, thought of sharing the current status of my Eucalyptus plant, been a year since I planted this from seed, definitely a slow growth but looks healthy and beautiful :)
+Also, thought of sharing the current progress of my Eucalyptus plant, been a year since I planted this from seed, definitely a slow growth but looks healthy and beautiful :) I'm a happy Gardener Indeed! 
 
 ![](/assets/img_5562-2.jpg)
