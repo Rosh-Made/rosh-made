@@ -1,3 +1,4 @@
+
 ---
 title: "How to grow | Statice Flowers "
 published: true
@@ -9,17 +10,19 @@ tags:
 ---
 ![](/assets/img_4814.jpg)
 
-I'm a flower girl, they make me the happiest, are we related already? ;) \
+I'm a flower girl, they make me the happiest, are we related already? ;)
 
-I buy fresh cut flowers every month mostly during Spring/Summer. But boy oh boy they can be crazy expensive. Statice, Sunflowers, Eucalyptus (foliage) are a few of my favorites but in that naughty expensive list. If I'm not wrong 10 stems of statice are 40 bucks (NZ). Say what! \
+I buy fresh cut flowers every month mostly during Spring/Summer. But boy oh boy they can be crazy expensive. Statice, Sunflowers, Eucalyptus (foliage) are a few of my favorites but in that naughty expensive list. If I'm not wrong 10 stems of statice are 40 bucks (NZ). Say what!
 
 This was one of the primary reasons that I started growing plants at home. 
-I started with Statice, a year later, now I have this beautiful bunch of dried statice sitting in the entranceway, which make me realize that I could possibly grow anything and that's when my passion for plants begun. \
+I started with Statice, a year later, now I have this beautiful bunch of dried statice sitting in the entranceway, which make me realize that I could possibly grow anything and that's when my passion for plants begun.
 
-Reasons to start with Statice\
+Reasons to start with Statice
 
-\~ Ideal for beginners: possibly the easiest plant to start with if you're a beginner at gardening 
-\~ Excellent for fresh cut flowers: they come in a palette of colors which is a great filler for vases and arrangements 
+~ Ideal for beginners: possibly the easiest plant to start with if you're a beginner at gardening 
+
+~ Excellent for fresh cut flowers: they come in a palette of colors which is a great filler for vases and arrangements 
+
 ~ Beautiful for dried arrangements: they preserved so well, a perfect mix for drying as the colors dry true to their live colors. They look almost as beautiful dry as they do fresh, and petite-looking, making a crafts favorite ;)
 
 ![](/assets/flowers-plants.png)
@@ -43,5 +46,5 @@ Growing tips
 * To preserve the color of statice, hang to dry upside down in a well-aired indoor position
 * Most common problem for statice is related to overwatering, they do not need much water hence its drought tolerant. Statice is hardy and disease and bug resistant, that is Low Maintenance!
 
-\
+
 Have you tried to grow statice in your garden? Be sure to leave a comment below to share your experience!
