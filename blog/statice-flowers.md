@@ -38,12 +38,16 @@ Steps to grow
 7. Statice grows fairly quickly, it produces blooms within 8 - 10 weeks after planting out into the garden
 8. Harvest statice when the blooms are fully open - that is when the white petals are visible, if they are harvested before they are immature, they are more at risk for wilting.
 
-![](/assets/img_4067.jpg)
+![](/assets/statice.png)
 
 Growing tips
 
 * To preserve the color of statice, hang to dry upside down in a well-aired indoor position
-* The most common problem for statice is related to overwatering, they do not need much water hence its drought tolerant. Statice is hardy and disease and bug resistant, therefore it's is Low Maintenance!
+* The most common problem for statice is related to overwatering, they do not need much water hence its drought tolerant. Statice is hardy and disease and bug resistant, therefore it's really low Maintenance!
 * keep the leftover seeds in a cool place. I store mine in the fridge :)
 
 Have you tried to grow statice in your garden? Be sure to leave a comment below to share your experience!
+
+Also, thought of sharing the current status of my Eucalyptus plant, been a year since I planted this from seed, definitely a slow growth but looks healthy and beautiful :)
+
+![](/assets/img_5562-2.jpg)
