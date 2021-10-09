@@ -22,17 +22,17 @@ Reasons to start with Statice
 
 ~ Excellent for fresh cut flowers: they come in a palette of colors which is a great filler for vases and arrangements 
 
-~ Beautiful for dried arrangements: they preserved so well, a perfect mix for drying as the colors dry true to their live colors. They look almost as beautiful dry as they do fresh, and petite-looking, making a crafts favorite ;)
+~ Beautiful for dried arrangements: they preserved so well, a perfect mix for drying as the colors dry true to their live colors. They look almost as beautiful dry as they do fresh, making a crafts favorite ;)
 
 ![](/assets/flowers-plants.png)
 
 Steps to grow 
 
-1. First things first: Buy seeds and good a seed raising mix from your local garden shop. 
+1. First things first: Buy seeds and a good seed-raising mix from your local garden shop. 
 2. Start sowing seeds at least 6mm depth in trays or pots and place them indoors.
    Hint: Best time to sow is few weeks before the frost year. Just follow the instructions in the seed package :)
 3. Make sure you keep the soil moist but please Do not overwater! 
-4. Allow the seedlings to grow at least 5cm before transplanting. Meanwhile prepare a garden bed that receives full sun and has average soil. 
+4. Allow the seedlings to grow at least 5cm before transplanting. Meanwhile, prepare a garden bed that receives full sun and has average soil. 
 5. When transplanting, ensure seedlings are well spaced at least 30-40cm apart. 
 6. Water twice a week during the early stage, and then reduce gradually. To be honest I never watered them when they started flowering. 
 7. Statice grows fairly quickly, it produces blooms within 8 - 10 weeks after planting out into the garden
@@ -43,7 +43,7 @@ Steps to grow
 Growing tips
 
 * To preserve the color of statice, hang to dry upside down in a well-aired indoor position
-* Most common problem for statice is related to overwatering, they do not need much water hence its drought tolerant. Statice is hardy and disease and bug resistant, that is Low Maintenance!
-
+* The most common problem for statice is related to overwatering, they do not need much water hence its drought tolerant. Statice is hardy and disease and bug resistant, therefore it's is Low Maintenance!
+* keep the leftover seeds in a cool place. I store mine in the fridge :)
 
 Have you tried to grow statice in your garden? Be sure to leave a comment below to share your experience!
