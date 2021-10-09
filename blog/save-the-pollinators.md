@@ -18,7 +18,7 @@ Yes, they are beautiful, delicate, bring a splash of colors to the garden.
 But hey! there's more than that. They also play a vital role in the functioning of our ecosystems. This is especially true in the case of pollinators. In Simple, the functioning of our ecosystem rests on the tiny backs of these pollinators – a big burden for their little shoulders to bear!
 
 Here's a little science: \
-These amazing tiny creatures move from plant to plant for food: i.e nectar, as they move, they transfer pollen from a male part of a plant to a female part of a plant, later enable fertilization and allowing it to reproduce and form flowers, seeds, berries, fruits. 
+These amazing tiny creatures move from plant to plant for food: i.e nectar, as they move, they transfer pollen from a male part of a plant to a female part of a plant, later enable fertilization and allowing it to reproduce and form seeds, berries, fruits. 
 
 Unfortunately, pollinators are in trouble and are dropping at a terrifying rate worldwide, pesticides are largely to blame. The aim of this blog is to raise awareness of these little workers who are so essential for our natural world. If there's anything we can give them a helping hand with, we definitely should! 
 
@@ -57,15 +57,11 @@ Gardening is a great therapy; it really does rejuvenate your soul. Nothing makes
 
 Go and make a difference for wildlife like pollinators and let's make the most of the time we have with this lockdown. Happy Gardening! 
 
-
-
 ![](/assets/img_5512.jpg)
 
 > "To sow a seed is to have hope for the future". 
 
 \- Unknown
-
-
 
 Here's a video that explains the importance of pollination and what would happen if the pollinators go extinct  - specifically Bees. 
 
