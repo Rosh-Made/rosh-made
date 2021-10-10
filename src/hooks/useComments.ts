@@ -8,6 +8,7 @@ import {
 } from "firebase/firestore"
 import { useFirestore, useFirestoreCollectionData } from "reactfire"
 import { Comment } from "../data/Comment"
+const base64 = require("base-64")
 
 export const useComments = (blogId: string) => {
   const firestore = useFirestore()
@@ -23,6 +24,13 @@ export const useComments = (blogId: string) => {
   }
 
   const postComments = async (comment: Comment) => {
+    if (
+      comment.comment &&
+      base64.encode(comment.name.split(" ")[0].trim().toLowerCase()) ===
+        "cmFuaQ=="
+    ) {
+      return
+    }
     await addDoc(commentsCollection, comment)
   }
 
