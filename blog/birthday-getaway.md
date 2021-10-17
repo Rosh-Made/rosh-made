@@ -14,7 +14,7 @@ If you're a nature-lover at heart and enjoy camping but want to treat yourself a
 \
 By its very name, the concept of *Glamping* is a fusion of glamor + camping where stunning nature meets modern luxury. Once in a while, it's nice to go somewhere (hassle-free) without having to think of packing and setting up your camp.
 
-If you're looking for a unique hideaway to unwind and unplug from the world, enjoy breathtaking panoramic views, and experience the peaceful New Zealand Countryside, then [Waitomo Hilltop Glamping](https://www.waitomoglamping.nz/) is the SPOT! 
+If you're looking for a unique hideaway to unwind and unplug from the world, enjoy breathtaking panoramic views, and experience the peaceful New Zealand Countryside, then [Waitomo Hilltop Glamping](https://www.waitomoglamping.nz/) is a another SPOT! 
 
 Super pleased that we picked the right spot to celebrate my birthday and our first-ever glamping experience. Everything was magical and beyond what we imagined. Here are some highlights & tips for our stay.\
 \
@@ -28,9 +28,12 @@ Super pleased that we picked the right spot to celebrate my birthday and our fir
 
 ~ Another hightlight of our stay was watching the sunset which was absolutely breathtaking and completely relaxing, we pulled out the beanbags and watched the sunset. Later the night we had the opportunity for a stargazing, to top it off, they complimented us with a s'mores kit. We lit the firepit and enjoyed the cozy nightout, talk about a greater combo, it was just too perfect. 
 
-~ Tips: Once you're up there you are completely solo - only sola power and lantern lights, make sure you charge your devices.  
+~ Tips: Once you're up there you are completely solo - only sola power and lantern lights, make sure you charge your devices. 
 
-~ While we were in Waikato, we went to see Marokopa Falls, it was a lovely stop on our drive around the area, A beautiful waterfall just a 10- minute walk off the road. [Waitomo glowworm caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves), [The Lost World](https://www.waitomo.co.nz/adventure/lost-world-epic-all-day-adventure) are some great things to do around the area, though we didn't had time to do. Hopfully next time. :) 
+~ While we were in Waitomo, we went to see [Marokopa Falls](https://www.waikatonz.com/experiences/walking-hiking-trails/marokopa-falls-waitomo/), it was a lovely stop on our drive around the area, one of the beautiful waterfalls I've seen in NZ, just a 10-minute walk off the road. [Mangapohue Natural Bridge](https://www.waikatonz.com/experiences/walking-hiking-trails/mangapohue-natural-bridge-waitomo/) is another easy walk we did, to an ancient cave system, a must see as well. 
+
+\
+[Waitomo glowworm caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves), [The Lost World](https://www.waitomo.co.nz/adventure/lost-world-epic-all-day-adventure) are some great things to do around the area, though we didn't had time to do. Hopfully next time. :) 
 
 Enjoy this small clip of our stay :) 
 
