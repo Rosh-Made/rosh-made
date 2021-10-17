@@ -30,7 +30,7 @@ Super pleased that we picked the right spot to celebrate my birthday and our fir
 ~ This safari tent has all the essentials you need and it's hard to see it getting more lux than this. The tent has a super comfy queen-size bed (also, 2 x small beds for additional guests), an ensuite bathroom with a flushing toilet, shower & eco-friendly toiletries. 
 
 ~ Love their outdoor kitchen & pizza oven!
-We stayed here for one night, so we brought our own food and stuck to our charcuterie snacks and pizza. But you also have an option to cook your own meals or for catering, just let them know beforehand. They complimented us with farm eggs, a fresh loaf of homemade bread, butter, and milk that was way more than enough for our next day breakky. 
+We stayed here for one night, so we brought our own food and stuck to our charcuterie snacks and pizza. But you also have options to cook your own meals or for catering, just let them know beforehand. They complimented us with farm eggs, a fresh loaf of homemade bread, butter, and milk that was way more than enough for our next day breakky. 
 
 ![](/assets/img_3807.jpg)
 
