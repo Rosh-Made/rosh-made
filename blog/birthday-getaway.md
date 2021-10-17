@@ -13,7 +13,7 @@ If you're a nature-lover at heart and enjoy camping but want to treat yourself a
 
 By its very name, the concept of *Glamping* is a fusion of glamor + camping where stunning nature meets modern luxury. Once in a while, it's nice to go somewhere (hassle-free) without having to think of packing and setting up your camp.
 
-If you're looking for a unique hideaway to unwind and unplug from the world, enjoy breathtaking panoramic views, and experience the peaceful New Zealand Countryside, then [Waitomo Hilltop Glamping](https://www.waitomoglamping.nz/) is another SPOT! 
+If you're looking for a unique hideaway to unwind and unplug from the world, enjoy breathtaking panoramic views, and experience the peaceful New Zealand Countryside, then [Waitomo Hilltop Glamping](https://www.waitomoglamping.nz/) is the SPOT! 
 
 Super pleased that we picked the right spot to celebrate my birthday and our first-ever glamping experience. Everything was magical and beyond what we imagined. Here are some highlights & tips for our stay.
 
