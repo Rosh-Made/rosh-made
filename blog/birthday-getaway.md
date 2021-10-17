@@ -24,17 +24,16 @@ Super pleased that we picked the right spot to celebrate my birthday and our fir
 
 ~ This safari tent has all the essentials you need and its hard to see it getting more lux than this. The tent has super comfy queen size bed (also, 2 x small beds for additional guests), an ensuite bathroom with flushing toilet, shower & eco-friendly toiletries. 
 
-~ Love their outdoor kitchen & pizza oven! We stayed here for one night, so we bought our own food and stucked to our charcuterie snacks and pizza, also you have an option to catering, just let them know before hand. They complimented us with farm fresh eggs, a fresh loaf of homemade bread, butter and milk which was way more than enough for our next day breakky. 
+~ Love their outdoor kitchen & pizza oven! We stayed here for one night, so we bought our own food and stucked to our charcuterie snacks and pizza, also you have an option to catering, just let them know before hand. They complimented us with farm eggs, a fresh loaf of homemade bread, butter and milk which was way more than enough for our next day breakky. 
 
-~ Another hightlight of our stay was watching the sunset which was absolutely breathtaking and completely relaxing, we pulled out the beanbags and watched the sunset. Later the night we had the opportunity for a stargazing, to top it off, they complimented us with a s'mores kit. We lit the firepit and enjoyed the cozy nightout, talk about a greater combo, it was just too perfect. 
+~ Another hightlight of our stay was watching the sunset which was absolutely breathtaking and completely relaxing, we pulled out the beanbags and watched the sunset while enjoying our charcuterie snacks. Later the night we had the opportunity for a stargazing, to top it off, they complimented us with a s'mores kit. We lit the firepit and enjoyed the cozy night with some fire-toasted marshmallows. Talk about a greater combo, it was just too perfect. 
 
-~ Tips: Once you're up there you are completely solo - only sola power and lantern lights, make sure you charge your devices. 
+~ Tip: Once you're up there you are completely solo - only sola power and lantern lights. Being off the grid does mean you won't be able to charge your devices — but maybe, with those views, that's not a bad thing.
 
-~ While we were in Waitomo, we went to see [Marokopa Falls](https://www.waikatonz.com/experiences/walking-hiking-trails/marokopa-falls-waitomo/), it was a lovely stop on our drive around the area, one of the beautiful waterfalls I've seen in NZ, just a 10-minute walk off the road. [Mangapohue Natural Bridge](https://www.waikatonz.com/experiences/walking-hiking-trails/mangapohue-natural-bridge-waitomo/) is another easy walk we did, to an ancient cave system, a must see as well. 
-
+~ While we were in Waitomo, we went to see [Marokopa Falls](https://www.waikatonz.com/experiences/walking-hiking-trails/marokopa-falls-waitomo/), it was a lovely stop on our drive around the area, one of the beautiful waterfalls I've seen in NZ, just a 10-minute walk off the road. [Mangapohue Natural Bridge](https://www.waikatonz.com/experiences/walking-hiking-trails/mangapohue-natural-bridge-waitomo/) is another easy walk we did, to an ancient cave system, a must see as well. \
 \
-[Waitomo glowworm caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves), [The Lost World](https://www.waitomo.co.nz/adventure/lost-world-epic-all-day-adventure) are some great things to do around the area, though we didn't had time to do. Hopfully next time. :) 
+[Waitomo glowworm caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves), [The Lost World](https://www.waitomo.co.nz/adventure/lost-world-epic-all-day-adventure) are other great things to do around the area, though we didn't had time to do. Hopfully next time. 
 
-Enjoy this small clip of our stay :) 
+If you're ever planning to go to this place, I highly recommend, worth a try! Enjoy this small clip of our stay. 
 
 `youtube: https://www.youtube.com/watch?v=IaobeakZgmA`
