@@ -17,7 +17,7 @@ Yes, plastics! It has become so central to our everyday life, more frightening, 
 
 The mid last year 2020, while I was home during the lockdown, I promised myself that I’m going to use that extra time to research and reduce waste generated at home. 
 
-The first thing that came to my mind was the KITCHEN, where a lot of waste happens to be indisposable plastic bottles, cling food film and chemically toxic things, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dishwash, Handwash, clean spray) in plastic bottles every time they ran over. 
+The first thing that came to my mind was the KITCHEN, where a lot of waste happens to be indisposable plastic bottles, cling food film, and chemically toxic things, and the list goes on.  Something that really bothered me was having to buy cleaning products (Dishwash, Handwash, clean spray) in plastic bottles every time they ran over. 
 
 I started to look for sustainable alternatives online, few options popped up.  I went for [The Honest Eco](https://www.thehonesteco.nz/shop) and 7 reasons why:
 
@@ -32,7 +32,7 @@ I started to look for sustainable alternatives online, few options popped up.  I
 1 x The Honest Eco Dish Washing Liquid Glass bottle\
 1 x The Honest Eco All-Purpose Glass bottle
 
-~ First and foremost, it does the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. \
+~ First and foremost, it serves the purpose, cuts down on packaging that significantly helps to reduce plastic in your household. \
 [The Honest Eco](https://www.thehonesteco.nz/shop) has their own refill service where you can send your 5L container to refill or else you can take that to your nearest [Refill Nation Station by Eco Store](https://ecostore.com/nz/storelocator/refill/) to fill up meaning you never have to buy new plastic bottles again. How incredible is this concept of refilling? LOVE IT! 
 
 [The Honest Eco](https://www.thehonesteco.nz/shop) Refill Service Process
@@ -51,11 +51,11 @@ I started to look for sustainable alternatives online, few options popped up.  I
 
 Other Options:
 
-~[ Eco Store](https://ecostore.com/nz/) has few [package options](https://ecostore.com/nz/shop/household/packs/) for Home/Cleaning care or else you can take your own containers or jars and they will refill it for you.
+~[ Eco Store](https://ecostore.com/nz/) has a few [package options](https://ecostore.com/nz/shop/household/packs/) for Home/Cleaning care or else you can take your own containers or jars and they will refill it for you.
 
 ~ [Dazz NZ](https://dazz.co.nz/) is another great option, which I found out only recently. Their concept is simple, turning cleaning tablets + Water into your household cleaning spray! 
 
-Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and conserve resources. REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you.
+Reducing our plastic use is critical and will require determined social and behavioral shifts. But the good news is that even the smallest switches can make a positive impact. Be the part to reduce plastic pollution and REMEMBER every effort counts and do it for you, your family, and our planet and bring awareness to people around you.
 
 Just imagine how many of these little guys you're going to save? Yes, Planet Earth will thank you for that :)
 
