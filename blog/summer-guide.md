@@ -1,6 +1,6 @@
 ---
 title: Summer Guide | South Island, NZ
-published: false
+published: true
 date: 2021-07-23T06:52:06.288Z
 description: itinerary
 featuredimage: /assets/img_2755-2.jpg
