@@ -63,11 +63,11 @@ Here's what I've grown in my four beds.
 
 Our back garden was just in a bad state, it has been neglected for good 3 years by the previous owners, and by us. I hope this picture speaks, Am I embarrassed? Maybe. 
 
+![](/assets/before.png)
 
 
 
-
-We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option.  \
+We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the garden waste which I believe was a cost-effective option.  \
 Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
 
 **Something to remember!** \
