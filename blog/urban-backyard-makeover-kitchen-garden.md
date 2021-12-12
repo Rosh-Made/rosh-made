@@ -3,7 +3,7 @@ title: "Urban Backyard Makeover | Kitchen Garden "
 published: true
 date: 2021-12-12T03:11:11.794Z
 description: Lockdown Project
-featuredimage: /assets/gardenmakeover.jpg
+featuredimage: /assets/img_6557.jpg
 tags:
   - HOME
 ---
@@ -140,4 +140,4 @@ Cheers to another great summer (lockdown) project, this is going to be a live bl
 
 ![](/assets/img_6625-2.jpg)
 
-Disclaimer: This is all my work based on the research from online resources and knowledge I gathered from online course :)
+Disclaimer: This is all my work based on the research from online resources and knowledge I gathered from the Horticulture course and my experince in the last couple of months.
