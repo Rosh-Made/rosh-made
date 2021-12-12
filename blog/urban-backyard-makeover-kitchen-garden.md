@@ -34,3 +34,8 @@ The second most important factor is what you want to grow. You want to grow what
 
 ~ Crop Layout \
 Laying out your veggies is crucial just as the location you choose to grow. Just like humans, we don’t want toxic people around us, same concept applies to plants, for a better crop yield they need to have their best companions together. I found this lifesaver tool: [GARDEN PLANNER](https://gardenplanner.almanac.com/) that helps you to plan the best layout for your space and tells you what veggies, herbs, and flowers work well together, how many plants will fit into a space, and a lot more.
+
+| Bed 1      | Bed 2 |
+| ----------- | ----------- |
+| Sunflower      | Capsicum       |
+| Sweet Corn   | Cucumber       |
