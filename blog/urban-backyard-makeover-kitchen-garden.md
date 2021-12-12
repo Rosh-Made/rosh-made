@@ -18,7 +18,7 @@ Important notes:
 
  It took us nearly two months to plan + implement what we have today, here’s my personal step-by-step approach. 
 
-1. ##### Do your homework, PLAN, yes in big letters!
+### 1. Do your homework, PLAN, yes in big letters!
 
 ~ Location \
 Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we receive good morning sunlight and shade in the evening, just ideal for the veggies. 
@@ -57,7 +57,7 @@ Here's what I've grown in my four beds.
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way to add a flower border to your veggie patch. 
 
-##### 2. Clean + Prepare the area
+### 2. Clean + Prepare the area
 
 Our back garden was just in a bad state, it has been neglected for good 3 years by the previous owners, and by us. I hope this picture speaks, Am I embarrassed? Maybe. 
 
@@ -67,12 +67,12 @@ Before you start laying the beds, make sure the ground is level, in our case we 
 **Something to remember!** \
 Labour in New Zealand is just crazy expensive, so my suggestion is to do as much as you can: like tidying up and DIYs and let the rest be handled by the professionals. 
 
-##### 3. Prepare the raised bed
+### 3. Prepare the raised bed
 
 DIY the raised beds if you can, it’s easy and cost-effective, there are plenty of tutorials out there. 
 I’m going to say this loud and clear, please use UNTREATED wood, you don’t want to buy treated wood that flows chemicals to your food, don’t you? There are plenty of options, we choose **Macrocarpa** Sleepers, as there are natural, solid, rot-resistant, and durable. We bought ours from [Cypress Sawmill](https://www.cypress-sawmill.co.nz/). 
 
-##### 4. Prepare the soil
+### 4. Prepare the soil
 
 Soil is a key component for the crops, the better your base, the better the crops will respond. Well, one of the perks of raising beds (No-Dig technique) is that you can control your soil and add nutrition as you go. Compost, Topsoil, Straw, and mulch are some great sources.
 
@@ -83,7 +83,7 @@ Tips: \
 
 
 
-##### 5. Buy seedlings or sow seeds 
+### 5. Buy seedlings or sow seeds 
 
 Buy the seedlings and/or transplant the seedling you have sown indoors. 
 
@@ -91,7 +91,7 @@ Buy the seedlings and/or transplant the seedling you have sown indoors.
 If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling.) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!  
 Also, save some for next year’s seedlings process, I honestly hope they could come up with biodegradable pots in the near future. 
 
-##### 6. Pest control 
+### 6. Pest control 
 
 This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
