@@ -12,10 +12,24 @@ So, two months ago, my partner - Shanika, and I decided to finally tackle our me
 Important notes:
 
 * We do not have a big piece of land, but I always believe that what you have is more than enough to start with and make it to use. 
-
-* As a novice gardener, I had to do a lot of homework and learn along the way and of course lots of trial and error. 
+* As a novice gardener, I had to do a lot of homework and learn along the way, and of course lots of trial and error. 
 
  It took us nearly two months to plan + implement what we have today, here’s my step-by-step approach. 
 
+1. Do your homework, **PLAN**, yes in big letters!
+
+~ Location 
+Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we get good morning sunlight and shade in the evening, just ideal for our veggies. 
+
+~ Garden beds ideas \
+As much as I want our plot to be functional, I’d also want to make sure it’s an inviting place to work. For that reason, we went with the wooden raised bed which is just perfect for a small urban garden: easier to maintain, and adds beauty at the same time. \
+But of course, there are other alternatives such as cement blocks, bricks, steel containers, and many more. Internet and Pinterest is your best friend if you want to brainstorm [some ideas](https://www.familyfoodgarden.com/vegetable-garden-ideas/).
+
+~ Garden Layout \
+Layering out the garden is important so that you can decide the spacing and materials required. My partner found this sophisticated tool called [Sketchup](https://www.sketchup.com/) (FREE!) to sketch our garden plan out. It’s a 3D design software where you can pretty much model anything with the exact measurements, to say the least, it turned out exactly how we designed.
+In the plan, we were able to fit four different sizes of raised beds given the size of our growing area. It’s your call to decide the bedding size but the recommended size should not exceed these lengths. 
+
+Crop Selection - The second most important factor is what you want to grow. You want to grow what you would eat right? And not everything you’re going to like can grow easily. As I’m a novice to veggie gardening, I started with few and easy ones and then planning to build up as I as go along. 
 
 
+Crop Layout – Laying out your veggies is cruical just as the location you choose to grow. Just like humans, we don’t want to have toxic people around us, same concept applies for plants they need to have their best companions that makes their harvest blossom. I found this lifesaver tool – GARDEN PLANNER that helps you to plan the best layout for your space and tells you what veggies, herbs and flowers work well together, how many plants will fit into a space, and lot more.
