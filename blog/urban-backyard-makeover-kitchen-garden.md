@@ -30,7 +30,7 @@ Layering out the garden is important so that you can decide the spacing and mate
 In the plan, we were able to fit four different sizes of raised beds given the size of our growing area. It’s your call to decide the bedding size but the recommended size should not exceed these lengths. 
 
 ~ Crop Selection \
-The second most important factor is what you want to grow. You want to grow what you would eat right? And not everything you’re going to like can grow easily. As I’m a novice to veggie gardening, I started with a few easy ones and then build up as I as go along. \
+The second most important factor is what you want to grow. You want to grow what you would eat right? And not everything you’re going to like can grow easily. As I’m a novice to veggie gardening, I started with a few easy ones and then build up as I as go along.
 
 ~ Crop Layout \
 Laying out your veggies is crucial just as the location you choose to grow. Just like humans, we don’t want toxic people around us, same concept applies to plants, for a better crop yield they need to have their best companions together. I found this lifesaver tool: [GARDEN PLANNER](https://gardenplanner.almanac.com/) that helps you to plan the best layout for your space and tells you what veggies, herbs, and flowers work well together, how many plants will fit into a space, and a lot more.
