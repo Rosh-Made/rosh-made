@@ -57,7 +57,7 @@ Here's what I've grown in my four beds.
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. 
 
-  ![](/assets/flowerborder.jpg)
+![](/assets/flowerborder.jpg)
 
 ### 2. Clean + Prepare the area
 
@@ -102,8 +102,9 @@ This is where I'm at right now, making sure my crops are protected from all the 
 
 We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously. 
 
-Tips:
-~ If you’re someone who’s keen to learn and invest time in gardening, take this free course: [NZ Certificate in Horticulture (General) Level 3](https://www.openpolytechnic.ac.nz/qualifications-and-courses/nz3218-new-zealand-certificate-in-sterilising-technology-level-3/) which is funded by the government (yes, it's FREE) from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
+Tips:\
+
+~ If you’re someone who’s keen to learn and invest time in gardening, take this free course: [NZ Certificate in Horticulture (General) Level 3](https://www.openpolytechnic.ac.nz/qualifications-and-courses/nz3218-new-zealand-certificate-in-sterilising-technology-level-3/) which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
 
 
 
