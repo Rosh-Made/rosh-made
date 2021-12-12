@@ -13,7 +13,7 @@ Today is such a milestone to us: yes today, the ***12th December 2021***, we har
 
 Nothing beats the satisfaction of growing your own food. Having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
-So, two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring some LIFE/LIGHT to it. Here's another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
+Two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring some LIFE/LIGHT to it. Here's another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
 
 Important notes:
 
@@ -105,7 +105,7 @@ This is where I'm at right now, making sure my crops are protected from all the 
 
 \*
 
-Tips:\
+Tips:
 
 ~ If you’re someone who’s keen to learn and invest time in gardening, take this free course: [NZ Certificate in Horticulture (General) Level 3](https://www.openpolytechnic.ac.nz/qualifications-and-courses/nz3218-new-zealand-certificate-in-sterilising-technology-level-3/) which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
 
