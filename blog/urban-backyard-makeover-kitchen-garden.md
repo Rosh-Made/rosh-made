@@ -45,4 +45,4 @@ Here's what I've grown in my four beds.
 | Strawberries | Cilantro | Spring Onions |          |
 
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
-* I've also added a flower border, a very important element
+* I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for pollination and for a better crop yield, a key element to a veggie garden!
