@@ -9,6 +9,8 @@ tags:
 ---
 ![](/assets/img_6619.jpg)
 
+Today is such a milestone to us: yes today, 12th Dec 2021, we harvest our first-ever organic produce! 
+
 Nothing beats the satisfaction of growing your own food. Having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
 So, two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring some LIFE/LIGHT to it. Here's another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
@@ -41,9 +43,6 @@ The second most important factor is what you want to grow. You want to grow what
 ~ Crop Layout \
 Laying out your veggies is crucial just as the location you choose to grow. Just like humans, we don’t want toxic people around us, same concept applies to plants, for a better crop yield they need to have their best companions together. I found this lifesaver tool: [GARDEN PLANNER](https://gardenplanner.almanac.com/) that helps you to plan the best layout for your space and tells you what veggies, herbs, and flowers work well together, how many plants will fit into a space, and a lot more. 
 
-![](/assets/picture-1.png)
-
-\
 \
 Here's what I've grown in my four beds. 
 
@@ -58,9 +57,15 @@ Here's what I've grown in my four beds.
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way to add a flower border to your veggie patch. 
 
+  ![](/assets/flowerborder.jpg)
+
 ### 2. Clean + Prepare the area
 
 Our back garden was just in a bad state, it has been neglected for good 3 years by the previous owners, and by us. I hope this picture speaks, Am I embarrassed? Maybe. 
+
+
+
+
 
 We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option.  \
 Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
