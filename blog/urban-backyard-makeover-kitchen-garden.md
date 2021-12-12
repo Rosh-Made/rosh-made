@@ -49,13 +49,13 @@ Here's what I've grown in my four beds.
 | Bed 1        | Bed 2    | Bed 3         | Bed 4    |
 | ------------ | -------- | ------------- | -------- |
 | Sunflower    | Capsicum | Tomatoes      | Cabbage  |
-| Sweet Corn   | Cucumber | Basil         | Kale     |
+| Sweet Corn   | Cucumber | Carrots       | Kale     |
 | Squash       | Beans    | Greens        | Broccoli |
-| Strawberries | Cilantro | Spring Onions |          |
-|              | Dill     | Carrots       |          |
+| Strawberries |          | Spring Onions |          |
 
-* I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
-* I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. 
+* Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
+* Managed to add herbs to each bed 
+* Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. 
 
 ![](/assets/flowerborder.jpg)
 
@@ -78,6 +78,8 @@ Labour in New Zealand is just crazy expensive, so my suggestion is to do as much
 
 DIY the raised beds if you can, it’s easy and cost-effective, there are plenty of tutorials out there. 
 I’m going to say this loud and clear, please use UNTREATED wood, you don’t want to buy treated wood that flows chemicals to your food, don’t you? There are plenty of options, we choose **Macrocarpa** Sleepers, as there are natural, solid, rot-resistant, and durable. We bought ours from [Cypress Sawmill](https://www.cypress-sawmill.co.nz/). 
+
+![](/assets/raisedbeds.jpg)
 
 ### 4. Prepare the soil
 
@@ -110,10 +112,11 @@ Tips:
 ~ If you’re someone who’s keen to learn and invest time in gardening, take this free course: [NZ Certificate in Horticulture (General) Level 3](https://www.openpolytechnic.ac.nz/qualifications-and-courses/nz3218-new-zealand-certificate-in-sterilising-technology-level-3/) which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
 
 ~ For aesthetics purposes:
- * installed string lights overhead to help to give this space a magical ambiance in the nighttime
-*  added gravel for the pathway + for low maintenance  
-* managed to get a garden bench, while having a cuppa and appreciating nature!
-*  we were gifted a wind chime from my lovely aunty, which I think is a great addition to any garden
+
+* installed string lights overhead to help to give this space a magical ambiance in the nighttime
+* added gravel for the pathway + for low maintenance  
+* managed to get a garden bench, to appreciate nature while having a cuppa!
+* we were gifted a wind chime from my lovely aunty, which I think is a great addition to any garden
 * also, we were super lucky, the house came with the bistro set to top it off! 
 
 ![](/assets/img_6587.jpg)
