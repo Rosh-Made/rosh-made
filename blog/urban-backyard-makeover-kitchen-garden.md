@@ -57,7 +57,7 @@ Before you start laying the beds, make sure the ground is level, in our case we 
 **Something to remember!** \
 Labour in New Zealand is just crazy expensive, so my suggestion is to do as much as you can: like tidying up and DIYs and let the rest be handled by the professionals. 
 
-##### **3. Prepare the raised bed**
+##### 3. Prepare the raised bed
 
 DIY the raised beds if you can, it’s easy and cost-effective, there are plenty of tutorials out there. 
 I’m going to say this loud and clear, please use UNTREATED wood, you don’t want to buy treated wood that flows chemicals to your food, don’t you? There are plenty of options, we choose **Macrocarpa** Sleepers, as there are natural, solid, rot-resistant and durable. We bought ours from [Cypress Sawmill](https://www.cypress-sawmill.co.nz/). 
