@@ -109,6 +109,15 @@ Tips:
 
 ~ If you’re someone who’s keen to learn and invest time in gardening, take this free course: [NZ Certificate in Horticulture (General) Level 3](https://www.openpolytechnic.ac.nz/qualifications-and-courses/nz3218-new-zealand-certificate-in-sterilising-technology-level-3/) which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
 
-To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
+~ For aesthetics purposes:\
+ * installed string lights overhead to help to give this space a magical ambiance in the nighttime\
+*  added gravel for the pathway + for low maintenance  \
+* managed to get a garden bench, while having a cuppa and appreciate the nature! \
+*  we were gifted a wind chime from my lovely aunty, which I think is a great addition to any garden\
+* also, we were super lucky, the house came with the bistro set to top it off! 
+
+
+
+~ To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
 
 Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic?
