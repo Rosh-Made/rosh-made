@@ -33,9 +33,16 @@ In the plan, we were able to fit four different sizes of raised beds given the s
 The second most important factor is what you want to grow. You want to grow what you would eat right? And not everything you’re going to like can grow easily. As I’m a novice to veggie gardening, I started with a few easy ones and then build up as I as go along.
 
 ~ Crop Layout \
-Laying out your veggies is crucial just as the location you choose to grow. Just like humans, we don’t want toxic people around us, same concept applies to plants, for a better crop yield they need to have their best companions together. I found this lifesaver tool: [GARDEN PLANNER](https://gardenplanner.almanac.com/) that helps you to plan the best layout for your space and tells you what veggies, herbs, and flowers work well together, how many plants will fit into a space, and a lot more.
+Laying out your veggies is crucial just as the location you choose to grow. Just like humans, we don’t want toxic people around us, same concept applies to plants, for a better crop yield they need to have their best companions together. I found this lifesaver tool: [GARDEN PLANNER](https://gardenplanner.almanac.com/) that helps you to plan the best layout for your space and tells you what veggies, herbs, and flowers work well together, how many plants will fit into a space, and a lot more. 
 
-| Bed 1      | Bed 2 | Bed 3
-| ----------- | ----------- | ----------- |
-| Sunflower      | Capsicum       | Tomatoes |
-| Sweet Corn   | Cucumber       | Basil |
+Here's what I've grown in my four beds. 
+
+| Bed 1        | Bed 2    | Bed 3         | Bed 4    |
+| ------------ | -------- | ------------- | -------- |
+| Sunflower    | Capsicum | Tomatoes      | Cabbage  |
+| Sweet Corn   | Cucumber | Basil         | Kale     |
+| Squash       | Beans    | Lettuce       | Broccoli |
+| Strawberries | Cilantro | Spring Onions |          |
+
+* I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
+* I've also added a flower border, a very important element
