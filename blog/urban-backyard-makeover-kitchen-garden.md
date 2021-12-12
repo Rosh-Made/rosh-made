@@ -65,8 +65,11 @@ Our back garden was just in a bad state, it has been neglected for good 3 years 
 
 ![](/assets/before.png)
 
-We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the garden waste which I believe was a cost-effective option.  \
-Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
+\*We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option. The empty space gave us to brainstorm some ideas, it was more like painting a canvas!\
+\
+*Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
+
+![](/assets/levelup.jpg)
 
 **Something to remember!** \
 Labour in New Zealand is just crazy expensive, so my suggestion is to do as much as you can: like tidying up and DIYs and let the rest be handled by the professionals. 
