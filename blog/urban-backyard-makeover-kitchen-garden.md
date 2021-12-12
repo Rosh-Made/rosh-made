@@ -7,9 +7,11 @@ featuredimage: /assets/gardenmakeover.jpg
 tags:
   - HOME
 ---
-Nothing beats the satisfaction of ‘growing your own food', and having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
+![](/assets/img_6619.jpg)
 
-So, two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring LIFE to it. Another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
+Nothing beats the satisfaction of growing your own food. Having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
+
+So, two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring some LIFE/LIGHT to it. Here's another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
 
 Important notes:
 
@@ -49,11 +51,9 @@ Here's what I've grown in my four beds.
 | ------------ | -------- | ------------- | -------- |
 | Sunflower    | Capsicum | Tomatoes      | Cabbage  |
 | Sweet Corn   | Cucumber | Basil         | Kale     |
-| Squash       | Beans    | Greens       | Broccoli |
+| Squash       | Beans    | Greens        | Broccoli |
 | Strawberries | Cilantro | Spring Onions |          |
-|              |  Dill       | Carrots       |          |
-
-
+|              | Dill     | Carrots       |          |
 
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way to add a flower border to your veggie patch. 
@@ -82,27 +82,22 @@ Tips: \
 
 \* I've followed the lasagna soil method: where you can add materials to each layer for better soil composition. 
 
-
-
-### 5. Buy seedlings or sow seeds 
+### 5. Buy seedlings or sow seeds
 
 Buy the seedlings and/or transplant the seedling you have sown indoors. 
 
 \*Important Note: 
-If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling.) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!  
+If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling.) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!\
 Also, save some for next year’s seedlings process, I honestly hope they could come up with biodegradable pots in the near future. 
 
-### 6. Pest control 
+### 6. Pest control
 
 This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
 We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously. 
 
-
-
 Tips:
 ~ If you’re someone who’s keen to learn and invest time in gardening take this free course: NZ Certificate in Horticulture (General) Level 3 which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
-
 
 To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
 
