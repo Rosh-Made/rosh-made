@@ -7,7 +7,7 @@ featuredimage: /assets/gardenmakeover.jpg
 tags:
   - HOME
 ---
-Nothing beats the satisfaction of ‘growing your own food', having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
+Nothing beats the satisfaction of ‘growing your own food', and having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
 So, two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring LIFE to it. Another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
 
