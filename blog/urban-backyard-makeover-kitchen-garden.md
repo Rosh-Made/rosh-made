@@ -4,6 +4,8 @@ published: true
 date: 2021-12-12T03:11:11.794Z
 description: Lockdown Project
 featuredimage: /assets/gardenmakeover.jpg
+tags:
+  - HOME
 ---
 Nothing beats the satisfaction of ‘growing your own food', having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
