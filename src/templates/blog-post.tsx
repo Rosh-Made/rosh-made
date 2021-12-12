@@ -44,12 +44,29 @@ const Content = styled.div`
     color: #3c87e8;
     text-decoration: none;
   }
-`
 
-const ShareButtons = styled.div`
-  margin-top: 2rem;
-  display: flex;
-  justify-content: flex-end;
+  table {
+    border-collapse: collapse;
+    display: block;
+    overflow-x: auto;
+  }
+
+  td,
+  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #e5e3e3;
+  }
 `
 
 const BlogPost: FC<any> = ({ data }) => {
@@ -70,14 +87,13 @@ const BlogPost: FC<any> = ({ data }) => {
         <meta
           property="og:url"
           content={`https://www.roshmade.com/${post.fields.slug}`}
-
-        /><meta
+        />
+        <meta
           property="og:title"
           content={`Roshmade Blog - ${post.frontmatter.title}`}
-
-        /><meta property="og:type" content="article" />
-        <meta property="og:description" content={post.excerpt}
         />
+        <meta property="og:type" content="article" />
+        <meta property="og:description" content={post.excerpt} />
         <meta property="og:image" content={featuredimage} />
       </Helmet>
 
