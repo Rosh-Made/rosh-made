@@ -45,7 +45,7 @@ Here's what I've grown in my four beds.
 | Strawberries | Cilantro | Spring Onions |          |
 
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
-* I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden.
+* I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way to add a flower border to your veggie patch. 
 
 ##### 2. Clean + Prepare the area
 
@@ -85,4 +85,14 @@ Also, save some for next year’s seedlings process, I honestly hope they could 
 
 This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
-We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously.
+We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously. 
+
+
+
+Tips:
+~ If you’re someone who’s keen to learn and invest time in gardening take this free course: NZ Certificate in Horticulture (General) Level 3 which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
+
+
+To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
+
+Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic? :D
