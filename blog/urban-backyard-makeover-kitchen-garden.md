@@ -52,6 +52,8 @@ Here's what I've grown in my four beds.
 | Squash       | Beans    | Greens        | Broccoli |
 | Strawberries |          | Spring Onions |          |
 
+![](/assets/img_6574.jpg)
+
 * Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * Managed to add herbs to each bed 
 * Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
@@ -116,7 +118,7 @@ This is where I'm at right now, making sure my crops are protected from all the 
 
 \*We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously. 
 
-\*
+![](/assets/img_6666.jpg)
 
 Tips:
 
