@@ -9,7 +9,7 @@ tags:
 ---
 ![](/assets/img_6619.jpg)
 
-Today is such a milestone to us: yes today, 12th Dec 2021, we harvest our first-ever organic produce! 
+Today is such a milestone to us: yes today, the ***12th Dec 2021***, we harvest our first-ever organic produce! 
 
 Nothing beats the satisfaction of growing your own food. Having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
