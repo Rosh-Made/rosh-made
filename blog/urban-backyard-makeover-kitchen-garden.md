@@ -9,11 +9,11 @@ tags:
 ---
 ![](/assets/img_6619.jpg)
 
-Today is such a milestone to us: yes today, the ***12th December 2021***, we harvest our first-ever organic produce, we are super stoked!
+Today is such a milestone to us: yes today, the ***12th December 2021***, we harvest our first-ever organic produce, super stoked!
 
-Nothing beats the satisfaction of growing your own food. Having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
+Nothing beats the satisfaction of growing your own food. Having total control over what goes into the production, and knowing where it's coming from is the best feeling. To own a kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
-Two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring some LIFE/LIGHT to it. Here's another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
+Two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring some LIFE/LIGHT to it. Here's another fun project we did during the lockdown period and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
 
 Important notes:
 
@@ -73,7 +73,7 @@ Our back garden was just in a bad state, it has been neglected for good 3 years 
 ![](/assets/levelup.jpg)
 
 **Something to remember!** \
-Labour in New Zealand is just crazy expensive, so my suggestion is to do as much as you can: like tidying up and DIYs and let the rest be handled by the professionals. 
+Labour in New Zealand is just crazy expensive, so my suggestion is to do as much as you can: like tidying up and DIYs and let the rest be handled by the professionals. We only got two things done by the tradies: installing the new fence and compacting the ground, the rest were carried by us. Honestly, most of the heavy work was done by Shanika since my back was injured. Kudos to him, he was just AMAZING! 
 
 ### 3. Prepare the raised bed
 
