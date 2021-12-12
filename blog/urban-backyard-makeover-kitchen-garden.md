@@ -41,8 +41,7 @@ In the plan, we were able to fit four different sizes of raised beds given the s
 The second most important factor is what you want to grow. You want to grow what you would eat right? And not everything you’re going to like can grow easily. As I’m a novice to veggie gardening, I started with a few easy ones and then build up as I as go along.
 
 ~ Crop Layout \
-Laying out your veggies is crucial just as the location you choose to grow. Just like humans, we don’t want toxic people around us, same concept applies to plants, for a better crop yield they need to have their best companions together. I found this lifesaver tool: [GARDEN PLANNER](https://gardenplanner.almanac.com/) that helps you to plan the best layout for your space and tells you what veggies, herbs, and flowers work well together, how many plants will fit into a space, and a lot more. 
-
+Laying out your veggies is crucial just as the location you choose to grow. Just like humans, we don’t want toxic people around us, same concept applies to plants, for a better crop yield they need to have their best companions together. I found this lifesaver tool: [GARDEN PLANNER](https://gardenplanner.almanac.com/) that helps you to plan the best layout for your space and tells you what veggies, herbs, and flowers work well together, how many plants will fit into a space, and a lot more. \
 \
 Here's what I've grown in my four beds. 
 
@@ -55,17 +54,19 @@ Here's what I've grown in my four beds.
 
 * Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * Managed to add herbs to each bed 
-* Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. 
+* Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
 
 ![](/assets/flowerborder.jpg)
 
-### 2. Clean + Prepare the area
+![](/assets/img_6684.jpg)
+
+### 2. Prepare the area
 
 Our back garden was just in a bad state, it has been neglected for good 3 years by the previous owners, and by us. I hope this picture speaks, Am I embarrassed? Maybe. 
 
 ![](/assets/before.png)
 
-\*We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option. The empty space gave us to brainstorm some ideas, it was more like painting a canvas!\
+\*We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option. The empty space gave both of us to brainstorm some ideas, it was more like painting an empty canvas!\
 \
 *Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
 
