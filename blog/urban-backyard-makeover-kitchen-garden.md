@@ -46,3 +46,17 @@ Here's what I've grown in my four beds.
 
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for pollination and for a better crop yield, a key element to a veggie garden!
+
+
+
+2. Clean + Prepare the area 
+
+Our back garden was just in a bad state, it has been neglected for good 3 years by the previous owners, and from us. I hope this picture speaks, Am I embarrassed? Maybe. 
+
+
+
+We had to do a massive cleanup and get rid of the junk. The house came with a huge garden shed, which we gave to one of the guys who collect metals, and we arrange a garden waste collection from SKIP bins for the rest of the waste which I believe was a cost-effective option.  
+
+Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
+
+Something to remember, labour in NZ is just crazy expensive, so my suggestion is to do as much as you can like tidying up and DIYs and let the rest handle by the professionals.
