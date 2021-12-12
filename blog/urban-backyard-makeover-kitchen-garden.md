@@ -7,7 +7,7 @@ featuredimage: /assets/gardenmakeover.jpg
 ---
 Nothing beats the satisfaction of ‘growing your own food', having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
-So, two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and give some life to it. Another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
+So, two months ago, my partner - Shanika, and I decided to finally tackle our messy, boring, and unattractive backyard and bring LIFE to it. Another fun project we did during the lockdown and sharing our experience of how we transformed a shabby backyard into something beautiful but also functional. 
 
 Important notes:
 
@@ -19,10 +19,10 @@ Important notes:
 1. Do your homework, **PLAN**, yes in big letters!
 
 ~ Location \
-Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we get good morning sunlight and shade in the evening, just ideal for the veggies. 
+Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we receive good morning sunlight and shade in the evening, just ideal for the veggies. 
 
 ~ Garden beds ideas \
-As much as I want our plot to be functional, I’d also want to make sure it’s an inviting place to work. For that reason, we went with the wooden raised bed which is just perfect for a small urban garden: easier to maintain, and adds beauty at the same time. \
+As much as I want our plot to be functional, I’d also want to make sure it’s an inviting place to work. For that reason, we went with the wooden raised bed which is just perfect for a small urban garden: easier to maintain + adds beauty at the same time. \
 But of course, there are other alternatives such as cement blocks, bricks, steel containers, and many more. Internet and Pinterest is your best friend if you want to brainstorm [some ideas](https://www.familyfoodgarden.com/vegetable-garden-ideas/).
 
 ~ Garden Layout \
@@ -53,10 +53,7 @@ Here's what I've grown in my four beds.
 
 Our back garden was just in a bad state, it has been neglected for good 3 years by the previous owners, and from us. I hope this picture speaks, Am I embarrassed? Maybe. 
 
-
-
-We had to do a massive cleanup and get rid of the junk. The house came with a huge garden shed, which we gave to one of the guys who collect metals, and we arrange a garden waste collection from SKIP bins for the rest of the waste which I believe was a cost-effective option.  
-
+We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from SKIP bins for the rest of the waste which I believe was a cost-effective option.  \
 Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
 
-Something to remember, labour in NZ is just crazy expensive, so my suggestion is to do as much as you can like tidying up and DIYs and let the rest handle by the professionals.
+Something to remember, labour in New Zealand is just crazy expensive, so my suggestion is to do as much as you can: like tidying up and DIYs and let the rest handle by the professionals.
