@@ -9,7 +9,7 @@ tags:
 ---
 ![](/assets/img_6619.jpg)
 
-Today is such a milestone to us: yes today, the ***12th December 2021***, we harvest our first-ever organic produce! 
+Today is such a milestone to us: yes today, the ***12th December 2021***, we harvest our first-ever organic produce, we are super stoked!
 
 Nothing beats the satisfaction of growing your own food. Having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
@@ -27,7 +27,7 @@ Important notes:
 ~ Location \
 Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we receive good morning sunlight and shade in the evening, just ideal for the veggies. 
 
-~ Garden beds ideas \
+~ Garden bed ideas \
 As much as I want our plot to be functional, I’d also want to make sure it’s an inviting place to work. For that reason, we went with the wooden raised bed which is just perfect for a small urban garden: easier to maintain + adds beauty at the same time. \
 But of course, there are other alternatives such as cement blocks, bricks, steel containers, and many more. Internet and Pinterest is your best friend if you want to brainstorm [some ideas](https://www.familyfoodgarden.com/vegetable-garden-ideas/).
 
@@ -65,8 +65,6 @@ Our back garden was just in a bad state, it has been neglected for good 3 years 
 
 ![](/assets/before.png)
 
-
-
 We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the garden waste which I believe was a cost-effective option.  \
 Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
 
@@ -100,14 +98,14 @@ Also, save some for next year’s seedlings process, I honestly hope they could 
 
 This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
-We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously. 
+\*We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously. 
+
+\*
 
 Tips:\
 
 ~ If you’re someone who’s keen to learn and invest time in gardening, take this free course: [NZ Certificate in Horticulture (General) Level 3](https://www.openpolytechnic.ac.nz/qualifications-and-courses/nz3218-new-zealand-certificate-in-sterilising-technology-level-3/) which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
 
-
-
 To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
 
-Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic? :D
+Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic?
