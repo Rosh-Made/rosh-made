@@ -81,6 +81,8 @@ Buy the seedlings and/or transplant the seedling you have sown indoors.
 If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling.) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!  
 Also, save some for next year’s seedlings process, I honestly hope they could come up with biodegradable pots in the near future. 
 
+##### 6. Pest control 
 
+This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
-##### 6. Pest control
+We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously.
