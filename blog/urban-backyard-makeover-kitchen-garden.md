@@ -66,4 +66,4 @@ I’m going to say this loud and clear, please use UNTREATED wood, you don’t w
 
 Soil is a key component for the crops, the better your base, the better the crops will respond. Well, one of the perks of raising beds (No-Dig technique) is that you can control your soil and add nutrition as you go. Compost, Topsoil, Straw, and mulch are some great sources.
 
-Tip: we needed 3 cubic meters of topsoil,
+Tip: we needed 3 cubic meters of topsoil, we've got delivered them from [Central Landsacpes](https://centrallandscapes.co.nz/), sustainable (saves a lot of plastic packaging) and cost-effective option for sure.
