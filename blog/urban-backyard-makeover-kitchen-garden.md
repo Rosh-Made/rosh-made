@@ -18,7 +18,7 @@ Important notes:
 
 1. Do your homework, **PLAN**, yes in big letters!
 
-~ Location 
+~ Location \
 Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we get good morning sunlight and shade in the evening, just ideal for our veggies. 
 
 ~ Garden beds ideas \
