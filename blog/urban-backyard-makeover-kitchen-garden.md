@@ -9,7 +9,7 @@ tags:
 ---
 ![](/assets/img_6619.jpg)
 
-Today is such a milestone to us: yes today, the ***12th Dec 2021***, we harvest our first-ever organic produce! 
+Today is such a milestone to us: yes today, the ***12th December 2021***, we harvest our first-ever organic produce! 
 
 Nothing beats the satisfaction of growing your own food. Having total control over what goes into the production, and knowing where it's coming from is the best feeling. To have my own kitchen garden is something that I always dreamed of, and I can’t believe I’m writing a blog on this, someone please pinch me!
 
@@ -55,7 +55,7 @@ Here's what I've grown in my four beds.
 |              | Dill     | Carrots       |          |
 
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
-* I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way to add a flower border to your veggie patch. 
+* I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. 
 
   ![](/assets/flowerborder.jpg)
 
@@ -92,7 +92,8 @@ Tips: \
 Buy the seedlings and/or transplant the seedling you have sown indoors. 
 
 \*Important Note: 
-If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling.) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!\
+If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling.) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!
+
 Also, save some for next year’s seedlings process, I honestly hope they could come up with biodegradable pots in the near future. 
 
 ### 6. Pest control
@@ -102,7 +103,9 @@ This is where I'm at right now, making sure my crops are protected from all the 
 We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously. 
 
 Tips:
-~ If you’re someone who’s keen to learn and invest time in gardening take this free course: NZ Certificate in Horticulture (General) Level 3 which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
+~ If you’re someone who’s keen to learn and invest time in gardening, take this free course: [NZ Certificate in Horticulture (General) Level 3](https://www.openpolytechnic.ac.nz/qualifications-and-courses/nz3218-new-zealand-certificate-in-sterilising-technology-level-3/) which is funded by the government (yes, it's FREE) from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
+
+
 
 To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
 
