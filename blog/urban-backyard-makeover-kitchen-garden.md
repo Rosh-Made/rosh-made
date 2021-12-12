@@ -49,8 +49,9 @@ Here's what I've grown in my four beds.
 | ------------ | -------- | ------------- | -------- |
 | Sunflower    | Capsicum | Tomatoes      | Cabbage  |
 | Sweet Corn   | Cucumber | Basil         | Kale     |
-| Squash       | Beans    | Lettuce       | Broccoli |
+| Squash       | Beans    | Greens       | Broccoli |
 | Strawberries | Cilantro | Spring Onions |          |
+|              |  Dill       | Carrots       |          |
 
 
 
