@@ -47,7 +47,7 @@ Here's what I've grown in my four beds.
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden.
 
-##### 2. Clean + Prepare the area 
+##### 2. Clean + Prepare the area
 
 Our back garden was just in a bad state, it has been neglected for good 3 years by the previous owners, and by us. I hope this picture speaks, Am I embarrassed? Maybe. 
 
@@ -62,8 +62,8 @@ Labour in New Zealand is just crazy expensive, so my suggestion is to do as much
 DIY the raised beds if you can, it’s easy and cost-effective, there are plenty of tutorials out there. 
 I’m going to say this loud and clear, please use UNTREATED wood, you don’t want to buy treated wood that flows chemicals to your food, don’t you? There are plenty of options, we choose **Macrocarpa** Sleepers, as there are natural, solid, rot-resistant and durable. We bought ours from [Cypress Sawmill](https://www.cypress-sawmill.co.nz/). 
 
-##### 4. Prepare the soil 
+##### 4. Prepare the soil
 
 Soil is a key component for the crops, the better your base, the better the crops will respond. Well, one of the perks of raising beds (No-Dig technique) is that you can control your soil and add nutrition as you go. Compost, Topsoil, Straw, and mulch are some great sources.
 
-Tip: we needed 3 cubic meters of topsoil, we've got delivered them from [Central Landsacpes](https://centrallandscapes.co.nz/), sustainable (saves a lot of plastic packaging) and cost-effective option for sure.
+Tip: we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landsacpes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging) and cost-effective option for sure.
