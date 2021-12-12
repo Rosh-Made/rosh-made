@@ -27,7 +27,7 @@ But of course, there are other alternatives such as cement blocks, bricks, steel
 
 ~ Garden Layout \
 Layering out the garden is important so that you can decide the spacing and materials required. My partner found this sophisticated tool called [Sketchup](https://www.sketchup.com/) (FREE!) to sketch our garden plan out. It’s a 3D design software where you can pretty much model anything with the exact measurements, to say the least, it turned out exactly how we designed.
-In the plan, we were able to fit four different sizes of raised beds given the size of our growing area. It’s your call to decide the bedding size but the recommended size should not exceed these lengths. 
+In the plan, we were able to fit four different sizes of raised beds given the size of our growing area. It’s your call to decide the bedding size but a 4 x 8 foot bed, 2 x 3 feet high, is typically a good size.
 
 ~ Crop Selection \
 The second most important factor is what you want to grow. You want to grow what you would eat right? And not everything you’re going to like can grow easily. As I’m a novice to veggie gardening, I started with a few easy ones and then build up as I as go along.
@@ -69,4 +69,4 @@ Soil is a key component for the crops, the better your base, the better the crop
 Tips: \
 *we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landsacpes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging) and cost-effective option for sure.
 
-\* I've followed the lasagna soil method: where you can add materials to each level.
+\* I've followed the lasagna soil method: where you can add materials to each layer for better soil composition.
