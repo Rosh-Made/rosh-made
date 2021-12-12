@@ -82,23 +82,33 @@ I’m going to say this loud and clear, please use UNTREATED wood, you don’t w
 
 ![](/assets/raisedbeds.jpg)
 
+
+
+![](/assets/img_5151.jpg)
+
 ### 4. Prepare the soil
 
 Soil is a key component for the crops, the better your base, the better the crops will respond. Well, one of the perks of raising beds (No-Dig technique) is that you can control your soil and add nutrition as you go. Compost, Topsoil, Straw, and mulch are some great sources.
 
 Tips: \
-*we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landsacpes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging) and cost-effective option for sure.
+*we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landsacpes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging buying from the garden center) and cost-effective option for sure.
 
 \* I've followed the lasagna soil method: where you can add materials to each layer for better soil composition. 
+
+![](/assets/soil.png)
+
+
 
 ### 5. Buy seedlings or sow seeds
 
 Buy the seedlings and/or transplant the seedling you have sown indoors. 
 
 \*Important Note: 
-If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling.) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!
+If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!
 
 Also, save some for next year’s seedlings process, I honestly hope they could come up with biodegradable pots in the near future. 
+
+![](/assets/seedlings.png)
 
 ### 6. Pest control
 
