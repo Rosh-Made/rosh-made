@@ -69,4 +69,14 @@ Soil is a key component for the crops, the better your base, the better the crop
 Tips: \
 *we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landsacpes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging) and cost-effective option for sure.
 
-\* I've followed the lasagna soil method: where you can add materials to each layer for better soil composition.
+\* I've followed the lasagna soil method: where you can add materials to each layer for better soil composition. 
+
+
+
+##### 5. Buy seedlings or sow seeds 
+
+Buy the plants/seedlings and or transplant the seedling you have sown indoors. 
+
+\*Important Note: 
+If you are someone who has ended up collecting tons of plastic seedlings pots and is not sure what to do, this is your call. Mitre10 has stepped up a great initiative called [Pot Recycle](https://www.mitre10.co.nz/potrecycling.) – where now they accept CLEAN, unwanted pots for recycling. Make sure you thoroughly clean them!  
+Also, save some for next year’s seedlings process, I honestly hope they could come up with biodegradable pots in the near future.
