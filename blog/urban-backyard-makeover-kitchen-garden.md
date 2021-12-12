@@ -119,8 +119,12 @@ Tips:
 * we were gifted a wind chime from my lovely aunty, which I think is a great addition to any garden
 * also, we were super lucky, the house came with the bistro set to top it off! 
 
-![](/assets/img_6587.jpg)
+![](/assets/img_6599.jpg)
 
 ~ To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
 
 Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic? as Always!
+
+![](/assets/img_6625-2.jpg)
+
+Disclaimer: This is all my work based on the research from online resources and knowledge I gathered from online course :)
