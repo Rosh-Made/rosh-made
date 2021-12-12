@@ -31,12 +31,18 @@ But of course, there are other alternatives such as cement blocks, bricks, steel
 Layering out the garden is important so that you can decide the spacing and materials required. My partner found this sophisticated tool called [Sketchup](https://www.sketchup.com/) (FREE!) to sketch our garden plan out. It’s a 3D design software where you can pretty much model anything with the exact measurements, to say the least, it turned out exactly how we designed.
 In the plan, we were able to fit four different sizes of raised beds given the size of our growing area. It’s your call to decide the bedding size but a 4 x 8 foot bed, 2 x 3 feet high, is typically a good size.
 
+![](/assets/sketchup.png)
+
 ~ Crop Selection \
 The second most important factor is what you want to grow. You want to grow what you would eat right? And not everything you’re going to like can grow easily. As I’m a novice to veggie gardening, I started with a few easy ones and then build up as I as go along.
 
 ~ Crop Layout \
 Laying out your veggies is crucial just as the location you choose to grow. Just like humans, we don’t want toxic people around us, same concept applies to plants, for a better crop yield they need to have their best companions together. I found this lifesaver tool: [GARDEN PLANNER](https://gardenplanner.almanac.com/) that helps you to plan the best layout for your space and tells you what veggies, herbs, and flowers work well together, how many plants will fit into a space, and a lot more. 
 
+![](/assets/picture-1.png)
+
+\
+\
 Here's what I've grown in my four beds. 
 
 | Bed 1        | Bed 2    | Bed 3         | Bed 4    |
@@ -45,6 +51,8 @@ Here's what I've grown in my four beds.
 | Sweet Corn   | Cucumber | Basil         | Kale     |
 | Squash       | Beans    | Lettuce       | Broccoli |
 | Strawberries | Cilantro | Spring Onions |          |
+
+
 
 * I’ve incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * I've also reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way to add a flower border to your veggie patch. 
