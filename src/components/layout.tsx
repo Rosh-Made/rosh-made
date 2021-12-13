@@ -1,9 +1,11 @@
 import React, { FC, useState } from "react"
 import {
   AppBar,
+  Backdrop,
   createMuiTheme,
   CssBaseline,
   IconButton,
+  makeStyles,
   MuiThemeProvider,
 } from "@material-ui/core"
 import styled from "styled-components"
@@ -13,6 +15,7 @@ import SlideInMenu from "./slide-in-menu"
 import CloseIcon from "@material-ui/icons/Close"
 import SocialIcons from "./social-icons"
 import { Logo } from "./logo"
+import { FirebaseWrapper } from "./FirebaseWrapper"
 
 const Header = styled(AppBar)`
   min-height: 8rem;
@@ -24,7 +27,7 @@ const Header = styled(AppBar)`
   align-items: center;
   color: #5f5f5f;
   background-color: #fff;
-  z-index: 34;
+  z-index: 33;
   position: relative;
 
   @media (min-width: 960px) {
@@ -126,51 +129,68 @@ const FooterLinks = styled.div`
   }
 `
 
+const useStyles = makeStyles(() => ({
+  backdrop: {
+    zIndex: 34,
+    backgroundColor: "transparent",
+  },
+}))
+
 const Layout: FC = ({ children }) => {
   const [visible, setVisible] = useState(false)
+  const classes = useStyles()
 
+  // @ts-ignore
   return (
-    <MuiThemeProvider theme={themeLight}>
-      <CssBaseline />
-      <Header>
-        <div>
-          <IconButton
-            className="show-on-desktop"
-            onClick={() => setVisible(true)}
-            aria-label="menu"
-          >
-            <MenuIcon fontSize="large" />
-          </IconButton>
-          <SlideInMenu visible={visible} close={() => setVisible(false)} />
-        </div>
-        <Logo />
-        <div>
-          <SearchIcon
-            style={{ visibility: "hidden" }}
-            className="show-on-desktop"
-            fontSize="large"
-          />
-        </div>
-      </Header>
-      <LogoHeader />
-      <Container>{children}</Container>
-      <Footer>
-        <FooterLinks>
-          © Roshmade 2021
-          {/*<Link to="/about">About</Link>*/}
-          {/*<Link to="/contact">Contact</Link>*/}
-        </FooterLinks>
-        <SocialIcons />
-      </Footer>
-      <BottomBar>
-        <div>
-          <IconButton onClick={() => setVisible(!visible)} aria-label="menu">
-            {visible ? <CloseIcon /> : <MenuIcon />}
-          </IconButton>
-        </div>
-        <div />
-      </BottomBar>
-    </MuiThemeProvider>
+    <FirebaseWrapper>
+      <MuiThemeProvider theme={themeLight}>
+        <CssBaseline />
+        <Header>
+          <div>
+            <IconButton
+              className="show-on-desktop"
+              onClick={() => setVisible(true)}
+              aria-label="menu"
+            >
+              <MenuIcon fontSize="large" />
+            </IconButton>
+            <Backdrop
+              className={classes.backdrop}
+              open={visible}
+              onClick={() => setVisible(false)}
+            >
+              <SlideInMenu visible={visible} close={() => setVisible(false)} />
+            </Backdrop>
+          </div>
+          <Logo />
+          <div>
+            <SearchIcon
+              style={{ visibility: "hidden" }}
+              className="show-on-desktop"
+              fontSize="large"
+            />
+          </div>
+        </Header>
+        <LogoHeader />
+        <Container>{children}</Container>
+        <Footer>
+          <FooterLinks>
+            © Roshmade 2021
+            {/*<Link to="/about">About</Link>*/}
+            {/*<Link to="/contact">Contact</Link>*/}
+          </FooterLinks>
+          <SocialIcons />
+        </Footer>
+        <BottomBar>
+          <div>
+            <IconButton onClick={() => setVisible(!visible)} aria-label="menu">
+              {visible ? <CloseIcon /> : <MenuIcon />}
+            </IconButton>
+          </div>
+          <div />
+        </BottomBar>
+      </MuiThemeProvider>
+    </FirebaseWrapper>
   )
 }
 
