@@ -18,7 +18,7 @@ Two months ago, my partner - Shanika, and I decided to finally tackle our messy,
 Note:
 
 * We do not have a big piece of land, but I always believe that what you have is more than enough to start with and make it to use. 
-* As a novice gardener, I had to do a lot of homework and learn along the way, and of course lots of trial and error. 
+* As a novice gardener, I had to do a lot of homework and learn along the way, and most of it was through trial and error. 
 
  It took us nearly two months to plan + implement what we have today, here’s my personal step-by-step approach. 
 
@@ -55,7 +55,7 @@ Here's what I've grown in my four beds.
 ![](/assets/img_6574.jpg)
 
 * Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
-* Managed to add herbs to each bed 
+* Managed to interplant herbs to each bed based on the benefits: apparently, basil protects tomatoes from pests and taste better when they grow together. Dill will help cucumbers by attracting predatory insects. 
 * Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
 
 ![](/assets/flowerborder.jpg)
@@ -84,8 +84,6 @@ I’m going to say this loud and clear, please use UNTREATED wood, you don’t w
 
 ![](/assets/raisedbeds.jpg)
 
-
-
 ![](/assets/img_5151.jpg)
 
 ### 4. Prepare the soil
@@ -98,8 +96,6 @@ Tips: \
 \* I've followed the lasagna soil method: where you can add materials to each layer for better soil composition. 
 
 ![](/assets/soil.png)
-
-
 
 ### 5. Buy seedlings or sow seeds
 
@@ -124,6 +120,12 @@ Tips:
 
 ~ If you’re someone who’s keen to learn and invest time in gardening, take this free course: [NZ Certificate in Horticulture (General) Level 3](https://www.openpolytechnic.ac.nz/qualifications-and-courses/nz2677-new-zealand-certificate-in-horticulture-general-level-3/) which is funded by the government from the open polytechnic university. I’ve started mine and it's super interesting, so much to learn :) 
 
+~ To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
+
+~ Trust me there's no such a thing as a green thumb, you only need patience + practice. If you want to start something and are not sure from where to, start with lettuce, probably the easiest veggie to grow. 
+
+~ They are going to be a lot of trial and error and lessons learned!
+
 ~ For aesthetics purposes:
 
 * installed string lights overhead to help to give this space a magical ambiance in the nighttime
@@ -134,7 +136,7 @@ Tips:
 
 ![](/assets/img_6599.jpg)
 
-~ To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
+
 
 Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic? as Always!
 
