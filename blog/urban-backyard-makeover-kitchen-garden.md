@@ -97,7 +97,7 @@ Tips: \
 
 ![](/assets/soil.png)
 
-### 5. Buy seedlings 
+### 5. Buy seedlings
 
 Buy the seedlings and/or transplant the seedling you have sown indoors. 
 
@@ -113,7 +113,7 @@ Also, save some for next year’s seedlings process, I honestly hope they could 
 This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
 * We have taped each bed with copper repellent tape to control slugs, snails, caterpillars, hope this will keep them away. 
-* Also, I've noticed holes in the leaves, 
+* Also, I've noticed holes in the leaves, which show the signs of cabbage worms, not going to worry too much but going to look into this more
 
 ![](/assets/img_6666.jpg)
 
@@ -136,8 +136,6 @@ Tips:
 * also, we were super lucky, the house came with the bistro set to top it off! 
 
 ![](/assets/img_6599.jpg)
-
-
 
 Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic? as Always!
 
