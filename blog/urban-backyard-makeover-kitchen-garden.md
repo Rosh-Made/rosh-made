@@ -80,7 +80,7 @@ Labour in New Zealand is just crazy expensive, so my suggestion is to do as much
 ### 3. Prepare the raised bed
 
 DIY the raised beds if you can, it’s easy and cost-effective, there are plenty of tutorials out there. 
-I’m going to say this loud and clear, please use UNTREATED wood, you don’t want to buy treated wood that flows chemicals to your food, don’t you? There are plenty of options, we choose **Macrocarpa** Sleepers, as there are natural, solid, rot-resistant, and durable. We bought ours from [Cypress Sawmill](https://www.cypress-sawmill.co.nz/). 
+I’m going to say this loud and clear, please use UNTREATED wood, you don’t want to buy treated wood that flows chemicals to your food, don’t you? They are plenty of options, we choose **Macrocarpa** Sleepers, as there are natural, solid, rot-resistant, and durable. We bought ours from [Cypress Sawmill](https://www.cypress-sawmill.co.nz/). 
 
 ![](/assets/raisedbeds.jpg)
 
@@ -93,11 +93,11 @@ Soil is a key component for the crops, the better your base, the better the crop
 Tips: \
 *we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landsacpes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging buying from the garden center) and cost-effective option for sure.
 
-\* I've followed the lasagna soil method: where you can add materials to each layer for better soil composition. 
+\* I've followed the lasagna soil method: where you can add different materials to each layer for better soil composition. 
 
 ![](/assets/soil.png)
 
-### 5. Buy seedlings or sow seeds
+### 5. Buy seedlings 
 
 Buy the seedlings and/or transplant the seedling you have sown indoors. 
 
@@ -112,7 +112,8 @@ Also, save some for next year’s seedlings process, I honestly hope they could 
 
 This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
-\*We have taped each bed with copper tape to control slugs, snails, caterpillars, it's working marvelously. 
+* We have taped each bed with copper repellent tape to control slugs, snails, caterpillars, hope this will keep them away. 
+* Also, I've noticed holes in the leaves, 
 
 ![](/assets/img_6666.jpg)
 
@@ -124,7 +125,7 @@ Tips:
 
 ~ Trust me there's no such a thing as a green thumb, you only need patience + practice. If you want to start something and are not sure from where to, start with lettuce, probably the easiest veggie to grow. 
 
-~ They are going to be a lot of trial and error and lessons learned!
+~ Expect lot of trial and error!
 
 ~ For aesthetics purposes:
 
@@ -141,5 +142,3 @@ Tips:
 Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic? as Always!
 
 ![](/assets/img_6625-2.jpg)
-
-Disclaimer: This is all my work based on the research from online resources and knowledge I gathered from the Horticulture course and my experince in the last couple of months.
