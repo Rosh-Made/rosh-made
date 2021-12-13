@@ -45,6 +45,29 @@ const Content = styled.div`
     color: #3c87e8;
     text-decoration: none;
   }
+
+  table {
+    border-collapse: collapse;
+    display: block;
+    overflow-x: auto;
+  }
+
+  td,
+  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #e5e3e3;
+  }
 `
 
 const BlogPost: FC<any> = ({ data }) => {
