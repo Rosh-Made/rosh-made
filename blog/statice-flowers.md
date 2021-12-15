@@ -48,6 +48,4 @@ Growing tips
 
 Have you tried to grow statice in your garden? Be sure to leave a comment below to share your experience!
 
-Also, thought of sharing the current progress of my Eucalyptus plant, been a year since I planted this from seed, definitely a slow growth but looks healthy and beautiful :) I'm a happy Gardener Indeed! 
-
-![](/assets/img_5562-2.jpg)
+![](/assets/img_6390.jpg)
