@@ -1,6 +1,6 @@
 ---
 title: Before + After Reno | Bedroom
-published: false
+published: true
 date: 2021-09-01T00:02:54.857Z
 description: Another special blog
 featuredimage: /assets/img_2365.jpg
@@ -13,7 +13,7 @@ One of my favorite renovation projects in the house was redoing our bedroom. I f
 
 Given how much time we spend in this room, despite being essentially unconscious for most of it, it was so important for us to have a well-organized, relaxing, and minimal-looking space. 
 
-Are you looking for some ideas to create your dream bedroom?  Soon I will share some amazing design tips and our experience of the whole renovation process. Stay around!
+Are you looking for some ideas to create your bedroom?  Soon I will share some amazing design tips and our experience of the whole renovation process. Stay around!
 
 ![](/assets/before-after.png)
 
