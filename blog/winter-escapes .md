@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Winter Escapes | South Island, NZ
 published: false
 date: 2021-06-30T07:28:21.028Z

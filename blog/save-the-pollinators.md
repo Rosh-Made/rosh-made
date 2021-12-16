@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Save the Pollinators | Home Garden
 published: true
 date: 2021-09-20T00:42:26.561Z
