@@ -26,6 +26,9 @@ const Menu: FC<{ close: () => void }> = ({ close }) => {
       <LogoWrapper>
         <Logo />
       </LogoWrapper>
+      <Link onClick={() => close()} to="/about-me" color="inherit">
+        About
+      </Link>
       <Link onClick={() => close()} to="/?tag=Travel" color="inherit">
         Travel
       </Link>
