@@ -1,4 +1,5 @@
 ---
+type: blog
 title: "Urban Backyard Makeover | Kitchen Garden "
 published: true
 date: 2021-12-12T03:11:11.794Z

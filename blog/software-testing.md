@@ -1,4 +1,5 @@
 ---
+type: blog
 title: IT Career Switch | Software Testing
 published: true
 date: 2021-09-17T20:34:29.003Z
