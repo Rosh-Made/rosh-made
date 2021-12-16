@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Before + After Reno | Bedroom
 published: true
 date: 2021-09-16T00:02:54.857Z
