@@ -57,7 +57,8 @@ Here's what I've grown in my four beds.
 
 
 
-*
+* Bed 1 also known as Three Sisters, according to some research I did, Sunflower, Corn, and Squash complement each other and meet each other needs and sunflower is planted to keep birds away from the corn. Note:[ Four Sisters design](https://asburyseminary.edu/students/formation/community-formation/creation-care/plot-designs/four-sisters/) can include beans too. 
+* Bed 4 also known as Brassicas, I've heard that veggies that belong to the brassica or cabbage family should be grown together since they do well together. 
 * Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * Managed to interplant herbs to each bed based on the benefits: apparently, basil protects tomatoes from pests and taste better when they grow together. Dill will help cucumbers by attracting predatory insects. 
 * Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
@@ -149,4 +150,12 @@ Cheers to another great summer (lockdown) project, this is going to be a live bl
 
 ***Update***
 
-~ Since everyone keeps questioning this beautiful trug/picking basket, I've bought it from Facebook Market Place, it was a good bargain! I've bought terracotta pots from there too, such a good way to recycle/reuse :)
+~ Since everyone keeps questioning this beautiful trug/picking basket, I've bought it from Facebook Market Place, it was a good bargain! I've bought terracotta pots from there too, such a good way to recycle/reuse :) 
+
+
+
+Lessons Learned: 
+
+~ Growing my own veggies has taught me how hard is the whole process, I've mad respect for farmers that I had before, also it teaches me another side of the issue of food wasting. 
+
+~ At the moment I'm dealing with a lot of cabbage worms in Bed 4, Brassicas veggies can grow in winter and attracts fewer pests than in summer, so I think I'm going to grow them in winter next time.
