@@ -57,8 +57,8 @@ Here's what I've grown in my four beds.
 
 
 
-* Bed 1 also known as Three Sisters, according to some research I did, Sunflower, Corn, and Squash complement each other and meet each other needs and sunflower is planted to keep birds away from the corn. Note:[ Four Sisters design](https://asburyseminary.edu/students/formation/community-formation/creation-care/plot-designs/four-sisters/) can include beans too. 
-* Bed 4 also known as Brassicas, I've heard that veggies that belong to the brassica or cabbage family should be grown together since they do well together. 
+* Bed 1 also known as Three Sisters, according to some research I did, Sunflower, Corn, and Squash complement each other and meet each other needs and sunflower is planted to keep birds away from the corn. Note: For[ Four Sisters design](https://asburyseminary.edu/students/formation/community-formation/creation-care/plot-designs/four-sisters/) can include beans too. I've also managed to incorporate strawberries to make the most out of the space and for the short period. 
+* I've heard that veggies that belong to the brassica or cabbage family should be grown together since they do well together, so Bed 4 is all about Brassicas!
 * Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * Managed to interplant herbs to each bed based on the benefits: apparently, basil protects tomatoes from pests and taste better when they grow together. Dill will help cucumbers by attracting predatory insects. 
 * Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
@@ -73,7 +73,7 @@ Our back garden was just in a bad state, it has been neglected for good 3 years 
 
 ![](/assets/before.png)
 
-\*We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option. The empty space gave both of us to brainstorm some ideas, it was more like painting an empty canvas!\
+\*We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a scrap metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option. The empty space gave both of us to brainstorm some ideas, it was more like painting an empty canvas!\
 \
 *Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
 
@@ -128,9 +128,9 @@ Tips:
 
 ~ To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
 
-~ Trust me there's no such a thing as a green thumb, you only need patience + practice. If you want to start something and are not sure from where to, start with lettuce, probably the easiest veggie to grow. 
+~ Trust me there's no such a thing as a green thumb, you only need patience + practice (Expect a lot of trial and error!) If you want to start something and are not sure from where to, start with lettuce, probably the easiest veggie to grow. 
 
-~ Expect a lot of trial and error!
+~ Sustainable approaches:    
 
 ~ If you want to connect with like-minded individuals, Facebook has many groups dedicated to gardening related. If you're in New Zealand, you may want to join these groups: [NZ Vege & Edible Gardening](https://www.facebook.com/groups/nzvege/about), [NZ Gardening On A Budget](https://www.facebook.com/groups/1523179061301262/about), [Backyard Gardeners NZ](https://www.facebook.com/groups/482950031843992/about), and many more. 
 
