@@ -150,7 +150,7 @@ Cheers to another great summer (lockdown) project, this is going to be a live bl
 
 ***Update***
 
-~ Since everyone keeps questioning this beautiful trug/picking basket, I've bought it from Facebook Market Place, it was a good bargain! I've bought terracotta pots from there too, such a good way to recycle/reuse :) 
+~ Since everyone keeps questioning about this beautiful trug/picking basket, I've bought it from Facebook Market Place, it was a good bargain! I've bought terracotta pots from there too, such a good way to recycle/reuse :) 
 
 
 
