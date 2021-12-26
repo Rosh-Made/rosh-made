@@ -8,7 +8,7 @@ featuredimage: /assets/img_6557.jpg
 tags:
   - HOME
 ---
-![](/assets/img_6619.jpg)
+![](/assets/urbangardener.jpg)
 
 Today is such a milestone to us: yes today, the ***12th December 2021***, we harvest our first-ever organic produce, super stoked!
 
@@ -53,14 +53,20 @@ Here's what I've grown in my four beds.
 | Squash       | Beans    | Greens        | Broccoli |
 | Strawberries |          | Spring Onions |          |
 
-![](/assets/img_6574.jpg)
-
-
+![](/assets/img_6575.jpg)
 
 * Bed 1 also known as Three Sisters, according to some research I did, Sunflower, Corn, and Squash complement each other and meet each other needs and sunflower is planted to keep birds away from the corn. Note: For[ Four Sisters design](https://asburyseminary.edu/students/formation/community-formation/creation-care/plot-designs/four-sisters/) can include beans too. I've also managed to incorporate strawberries to make the most out of the space and for the short period. 
+
+  ![](/assets/bed1.jpg)
 * I've heard that veggies that belong to the brassica or cabbage family should be grown together since they do well together, so Bed 4 is all about Brassicas!
-* Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
+
+  ![](/assets/img_6664.jpg)
+* Incorporated Nasturtium and Marigold into each bed, not only do they attract pollinators + aesthetics but a natural pest control for aphids, beetles, and whitefly.
+
+  ![](/assets/img_6641.jpg)
 * Managed to interplant herbs to each bed based on the benefits: apparently, basil protects tomatoes from pests and taste better when they grow together. Dill will help cucumbers by attracting predatory insects. 
+
+  ![](/assets/dillandcuc.jpg)
 * Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
 
 ![](/assets/flowerborder.jpg)
@@ -113,7 +119,13 @@ Also, save some for next year’s seedlings process, I honestly hope they could 
 
 ![](/assets/seedlings.png)
 
-### 6. Pest control
+### 6. Plant care
+
+~ Water care 
+
+\
+\
+~ Pest Control 
 
 This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
@@ -146,16 +158,18 @@ Tips:
 
 Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course, our harvest as I go, am I being too optimistic? as Always!
 
-![](/assets/img_6625-2.jpg)
+![](/assets/img_6625.jpg)
 
 ***Update***
 
-~ Since everyone keeps questioning about this beautiful trug/picking basket, I've bought it from Facebook Market Place, it was a good bargain! I've bought terracotta pots from there too, such a good way to recycle/reuse :) 
-
-
+~ Since everyone keeps questioning about this beautiful trug/picking basket, I've bought it from Facebook Market Place, it was a good bargain! such a good way to recycle/reuse :) 
 
 Lessons Learned: 
 
-~ Growing my own veggies has taught me how hard is the whole process, I've mad respect for farmers that I had before, also it teaches me another side of the issue of food wasting. 
+~ Growing my own veggies has taught me how difficult is the whole process, I've mad respect for farmers than before and also teached me on food waste.
 
-~ At the moment I'm dealing with a lot of cabbage worms in Bed 4, Brassicas veggies can grow in winter and attracts fewer pests than in summer, so I think I'm going to grow them in winter next time.
+~ At the moment I'm dealing with cabbage worms in Bed 4, Brassicas veggies can grow in winter and attracts fewer pests than in summer, so I think I'm going to grow them in winter next time. 
+
+~ There's nothing like growing your own food, the satisfaction you receive is pure happiness. Your first crop of each plant is mesmerising.
+
+![](/assets/img_5793.jpg)
