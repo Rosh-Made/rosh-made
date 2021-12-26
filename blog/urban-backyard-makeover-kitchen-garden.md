@@ -55,6 +55,9 @@ Here's what I've grown in my four beds.
 
 ![](/assets/img_6574.jpg)
 
+
+
+*
 * Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
 * Managed to interplant herbs to each bed based on the benefits: apparently, basil protects tomatoes from pests and taste better when they grow together. Dill will help cucumbers by attracting predatory insects. 
 * Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
@@ -92,7 +95,7 @@ I’m going to say this loud and clear, please use UNTREATED wood, you don’t w
 Soil is a key component for the crops, the better your base, the better the crops will respond. Well, one of the perks of raising beds (No-Dig technique) is that you can control your soil and add nutrition as you go. Compost, Topsoil, Straw, and mulch are some great sources.
 
 Tips: \
-*we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landsacpes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging buying from the garden center) and cost-effective option for sure.
+*we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landscapes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging buying from the garden center) and cost-effective option for sure.
 
 \* I've followed the lasagna soil method: where you can add different materials to each layer for better soil composition. 
 
@@ -126,7 +129,9 @@ Tips:
 
 ~ Trust me there's no such a thing as a green thumb, you only need patience + practice. If you want to start something and are not sure from where to, start with lettuce, probably the easiest veggie to grow. 
 
-~ Expect lot of trial and error!
+~ Expect a lot of trial and error!
+
+~ If you want to connect with like-minded individuals, Facebook has many groups dedicated to gardening related. If you're in New Zealand, you may want to join these groups: [NZ Vege & Edible Gardening](https://www.facebook.com/groups/nzvege/about), [NZ Gardening On A Budget](https://www.facebook.com/groups/1523179061301262/about), [Backyard Gardeners NZ](https://www.facebook.com/groups/482950031843992/about), and many more. 
 
 ~ For aesthetics purposes:
 
@@ -138,6 +143,10 @@ Tips:
 
 ![](/assets/img_6599.jpg)
 
-Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic? as Always!
+Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course, our harvest as I go, am I being too optimistic? as Always!
 
 ![](/assets/img_6625-2.jpg)
+
+***Update***
+
+~ Since everyone keeps questioning this beautiful trug/picking basket, I've bought it from Facebook Market Place, it was a good bargain! I've bought terracotta pots from there too, such a good way to recycle/reuse :)
