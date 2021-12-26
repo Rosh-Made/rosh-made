@@ -55,7 +55,7 @@ Here's what I've grown in my four beds.
 
 ![](/assets/img_6575.jpg)
 
-* Bed 1 also known as Three Sisters, according to some research I did, Sunflower, Corn, and Squash complement each other and meet each other needs and sunflower is planted to keep birds away from the corn. Note: For[ Four Sisters design](https://asburyseminary.edu/students/formation/community-formation/creation-care/plot-designs/four-sisters/) can include beans too. I've also managed to incorporate strawberries to make the most out of the space and for the short period. 
+* Bed 1 also known as The Three Sisters, according to some research I did, Sunflower, Corn, and Squash complement each other and meet each other needs and sunflower is planted to keep birds away from the corn. Note: For[ Four Sisters design](https://asburyseminary.edu/students/formation/community-formation/creation-care/plot-designs/four-sisters/) you can include beans too. I've also managed to incorporate strawberries to make the most out of the space and for the short period. 
 
   ![](/assets/bed1.jpg)
 * I've heard that veggies that belong to the brassica or cabbage family should be grown together since they do well together, so Bed 4 is all about Brassicas!
@@ -123,7 +123,7 @@ Also, save some for next year’s seedlings process, I honestly hope they could 
 
 ~ Water care 
 
-\
+Water is crucial for plants\
 \
 ~ Pest Control 
 
@@ -144,7 +144,7 @@ Tips:
 
 ~ Sustainable approaches:    
 
-~ If you want to connect with like-minded individuals, Facebook has many groups dedicated to gardening related. If you're in New Zealand, you may want to join these groups: [NZ Vege & Edible Gardening](https://www.facebook.com/groups/nzvege/about), [NZ Gardening On A Budget](https://www.facebook.com/groups/1523179061301262/about), [Backyard Gardeners NZ](https://www.facebook.com/groups/482950031843992/about), and many more. 
+~ If you want to connect with like-minded individuals, Facebook has many groups dedicated to gardeners. If you're in New Zealand, you may want to join these groups: [NZ Vege & Edible Gardening](https://www.facebook.com/groups/nzvege/about), [NZ Gardening On A Budget](https://www.facebook.com/groups/1523179061301262/about), [Backyard Gardeners NZ](https://www.facebook.com/groups/482950031843992/about).
 
 ~ For aesthetics purposes:
 
@@ -162,7 +162,7 @@ Cheers to another great summer (lockdown) project, this is going to be a live bl
 
 ***Update***
 
-~ Since everyone keeps questioning about this beautiful trug/picking basket, I've bought it from Facebook Market Place, it was a good bargain! such a good way to recycle/reuse :) 
+~ Since everyone keeps questioning about this beautiful trug/picking basket, i'll spill the tea, I've bought it from Facebook Marketplace, it was a good bargain! such a good way to recycle/reuse :) 
 
 Lessons Learned: 
 
