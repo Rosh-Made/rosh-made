@@ -8,7 +8,7 @@ featuredimage: /assets/img_6557.jpg
 tags:
   - HOME
 ---
-![](/assets/img_6619.jpg)
+![](/assets/urbangardener.jpg)
 
 Today is such a milestone to us: yes today, the ***12th December 2021***, we harvest our first-ever organic produce, super stoked!
 
@@ -26,7 +26,7 @@ Note:
 ### 1. Do your homework, PLAN, yes in big letters!
 
 ~ Location \
-Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we receive good morning sunlight and shade in the evening, just ideal for the veggies. 
+Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we receive good daytime light and shade in the evening, just ideal for the veggies. 
 
 ~ Garden bed ideas \
 As much as I want our plot to be functional, I’d also want to make sure it’s an inviting place to work. For that reason, we went with the wooden raised bed which is just perfect for a small urban garden: easier to maintain + adds beauty at the same time. \
@@ -53,10 +53,24 @@ Here's what I've grown in my four beds.
 | Squash       | Beans    | Greens        | Broccoli |
 | Strawberries |          | Spring Onions |          |
 
-![](/assets/img_6574.jpg)
+![](/assets/img_6575.jpg)
 
-* Incorporated Nasturtium and Marigold into each bed, not only do they add aesthetics but a natural pest control for aphids, beetles, and whitefly.
+* Bed 1 also known as The Three Sisters, according to some research I did, Sunflower, Corn, and Squash complement each other and meet each other needs and sunflower is planted to keep birds away from the corn. Note: For[ Four Sisters design](https://asburyseminary.edu/students/formation/community-formation/creation-care/plot-designs/four-sisters/) you can include beans too. I've also managed to incorporate strawberries to make the most out of the space and for the short period. 
+
+![](/assets/bed1.jpg)
+
+* I've heard that veggies that belong to the brassica or cabbage family should be grown together since they do well together, so Bed 4 is all about Brassicas!
+
+![](/assets/img_6664.jpg)
+
+* Incorporated Nasturtium and Marigold into each bed, not only do they attract pollinators + aesthetics but a natural pest control for aphids, beetles, and whitefly.
+
+![](/assets/img_6641.jpg)
+
 * Managed to interplant herbs to each bed based on the benefits: apparently, basil protects tomatoes from pests and taste better when they grow together. Dill will help cucumbers by attracting predatory insects. 
+
+![](/assets/dillandcuc.jpg)
+
 * Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
 
 ![](/assets/flowerborder.jpg)
@@ -69,7 +83,7 @@ Our back garden was just in a bad state, it has been neglected for good 3 years 
 
 ![](/assets/before.png)
 
-\*We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option. The empty space gave both of us to brainstorm some ideas, it was more like painting an empty canvas!\
+\*We had to do a massive cleanup, the house came with a huge garden shed, which we gave to a scrap metal collector. We arrange a garden waste collection from [SKIP bins](https://www.wastemanagement.co.nz/for-home/skip-bin/) for the rest of the waste which I believe was a cost-effective option. The empty space gave both of us to brainstorm some ideas, it was more like painting an empty canvas!\
 \
 *Before you start laying the beds, make sure the ground is level, in our case we had to separate and level up the area since our land is sitting on a slope. 
 
@@ -92,7 +106,7 @@ I’m going to say this loud and clear, please use UNTREATED wood, you don’t w
 Soil is a key component for the crops, the better your base, the better the crops will respond. Well, one of the perks of raising beds (No-Dig technique) is that you can control your soil and add nutrition as you go. Compost, Topsoil, Straw, and mulch are some great sources.
 
 Tips: \
-*we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landsacpes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging buying from the garden center) and cost-effective option for sure.
+*we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landscapes](https://centrallandscapes.co.nz/), a sustainable and cost-effective option for sure.
 
 \* I've followed the lasagna soil method: where you can add different materials to each layer for better soil composition. 
 
@@ -109,7 +123,13 @@ Also, save some for next year’s seedlings process, I honestly hope they could 
 
 ![](/assets/seedlings.png)
 
-### 6. Pest control
+### 6. Plant care
+
+~ Water care 
+
+Watering your plants is cruical, too much water: lead to fungus, too little water: lead roots become shallow. Ideal time to water is early morning (5 - 10am) or early afternoon (4 - 5pm). I water every second or third day depends on the weather condition.  Here's a full guide on [proper way to water](https://www.hgtv.com/outdoors/gardens/planting-and-maintenance/the-proper-way-to-water-your-garden).\
+\
+~ Pest Control 
 
 This is where I'm at right now, making sure my crops are protected from all the nasties. 
 
@@ -124,9 +144,15 @@ Tips:
 
 ~ To someone who’s new to gardening and knows nothing about growing veggies, it may sound overwhelming and of course a lot of hard work, but once you learn the basics and get the momentum, you’re going to be rewarded, trust the process!
 
-~ Trust me there's no such a thing as a green thumb, you only need patience + practice. If you want to start something and are not sure from where to, start with lettuce, probably the easiest veggie to grow. 
+~ Trust me there's no such a thing as a green thumb, you only need patience + practice (Expect a lot of trial and error!) If you want to start something and are not sure from where to, start with lettuce, probably the easiest veggie to grow. 
 
-~ Expect lot of trial and error!
+~ Sustainable approaches:
+
+* Used paper-based weed mat (Kings Plant Barn) instead of plastics ones
+* Instead of buying soil from the garden centres, we bulk buy from  [Central Landscapes](https://centrallandscapes.co.nz/) to save plastic packaging 
+* We have 2 x rain barrels to collect rain water for veeggies   
+
+~ If you want to connect with like-minded individuals, Facebook has many groups dedicated to gardeners. If you're in New Zealand, you may want to join these groups: [NZ Vege & Edible Gardening](https://www.facebook.com/groups/nzvege/about), [NZ Gardening On A Budget](https://www.facebook.com/groups/1523179061301262/about), [Backyard Gardeners NZ](https://www.facebook.com/groups/482950031843992/about).
 
 ~ For aesthetics purposes:
 
@@ -138,6 +164,18 @@ Tips:
 
 ![](/assets/img_6599.jpg)
 
-Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course our harvest as I go, am I being too optimistic? as Always!
+Cheers to another great summer (lockdown) project, this is going to be a live blog where I will share the progress and of course, our harvest as I go, am I being too optimistic? as Always!
 
-![](/assets/img_6625-2.jpg)
+![](/assets/img_6625.jpg)
+
+***Update***
+
+~ Since everyone keeps questioning about this beautiful trug/picking basket, i'll spill the tea, I've bought it from Facebook Marketplace, it was a good bargain!  
+
+Lessons Learned: 
+
+~ At the moment I'm dealing with cabbage worms in Bed 4, Brassicas veggies can grow in winter and attracts fewer pests than in summer, so I think I'm going to grow them in winter next time. 
+
+~ There's nothing like growing your own food, the satisfaction you receive is pure happiness. Your first crop of each plant is mesmerising, and at the end of the day you know where its coming from!
+
+![](/assets/img_5793.jpg)
