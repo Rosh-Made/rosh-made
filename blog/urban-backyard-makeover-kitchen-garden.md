@@ -26,7 +26,7 @@ Note:
 ### 1. Do your homework, PLAN, yes in big letters!
 
 ~ Location \
-Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we receive good morning sunlight and shade in the evening, just ideal for the veggies. 
+Plants need at least 6-8 hours of sun throughout the day, therefore it’s crucial to choose the ideal location when planning/designing your vegetable plot. Since our backyard is east-facing, we receive good daytime light and shade in the evening, just ideal for the veggies. 
 
 ~ Garden bed ideas \
 As much as I want our plot to be functional, I’d also want to make sure it’s an inviting place to work. For that reason, we went with the wooden raised bed which is just perfect for a small urban garden: easier to maintain + adds beauty at the same time. \
@@ -106,7 +106,7 @@ I’m going to say this loud and clear, please use UNTREATED wood, you don’t w
 Soil is a key component for the crops, the better your base, the better the crops will respond. Well, one of the perks of raising beds (No-Dig technique) is that you can control your soil and add nutrition as you go. Compost, Topsoil, Straw, and mulch are some great sources.
 
 Tips: \
-*we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landscapes](https://centrallandscapes.co.nz/), a sustainable (saves plastic packaging buying from the garden center) and cost-effective option for sure.
+*we needed 3 cubic meters of topsoil, which we've got delivered from [Central Landscapes](https://centrallandscapes.co.nz/), a sustainable and cost-effective option for sure.
 
 \* I've followed the lasagna soil method: where you can add different materials to each layer for better soil composition. 
 
@@ -146,7 +146,11 @@ Tips:
 
 ~ Trust me there's no such a thing as a green thumb, you only need patience + practice (Expect a lot of trial and error!) If you want to start something and are not sure from where to, start with lettuce, probably the easiest veggie to grow. 
 
-~ Sustainable approaches:    
+~ Sustainable approaches:
+
+* Used paper-based weed mat (Kings Plant Barn) instead of plastics ones
+* Instead of buying soil from the garden centres, we bulk buy from  [Central Landscapes](https://centrallandscapes.co.nz/) to save plastic packaging 
+* We have 2 x rain barrels to collect rain water for veeggies   
 
 ~ If you want to connect with like-minded individuals, Facebook has many groups dedicated to gardeners. If you're in New Zealand, you may want to join these groups: [NZ Vege & Edible Gardening](https://www.facebook.com/groups/nzvege/about), [NZ Gardening On A Budget](https://www.facebook.com/groups/1523179061301262/about), [Backyard Gardeners NZ](https://www.facebook.com/groups/482950031843992/about).
 
@@ -166,14 +170,12 @@ Cheers to another great summer (lockdown) project, this is going to be a live bl
 
 ***Update***
 
-~ Since everyone keeps questioning about this beautiful trug/picking basket, i'll spill the tea, I've bought it from Facebook Marketplace, it was a good bargain! such a good way to recycle/reuse :) 
+~ Since everyone keeps questioning about this beautiful trug/picking basket, i'll spill the tea, I've bought it from Facebook Marketplace, it was a good bargain!  
 
 Lessons Learned: 
 
-~ Growing my own veggies has taught me how difficult the whole process is, I've mad respect for farmers than ever before. 
-
 ~ At the moment I'm dealing with cabbage worms in Bed 4, Brassicas veggies can grow in winter and attracts fewer pests than in summer, so I think I'm going to grow them in winter next time. 
 
-~ There's nothing like growing your own food, the satisfaction you receive is pure happiness. Your first crop of each plant is mesmerising.
+~ There's nothing like growing your own food, the satisfaction you receive is pure happiness. Your first crop of each plant is mesmerising, and at the end of the day you know where its coming from!
 
 ![](/assets/img_5793.jpg)
