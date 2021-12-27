@@ -57,16 +57,20 @@ Here's what I've grown in my four beds.
 
 * Bed 1 also known as The Three Sisters, according to some research I did, Sunflower, Corn, and Squash complement each other and meet each other needs and sunflower is planted to keep birds away from the corn. Note: For[ Four Sisters design](https://asburyseminary.edu/students/formation/community-formation/creation-care/plot-designs/four-sisters/) you can include beans too. I've also managed to incorporate strawberries to make the most out of the space and for the short period. 
 
-  ![](/assets/bed1.jpg)
+![](/assets/bed1.jpg)
+
 * I've heard that veggies that belong to the brassica or cabbage family should be grown together since they do well together, so Bed 4 is all about Brassicas!
 
-  ![](/assets/img_6664.jpg)
+![](/assets/img_6664.jpg)
+
 * Incorporated Nasturtium and Marigold into each bed, not only do they attract pollinators + aesthetics but a natural pest control for aphids, beetles, and whitefly.
 
-  ![](/assets/img_6641.jpg)
+![](/assets/img_6641.jpg)
+
 * Managed to interplant herbs to each bed based on the benefits: apparently, basil protects tomatoes from pests and taste better when they grow together. Dill will help cucumbers by attracting predatory insects. 
 
-  ![](/assets/dillandcuc.jpg)
+![](/assets/dillandcuc.jpg)
+
 * Reserved an area for the flower border, to grow some bee-friendly flowers to attract pollinators for better pollination and crop yield: A key element to a veggie garden. In addition, bees are losing their habitat so another great way and another reason to add a flower border to your veggie patch. We also bought a bee and insect house to provide them with shelter. 
 
 ![](/assets/flowerborder.jpg)
