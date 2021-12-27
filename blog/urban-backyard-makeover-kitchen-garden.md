@@ -127,7 +127,7 @@ Also, save some for next year’s seedlings process, I honestly hope they could 
 
 ~ Water care 
 
-Water is crucial for plants\
+Watering your plants is cruical, too much water: lead to fungus, too little water: lead roots become shallow. Ideal time to water is early morning (5 - 10am) or early afternoon (4 - 5pm). I water every second or third day depends on the weather condition.  Here's a full guide on [proper way to water](https://www.hgtv.com/outdoors/gardens/planting-and-maintenance/the-proper-way-to-water-your-garden).\
 \
 ~ Pest Control 
 
@@ -170,7 +170,7 @@ Cheers to another great summer (lockdown) project, this is going to be a live bl
 
 Lessons Learned: 
 
-~ Growing my own veggies has taught me how difficult is the whole process, I've mad respect for farmers than before and also teached me on food waste.
+~ Growing my own veggies has taught me how difficult the whole process is, I've mad respect for farmers than ever before. 
 
 ~ At the moment I'm dealing with cabbage worms in Bed 4, Brassicas veggies can grow in winter and attracts fewer pests than in summer, so I think I'm going to grow them in winter next time. 
 
