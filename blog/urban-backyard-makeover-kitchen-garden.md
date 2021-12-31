@@ -170,7 +170,7 @@ Cheers to another great summer (lockdown) project, this is going to be a live bl
 
 ***Update***
 
-~ Since everyone keeps questioning about this beautiful trug/picking basket, i'll spill the tea, I've bought it from [Facebook Marketplace](https://www.facebook.com/marketplace), it was a good bargain!  
+~ Since everyone keeps questioning about this beautiful trug/picking basket, I'll spill the tea, I've bought it from [Facebook Marketplace](https://www.facebook.com/marketplace), it was a good bargain!  
 
 Lessons Learned: 
 
