@@ -34,7 +34,7 @@ After completing the internship, I knew I had to stand out in the market. I’ve
 
 Later that year I found something interesting, a job-ready training program for fresh IT graduates, a place where you can train for in-demand/essential technical skills (Automation Testing), gain hands-on experience in real projects in an agile environment, build up soft skills that companies are seeking. It is a 3 monthly paid program, if you’re interested let me know, I prefer not to disclose the business name here as it might NOT be the only option and it's a bit of money. But to say the least, it was a great investment indeed since you can recover the cost in a month when you start to work. 
 
-After completing the job-ready program, that is exactly 4 months later (in the midst of 2019) I was able to land my first job as a Software Tester. Honestly a proud moment! This is my journey, it wasn't an easy ride but I never gave up, I knew I was going to make it at some stage, I trust my instincts. 
+After completing the job-ready program, that is exactly 4 months later (in the midst of 2019) I was able to land my first job as a Software Tester. Honestly a proud moment! This is my journey, it wasn't an easy ride but I never gave up, I knew I was going to make it at some stage.
 
 What I did differently 
 
