@@ -8,22 +8,57 @@ featuredimage: /assets/img_3872.jpg
 tags:
   - IT
 ---
-Switching to a career in IT from a non-IT background seems as daunting as it sounds but when I think about it now I feel like that was the best investment (time + money) and decision I made 3 years ago in my life.
-
-If you're someone thinking of moving to software testing, or someone who's new to the local job market (NZ), or a recent graduate and want to know
-
-~ What's the current job market is like for Software Testers?
-
-~ What are the hot skills (Soft + Technical) companies are looking at the moment?  
-
-~ How to get into the field?
-
-~ How to have a smoother career switch? 
-
-~ What my journey was like?
-
-~ What it's like working as a software tester?
-
-keep an eye on here for some career guides, important pointers, and tips. Happy to help and guide you :) 
-
 ![](/assets/img_3875.jpg)
+
+Switching to a career in IT from a non-IT background seems as daunting as it sounds but when I think about it now I feel like that was the best investment (time + money) and decision I made 3 years ago in my life. 
+
+I'm often asked WHY, WHAT, and HOW I made this career move and hence I collate this blog to share my journey and help/guide someone to reach their career goals. So, If you're someone thinking of moving to the software testing from a non-IT field, or someone new to the local job market (Immigrant to NZ), or a recent graduate, I hope this blog will answer your questions at the end of this blog with some important tips and guides. 
+
+My journey
+
+To give a little context, I move to New Zealand 10 years ago and completed my studies in Business Management at the age of 23. I worked as an Office Administrator full-time for a year or more, later on, I realized that I wasn't enjoying it and was capable of doing something more and better. 
+
+Shanika, my partner who is a Software Developer, one day suggested that I should try something in the IT field. Back then I thought IT was solemnly coding, which I was not too interested in. The turning point for me was when he said IT has many different roles that do not need in-depth knowledge of coding or technicality. Since I've already had a Business Management diploma, a few of the roles that he mentioned sort of resonated with my personality and skills (Which were Business Analyst, Software Tester, Project Manager, Scrum Master, UI/UX Design roles). I've started to do some research in the IT market, spoke to people who are in the software industry, and continue to look into IT-related studies. 
+
+Early 2018, I've completed my bachelor's in Information Systems thinking that I could either follow the path as a Software Tester aka QA - Quality Assurance or as a BA - Business Analyst. Little did I know how competitive and difficult the job market was for fresh graduates to enter. As soon as I completed my studies, I've applied for a couple of Internships since we were not offered that option at my university. I got offered an Internship at Sky TV in the Product and Technology Department, which was pretty much the initial introduction to the real IT world and the first step in the testing career. I would say I had a little bit of advantage as my partner knew quite a few people in the software industry, NETWORKS do matter at this stage! 
+
+After completing the internship, I knew I had to stand out in the market. I've worked on a couple of start-up projects as a Manual Tester. In the meantime, I've studied and gained the ISTQB certification (foundation level) in Software Testing. I've noticed that there was hype and demand for Automation Software Testers and I knew that Manual Testing is not going to be sufficient. 
+
+Later that year I found something interesting, a job-ready training program for fresh IT graduates, a place where you can train for in-demand/essential technical skills (Automation Testing), gain hands-on experience in real projects in an agile environment, build up soft skills that companies are seeking. It is a 3 monthly paid program, if you're interested let me know, I prefer not to disclose the business name here as it might NOT be the only option and it's a bit of money. But to say the least, it was a great investment indeed since you can recover the cost in a month when you start to work. 
+
+After completing the job-ready program, that is exactly 4 months later (in the midst of 2019) I was able to land my first job as a Software Tester. Honestly a proud moment! 
+
+This is my journey, it wasn't an easy ride but I never gave up, I knew I was going to make it at some stage. Here’s what I did extra for a smooth career switch. 
+
+• Tailor your CV/Resume to IT
+
+CV is the first impression and is what represents you. It’s a great way to showcase your technical skills, what you have been learning and what you’re capable of, so make the most out of it. Also, don’t forget to get it reviewed by the professionals. For example, I’ve linked these in my CV
+
+\~ Technical blog: If you don’t have a technical blog, start creating one 
+
+\~ Demo Projects: I've done a few simple demo projects and uploaded them on GitHub and linked them in the CV. 
+
+\~ Obtained an ISTQB certification: This qualification will make a world of difference on the resume. 
+
+\~ Volunteered for a start-up business as a manual tester to get hands-on experience 
+
+• Network 
+
+~ Keep LinkedIn Profile up to date: Introduce yourself to hiring managers, it’s a powerful digital networking tool! I almost get messages every 2 months from a recruiter.
+
+~ Attended Software Testing related Meetups and Conferences
+An opportunity to introduce yourself and meet IT Professionals. Funny Story, 3 years ago I went for a meetup, was intrigued by this significant individual, last year I got to work with him on a recent project. It’s amazing how things work!
+
+• Prepare for Interviews
+
+\~ Interviews can be quite stressful, I've collated interview questions and practiced how to answer them eloquently and confidently, so when there’s an interview I just refer to that. 
+
+\~ Many of the companies require you to do Psychometric and Aptitude tests. They are free and also have paid tests online. 
+
+~ I Attended interviews as much as I can, even though I was been rejected a few times. Take it as an opportunity, you learn how to face an interview, what are frequently asked questions, and how to be confident. 
+
+• Signed up for Udemy to learn a programming language, in my case I chose Java
+
+• Followed testing blogs and podcasts to keep an eye on testing trends 
+
+• Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. For Example, I’ve set up a monthly plan of what I want to achieve, it could be API Testing both Manual and Automation.

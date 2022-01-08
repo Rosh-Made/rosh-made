@@ -170,12 +170,12 @@ Cheers to another great summer (lockdown) project, this is going to be a live bl
 
 ***Update***
 
-~ Since everyone keeps questioning about this beautiful trug/picking basket, i'll spill the tea, I've bought it from Facebook Marketplace, it was a good bargain!  
+~ Since everyone keeps questioning about this beautiful trug/picking basket, I'll spill the tea, I've bought it from [Facebook Marketplace](https://www.facebook.com/marketplace), it was a good bargain!  
 
 Lessons Learned: 
 
 ~ At the moment I'm dealing with cabbage worms in Bed 4, Brassicas veggies can grow in winter and attracts fewer pests than in summer, so I think I'm going to grow them in winter next time. 
 
-~ There's nothing like growing your own food, the satisfaction you receive is pure happiness. Your first crop of each plant is mesmerising, and at the end of the day you know where its coming from!
+~ There's nothing like growing your own food, the satisfaction you receive is pure happiness. Your first crop of each plant is mesmerising, and at the end of the day you know where it's coming from which is the best feeling. 
 
 ![](/assets/img_5793.jpg)
