@@ -64,9 +64,9 @@ Go and make a difference for wildlife like pollinators and let's make the most o
 
 \- Unknown
 
-Update:
+***Update:***
 
-Here's the progress of my bee-friendly garden for the 2021 summer. We have more bees ever than before, super stoked and proud!  
+Here's the progress of my bee-friendly garden for the 2021 summer. We have more bees than ever before, super stoked and proud!  
 
 ![](/assets/img_6900.jpg)
 
