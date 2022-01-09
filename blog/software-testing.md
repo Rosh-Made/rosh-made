@@ -12,9 +12,9 @@ tags:
 
 Switching to a career in IT from a non-IT background seems as daunting as it sounds but when I think about it now I feel like that was the best investment (time + money) and decision I made 3 years ago in my life. 
 
-I'm often asked WHY, WHAT, and HOW I made this career move and hence I collate this blog to share my journey and help/guide someone to reach their career goals. So, If you're someone thinking of moving to the software testing from a non-IT field, or someone new to the local job market (Immigrant to NZ), or a recent graduate, I hope this blog will answer your questions at the end of this blog with some important tips and guides. 
+I'm often asked WHY, WHAT, and HOW I made this career move and hence I collate this blog to share my journey and help/guide someone to reach their career goals. So, If you're someone thinking of moving to the software testing from a non-IT field, or someone new to the local job market (Immigrant to NZ), or a recent graduate, I hope your questions will be answered at the end of this blog with some important tips and guides. 
 
-My journey
+### My journey
 
 To give a little context, I move to New Zealand 10 years ago and completed my studies in Business Management at the age of 23. I worked as an Office Administrator full-time for a year or more, later on, I realized that I wasn't enjoying it and was capable of doing something more and better. 
 
@@ -34,31 +34,33 @@ This is my journey, it wasn't an easy ride but I never gave up, I knew I was goi
 
 CV is the first impression and is what represents you. It’s a great way to showcase your technical skills, what you have been learning and what you’re capable of, so make the most out of it. Also, don’t forget to get it reviewed by the professionals. For example, I’ve linked these in my CV
 
-\~ Technical blog: If you don’t have a technical blog, start creating one 
+~ Technical blog: If you don’t have a technical blog, start creating one and write blogs about what you learn 
 
-\~ Demo Projects: I've done a few simple demo projects and uploaded them on GitHub and linked them in the CV. 
+~ Demo Projects: I've done a few demo projects and uploaded them on GitHub and linked them in the CV. 
 
-\~ Obtained an ISTQB certification: This qualification will make a world of difference on the resume. 
+~ Obtained an I[STQB certification](https://www.istqb.org/certification-path-root/why-istqb-certification.html): This qualification will make a world of difference on the resume. 
 
-\~ Volunteered for a start-up business as a manual tester to get hands-on experience 
+~ Volunteered for a start-up business as a manual tester to get hands-on experience 
 
 • Network 
 
 ~ Keep LinkedIn Profile up to date: Introduce yourself to hiring managers, it’s a powerful digital networking tool! I almost get messages every 2 months from a recruiter.
 
-~ Attended Software Testing related Meetups and Conferences
+~ Attended Software Testing related [Meetups](https://www.meetup.com/topics/software-qa-and-testing/nz/) and Conferences
 An opportunity to introduce yourself and meet IT Professionals. Funny Story, 3 years ago I went for a meetup, was intrigued by this significant individual, last year I got to work with him on a recent project. It’s amazing how things work!
 
 • Prepare for Interviews
 
-\~ Interviews can be quite stressful, I've collated interview questions and practiced how to answer them eloquently and confidently, so when there’s an interview I just refer to that. 
+~ Interviews can be quite stressful, I've collated interview questions and practiced how to answer them eloquently and confidently, so when there’s an interview I just refer to that. 
 
-\~ Many of the companies require you to do Psychometric and Aptitude tests. They are free and also have paid tests online. 
+~ Many of the companies require you to do Psychometric and Aptitude tests. They are free and also have paid tests online. 
 
-~ I Attended interviews as much as I can, even though I was been rejected a few times. Take it as an opportunity, you learn how to face an interview, what are frequently asked questions, and how to be confident. 
+~ I Attended interviews as much as I can, even though I was been rejected a few times. Take it as an opportunity, you can learn how to face an interview, what are frequently asked questions, and how to be more confident. 
 
-• Signed up for Udemy to learn a programming language, in my case I chose Java
+• Signed up for [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=java+courses+for+testers) to learn a programming language, in my case I chose Java specifically for testers
 
 • Followed testing blogs and podcasts to keep an eye on testing trends 
 
-• Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. For Example, I’ve set up a monthly plan of what I want to achieve, it could be API Testing both Manual and Automation.
+
+
+Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. For Example, I’ve set up a monthly plan of what I want to achieve, it could be API Testing both Manual and Automation.
