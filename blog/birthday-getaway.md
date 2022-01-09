@@ -2,7 +2,7 @@
 type: blog
 title: Birthday Getaway | Waitomo Hilltop Glamping
 published: true
-date: 2021-09-19T02:16:22.707Z
+date: 2021-10-01T01:16:22.707Z
 description: Waitomo Hilltop Glamping
 featuredimage: /assets/img_3820.jpg
 tags:

@@ -2,7 +2,7 @@
 type: blog
 title: "How to grow | Statice Flowers "
 published: true
-date: 2021-09-14T20:43:07.762Z
+date: 2021-05-31T20:43:07.762Z
 description: Statice flowers
 featuredimage: /assets/img_4399.jpg
 tags:

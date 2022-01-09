@@ -2,7 +2,7 @@
 type: blog
 title: Summer Guide | South Island, NZ
 published: true
-date: 2021-07-23T06:52:06.288Z
+date: 2021-07-01T06:52:06.288Z
 description: itinerary
 featuredimage: /assets/img_2755-2.jpg
 tags:
