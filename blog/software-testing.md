@@ -4,7 +4,7 @@ title: IT Career Switch | Software Testing
 published: true
 date: 2021-09-01T20:34:29.003Z
 description: "Switching to a career in IT "
-featuredimage: /assets/img_3872.jpg
+featuredimage: /assets/img_3875.jpg
 tags:
   - IT
 ---
@@ -69,3 +69,11 @@ For example, Write down what you achieved each month, every little milestone is 
 |  May 2018 | \- Passed ISTQB Exam\
 - Participated in Test Automation and Digital QA Summit\
 - Volunteered for a start-up as a Manual Tester   |
+
+
+
+### Technical Skills 
+
+This is something that I shortlisted for a Beginner Software Tester Skill Set
+
+![](/assets/screen-shot-2022-01-11-at-8.08.26-am.png)
