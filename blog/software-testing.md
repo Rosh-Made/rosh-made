@@ -67,21 +67,19 @@ An opportunity to introduce yourself and meet IT Professionals. Funny Story, 3 y
 • Followed testing blogs and podcasts to keep an eye on testing trends 
 
 Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. \
-For example, Write down what you achieved each month, every little milestone is important and shows how far you have come in your journey and shows how close you are to reaching your goal/goals.
+For example, Write down what you achieved each month (Objectives), every little milestone is important and shows how far you have come in your journey and shows how close you are to reaching your goal/goals.
 
-| Month    | Objectives                                                                                                                                                 |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| May 2018 | \- Passed ISTQB Exam\
-- Participated in Test Automation and Digital QA Summit\
-- Volunteered for a start-up as a Manual Tester                             |
-
-
+| Month    | Objectives                                               |
+| -------- | -------------------------------------------------------- |
+| May 2018 | \- Passed ISTQB Exam                                     |
+| May 2018 | \- Participated in Test Automation and Digital QA Summit |
+| May 2018 | \- Volunteered for a start-up as a Manual Tester         |
 
 ### Technical Skills
 
 I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
 
-![](/assets/screen-shot-2022-01-11-at-8.08.26-am.png)
+![](/assets/skillset.jpg)
 
 ![](/assets/screen-shot-2022-01-11-at-8.12.56-am.png)
 
@@ -94,8 +92,9 @@ I've shortlisted a skillset for Beginner Software Tester, this is pretty much wh
 My last bit of advice :) 
 
 • Believe in yourself and Never GIVE UP!
-• Everyone’s journey is different, don’t compare with others but get INSPIRED!
-• HELP everyone!
-• SHARE KNOWLEDGE, a very powerful tool. It’s a Win/Win
 
-Good Luck and Happy Testing!
+• Everyone’s journey is different, don’t compare with others but get INSPIRED!
+
+• HELP everyone and SHARE KNOWLEDGE, a very powerful tool. It’s a Win/Win
+
+I wish you the best of luck in job hunting/career change and am always happy to answer your questions. Please share this blog if you know anyone in need. Thank you!
