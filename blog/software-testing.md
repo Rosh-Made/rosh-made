@@ -69,19 +69,18 @@ An opportunity to introduce yourself and meet IT Professionals. Funny Story, 3 y
 Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. \
 For example, Write down what you achieved each month (Objectives), every little milestone is important and shows how far you have come in your journey and shows how close you are to reaching your goal/goals.
 
-| Month    | Objectives                                                                                                                         |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| May 2018 | \- Passed ISTQB Exam \
-- Participated in Test Automation and Digital QA Summit\
-- Volunteered for a start-up as a Manual Tester    |
+| Month    | Objectives                                               |
+| -------- | -------------------------------------------------------- |
+| May 2018 | \- Passed ISTQB Exam                                     |
+| May 2018 | \- Participated in Test Automation and Digital QA Summit |
+| May 2018 | \- Volunteered for a start-up as a Manual Tester         |
 
-
-
-### Technical Skills
+### \
+Technical Skills
 
 I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
 
-![](/assets/screen-shot-2022-01-11-at-8.08.26-am.png)
+![](/assets/screen-shot-2022-01-11-at-8.58.38-am.png)
 
 ![](/assets/screen-shot-2022-01-11-at-8.12.56-am.png)
 
