@@ -38,6 +38,10 @@ CV is the first impression and is what represents you. It’s a great way to sho
 
 ~ Demo Projects: I've done a few demo projects and uploaded them on GitHub and linked them in the CV. 
 
+![](/assets/screen-shot-2022-01-11-at-8.29.42-am.png)
+
+
+
 ~ Obtained an I[STQB certification](https://www.istqb.org/certification-path-root/why-istqb-certification.html): This qualification will make a world of difference on the resume. 
 
 ~ Volunteered for a start-up business as a manual tester to get hands-on experience 
