@@ -91,10 +91,10 @@ I've shortlisted a skillset for Beginner Software Tester, this is pretty much wh
 
 My last bit of advice :) 
 
-• Believe in yourself and Never GIVE UP!\
+• Believe in yourself and Never GIVE UP!
 
-• Everyone’s journey is different, don’t compare with others but get INSPIRED!\
+• Everyone’s journey is different, don’t compare with others but get INSPIRED!
 
 • HELP everyone and SHARE KNOWLEDGE, a very powerful tool. It’s a Win/Win
 
-I wish you the best of luck in job hunting/career change and am always happy to answer your questions. Please share this blog if you know anyone in need.
+I wish you the best of luck in job hunting/career change and am always happy to answer your questions. Please share this blog if you know anyone in need. Thank you!
