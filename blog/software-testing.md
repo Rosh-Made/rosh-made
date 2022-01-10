@@ -74,6 +74,23 @@ For example, Write down what you achieved each month, every little milestone is 
 
 ### Technical Skills 
 
-This is something that I shortlisted for a Beginner Software Tester Skill Set
+I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
 
 ![](/assets/screen-shot-2022-01-11-at-8.08.26-am.png)
+
+![](/assets/screen-shot-2022-01-11-at-8.12.56-am.png)
+
+![](/assets/screen-shot-2022-01-11-at-8.15.49-am.png)
+
+ I've created a ***My Career Journey*** pdf including all these, let me know if you're interested, happy to share. It's a well-organized document that I passed down to a lot of people who are new to Software Testing and these are the contents that included. 
+
+![](/assets/screen-shot-2022-01-11-at-8.19.10-am.png)
+
+My last bit of advice :) 
+
+• Believe in yourself and Never GIVE UP!
+• Everyone’s journey is different, don’t compare with others but get INSPIRED!
+• HELP everyone!
+• SHARE KNOWLEDGE, a very powerful tool. It’s a Win/Win
+
+Good Luck and Happy Testing!
