@@ -12,7 +12,7 @@ tags:
 
 Switching to a career in IT from a non-IT background seems as daunting as it sounds but when I think about it now I feel like that was the best investment (time + money) and decision I made 3 years ago in my life. 
 
-I'm often asked WHY, WHAT, and HOW I made this career move and hence I collate this blog to share my journey and help/guide someone to reach their career goals. So, If you're someone thinking of moving to the software testing from a non-IT field, or someone new to the local job market (Immigrant to NZ), or a recent graduate, I hope your questions will be answered at the end of this blog with some important tips and guides. 
+I'm often asked WHY, WHAT, and HOW I made this career move and hence I collate this blog to share my journey and help/guide someone to reach their career goals. So, If you're someone thinking of moving to Software Testing from a non-IT field, or someone new to the local job market (Immigrant to NZ), or a recent graduate, I hope your questions will be answered at the end of this blog with some important tips and guides. 
 
 ### My journey
 
@@ -32,7 +32,7 @@ This is my journey, it wasn't an easy ride but I never gave up, I knew I was goi
 
 • Tailor your CV/Resume to IT
 
-CV is the first impression and is what represents you. It’s a great way to showcase your technical skills, what you have been learning and what you’re capable of, so make the most out of it. Also, don’t forget to get it reviewed by the professionals. For example, I’ve linked these in my CV
+CV is the first impression and is what represents you. It’s a great way to showcase your technical skills, what you have been learning and what you’re capable of, so make the most out of it.  For example, I’ve linked these in my CV
 
 ~ Technical blog: If you don’t have a technical blog, start creating one and write blogs about what you learn. Here's [mine](https://maryannroshani.home.blog/). 
 
@@ -40,11 +40,12 @@ CV is the first impression and is what represents you. It’s a great way to sho
 
 ![](/assets/screen-shot-2022-01-11-at-8.29.42-am.png)
 
+\
+~ Also, don’t FORGET to get it reviewed by the professionals.
 
+~ Obtained an I[STQB certification](https://www.istqb.org/certification-path-root/why-istqb-certification.html): This qualification will make a world of difference on the resume.
 
-~ Obtained an I[STQB certification](https://www.istqb.org/certification-path-root/why-istqb-certification.html): This qualification will make a world of difference on the resume. 
-
-~ Volunteered for a start-up business as a manual tester to get hands-on experience 
+~ Volunteered for a start-up business as a manual tester to get hands-on experience and add it to the resume. Local experience is a MUST in a CV. 
 
 • Network 
 
@@ -68,15 +69,15 @@ An opportunity to introduce yourself and meet IT Professionals. Funny Story, 3 y
 Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. \
 For example, Write down what you achieved each month, every little milestone is important and shows how far you have come in your journey and shows how close you are to reaching your goal/goals.
 
-| Month     | Objectives                                                                                                                       |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------- |
-|  May 2018 | \- Passed ISTQB Exam\
+| Month    | Objectives                                                                                                                                                 |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| May 2018 | \- Passed ISTQB Exam\
 - Participated in Test Automation and Digital QA Summit\
-- Volunteered for a start-up as a Manual Tester   |
+- Volunteered for a start-up as a Manual Tester                             |
 
 
 
-### Technical Skills 
+### Technical Skills
 
 I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
 
