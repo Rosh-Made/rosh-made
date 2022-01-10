@@ -34,7 +34,7 @@ This is my journey, it wasn't an easy ride but I never gave up, I knew I was goi
 
 CV is the first impression and is what represents you. It’s a great way to showcase your technical skills, what you have been learning and what you’re capable of, so make the most out of it. Also, don’t forget to get it reviewed by the professionals. For example, I’ve linked these in my CV
 
-~ Technical blog: If you don’t have a technical blog, start creating one and write blogs about what you learn 
+~ Technical blog: If you don’t have a technical blog, start creating one and write blogs about what you learn. Here's [mine](https://maryannroshani.home.blog/). 
 
 ~ Demo Projects: I've done a few demo projects and uploaded them on GitHub and linked them in the CV. 
 
