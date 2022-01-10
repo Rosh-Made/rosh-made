@@ -4,7 +4,7 @@ title: IT Career Switch | Software Testing
 published: true
 date: 2021-09-01T20:34:29.003Z
 description: "Switching to a career in IT "
-featuredimage: /assets/img_3872.jpg
+featuredimage: /assets/img_3875.jpg
 tags:
   - IT
 ---
@@ -18,15 +18,15 @@ I'm often asked WHY, WHAT, and HOW I made this career move and hence I collate t
 
 To give a little context, I move to New Zealand 10 years ago and completed my studies in Business Management at the age of 23. I worked as an Office Administrator full-time for a year or more, later on, I realized that I wasn't enjoying it and was capable of doing something more and better. 
 
-Shanika, my partner who is a Software Developer, one day suggested that I should try something in the IT field. Back then I thought IT was solemnly coding, which I was not too interested in. The turning point for me was when he said IT has many different roles that do not need in-depth knowledge of coding or technicality. Since I've already had a Business Management diploma, a few of the roles that he mentioned sort of resonated with my personality and skills (Which were Business Analyst, Software Tester, Project Manager, Scrum Master, UI/UX Design roles). I've started to do some research in the IT market, spoke to people who are in the software industry, and continue to look into IT-related studies. 
+Shanika, my partner who is a Software Developer, one day suggested that I should try something in the IT field. Back then I thought IT is solemnly coding, which I was not too interested in. The turning point for me was when he said IT has many different roles that do not need in-depth knowledge of coding or technicality. Since I've already had a Business Management diploma, a few of the roles that he mentioned sort of resonated with my personality and skills (Which were *Business Analyst, Software Tester, Project Manager, Scrum Master, UI/UX Design* roles). I've started to do some research in the IT market, spoke to people who are in the software industry, and continue to look into IT-related studies. 
 
-Early 2018, I've completed my bachelor's in Information Systems thinking that I could either follow the path as a Software Tester aka QA - Quality Assurance or as a BA - Business Analyst. Little did I know how competitive and difficult the job market was for fresh graduates to enter. As soon as I completed my studies, I've applied for a couple of Internships since we were not offered that option at my university. I got offered an Internship at Sky TV in the Product and Technology Department, which was pretty much the initial introduction to the real IT world and the first step in the testing career. I would say I had a little bit of advantage as my partner knew quite a few people in the software industry, NETWORKS do matter at this stage! 
+Early 2018, I've completed my bachelor's in Information Systems thinking that I could either follow the path as a Software Tester aka QA - Quality Assurance or as a BA - Business Analyst. Little did I know how competitive and difficult the job market was for fresh graduates to enter. As soon as I completed my studies, I've applied for a couple of *Internships* since we were not offered that option at my university. I got offered an Internship at Sky TV in the Product and Technology Department, which was pretty much the initial introduction to the real IT world and the first step in the testing career. I would say I had a little bit of advantage as my partner knew quite a few people in the software industry, *NETWORKS* do matter at this stage! 
 
-After completing the internship, I knew I had to stand out in the market. I've worked on a couple of start-up projects as a Manual Tester. In the meantime, I've studied and gained the ISTQB certification (foundation level) in Software Testing. I've noticed that there was hype and demand for Automation Software Testers and I knew that Manual Testing is not going to be sufficient. 
+After completing the internship, I knew I had to stand out in the market. I've worked on a couple of start-up projects as a Manual Tester. In the meantime, I've studied and gained the *ISTQB certification* (foundation level) in Software Testing. I've also noticed that there was hype and demand for *Automation Software Testers* and I knew that Manual Testing is not going to be sufficient. 
 
-Later that year I found something interesting, a job-ready training program for fresh IT graduates, a place where you can train for in-demand/essential technical skills (Automation Testing), gain hands-on experience in real projects in an agile environment, build up soft skills that companies are seeking. It is a 3 monthly paid program, if you're interested let me know, I prefer not to disclose the business name here as it might NOT be the only option and it's a bit of money. But to say the least, it was a great investment indeed since you can recover the cost in a month when you start to work. 
+Later that year I found something interesting, a ***job-ready training program*** for fresh IT graduates, a place where you can train for in-demand/essential technical skills (Automation Testing), gain hands-on experience in real projects in an agile environment, build up soft skills that companies are seeking. It is a 3 monthly paid program, if you're interested let me know, I prefer not to disclose the business name here as it might NOT be the only option and it's a bit of money. But to say the least, it was a great investment since you can recover the cost in a month when you start to work. 
 
-After completing the job-ready program, that is exactly 4 months later (in the midst of 2019) I was able to land my first job as a Software Tester. Honestly a proud moment! 
+After completing the job-ready program, that is exactly 4 months later (in the midst of 2019) I was able to land my *first job* as a Software Tester. Honestly a proud moment! 
 
 This is my journey, it wasn't an easy ride but I never gave up, I knew I was going to make it at some stage. Here’s what I did extra for a smooth career switch. 
 
@@ -34,9 +34,13 @@ This is my journey, it wasn't an easy ride but I never gave up, I knew I was goi
 
 CV is the first impression and is what represents you. It’s a great way to showcase your technical skills, what you have been learning and what you’re capable of, so make the most out of it. Also, don’t forget to get it reviewed by the professionals. For example, I’ve linked these in my CV
 
-~ Technical blog: If you don’t have a technical blog, start creating one and write blogs about what you learn 
+~ Technical blog: If you don’t have a technical blog, start creating one and write blogs about what you learn. Here's [mine](https://maryannroshani.home.blog/). 
 
 ~ Demo Projects: I've done a few demo projects and uploaded them on GitHub and linked them in the CV. 
+
+![](/assets/screen-shot-2022-01-11-at-8.29.42-am.png)
+
+
 
 ~ Obtained an I[STQB certification](https://www.istqb.org/certification-path-root/why-istqb-certification.html): This qualification will make a world of difference on the resume. 
 
@@ -61,6 +65,36 @@ An opportunity to introduce yourself and meet IT Professionals. Funny Story, 3 y
 
 • Followed testing blogs and podcasts to keep an eye on testing trends 
 
+Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. \
+For example, Write down what you achieved each month, every little milestone is important and shows how far you have come in your journey and shows how close you are to reaching your goal/goals.
+
+| Month     | Objectives                                                                                                                       |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------- |
+|  May 2018 | \- Passed ISTQB Exam\
+- Participated in Test Automation and Digital QA Summit\
+- Volunteered for a start-up as a Manual Tester   |
 
 
-Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. For Example, I’ve set up a monthly plan of what I want to achieve, it could be API Testing both Manual and Automation.
+
+### Technical Skills 
+
+I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
+
+![](/assets/screen-shot-2022-01-11-at-8.08.26-am.png)
+
+![](/assets/screen-shot-2022-01-11-at-8.12.56-am.png)
+
+![](/assets/screen-shot-2022-01-11-at-8.15.49-am.png)
+
+ I've created a ***My Career Journey*** pdf including all these, let me know if you're interested, happy to share. It's a well-organized document that I passed down to a lot of people who are new to Software Testing and these are the contents that included. 
+
+![](/assets/screen-shot-2022-01-11-at-8.19.10-am.png)
+
+My last bit of advice :) 
+
+• Believe in yourself and Never GIVE UP!
+• Everyone’s journey is different, don’t compare with others but get INSPIRED!
+• HELP everyone!
+• SHARE KNOWLEDGE, a very powerful tool. It’s a Win/Win
+
+Good Luck and Happy Testing!
