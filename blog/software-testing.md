@@ -61,6 +61,11 @@ An opportunity to introduce yourself and meet IT Professionals. Funny Story, 3 y
 
 • Followed testing blogs and podcasts to keep an eye on testing trends 
 
-Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline.
+Changing careers is overwhelming, takes a lot of preparation, practice, and time. But be patient, and stay persistent. Set up specific goals and do your best to achieve them on a set timeline. \
+For example, Write down what you achieved each month, every little milestone is important and shows how far you have come in your journey and shows how close you are to reaching your goal/goals.
 
-For Example, I’ve set up a monthly plan of what I want to achieve, it could be API Testing both Manual and Automation.
+| Month     | Objectives                                                                                                                       |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------- |
+|  May 2018 | \- Passed ISTQB Exam\
+- Participated in Test Automation and Digital QA Summit\
+- Volunteered for a start-up as a Manual Tester   |
