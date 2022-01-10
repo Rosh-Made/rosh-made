@@ -16,7 +16,7 @@ I'm often asked WHY, WHAT, and HOW I made this career move and hence I collate t
 
 ### My journey
 
-To give a little context, I move to New Zealand 10 years ago and completed my studies in Business Management at the age of 23. I worked as an Office Administrator full-time for a year or more, later on, I realized that I wasn't enjoying it and was capable of doing something more and better. 
+To give a little context, I moved to New Zealand 10 years ago and completed my studies in Business Management at the age of 23. I worked as an Office Administrator full-time for a year or more, later on, I realized that I wasn't enjoying it and was capable of doing something more and better. 
 
 Shanika, my partner who is a Software Developer, one day suggested that I should try something in the IT field. Back then I thought IT is solemnly coding, which I was not too interested in. The turning point for me was when he said IT has many different roles that do not need in-depth knowledge of coding or technicality. Since I've already had a Business Management diploma, a few of the roles that he mentioned sort of resonated with my personality and skills (Which were *Business Analyst, Software Tester, Project Manager, Scrum Master, UI/UX Design* roles). I've started to do some research in the IT market, spoke to people who are in the software industry, and continue to look into IT-related studies. 
 
@@ -75,8 +75,7 @@ For example, Write down what you achieved each month (Objectives), every little 
 | May 2018 | \- Participated in Test Automation and Digital QA Summit |
 | May 2018 | \- Volunteered for a start-up as a Manual Tester         |
 
-### \
-Technical Skills
+### Technical Skills
 
 I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
 
