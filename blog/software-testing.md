@@ -74,6 +74,8 @@ For example, Write down what you achieved each month (Objectives), every little 
 | May 2018 | \- Participated in Test Automation and Digital QA Summit |
 | May 2018 | \- Volunteered for a start-up as a Manual Tester         |
 
+### \
+\
 Technical Skills
 
 I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
@@ -98,15 +100,16 @@ It is the process of *validating or checking for any bugs or errors of a Softwar
 
 Now let's get into detail about what does a Software Tester do on a daily basis 
 
-~ Most obvious and Primary responsibility is Testing: validating a feature/functionality from the development team and run all the possible test scenarios. If there's any bug/glitch, it's the Testers responsibility to track it and make sure the bug is fixed by the correspondent developer and is re tested again by the tester!
+~ Most obvious and Primary responsibility is Testing: validating a feature/functionality from the development team and executing all the possible test scenarios. If there's any bug/glitch, it's the Testers' responsibility to track it and make sure the bug is fixed by the correspondent developer and is re-tested again by the tester!
 
-~ Cordinating 
+~ Coordination and Clear communication 
 
-
-
-
-
-
+* Developers: \
+  As I mentioned above, it's the Testers' responsibility to make sure the bug you identify is tracked and get it fixed by the developer. Therefore it's important to have good coordination and clear communication with developers in order to build and maintain a good relationship. 
+* Business Analysts: \
+  Plays a key role in a Software/Agile team. If you think the Acceptance criteria of a feature/function is not defined correctly, the first person I would go to is the Business Analyst aka BA. As a Tester, it is important to understand all the Acceptance criteria of a feature. 
+* Business Users (Real users): \
+  The main goal of a software project (I would say any Project) is to satisfy the customer's needs that is completing the project to their agreed requirements. Therefore, it is important to communicate with customers what the team has been working on and is working on. As a Tester, we have to do demos at the end of every sprint, so it's vital that Demos are being delivered clearly. 
 
 My last bit of advice :) 
 
