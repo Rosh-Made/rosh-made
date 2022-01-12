@@ -40,12 +40,11 @@ CV is the first impression and is what represents you. It’s a great way to sho
 
 ![](/assets/screen-shot-2022-01-11-at-8.29.42-am.png)
 
-\
-~ Also, don’t FORGET to get it reviewed by the professionals.
-
 ~ Obtained an I[STQB certification](https://www.istqb.org/certification-path-root/why-istqb-certification.html): This qualification will make a world of difference on the resume.
 
-~ Volunteered for a start-up business as a manual tester to get hands-on experience and add it to the resume. Local experience is a MUST in a CV. 
+~ Volunteered for a start-up business as a manual tester to get hands-on experience and add it to the resume. Local experience is a MUST in a CV. \
+\
+Important: Don’t FORGET to get your resume reviewed by the professionals.
 
 • Network 
 
@@ -88,6 +87,24 @@ I've shortlisted a skillset for Beginner Software Tester, this is pretty much wh
  I've created a ***My Career Journey*** document including all the above, let me know if you're interested, happy to share. It's a well-organized document that I've passed down to a lot of people who are new to Software Testing and these are the contents that I've included. 
 
 ![](/assets/screen-shot-2022-01-11-at-8.19.10-am.png)
+
+### A day in the life of a Software Tester
+
+Let me give a little dose of our day-to-day lives as a Software Tester.
+
+Before we get into it, let me explain what is ***Software Testing*** in simple. \
+\
+It is the process of *validating or checking for any bugs or errors of a Software Application* that Developers have been working on. Our primary focus or intent is to make sure the final software that hits the market is glitch-free and the software is working as expected. 
+
+Now let's get into detail about what does a Software Tester do on a daily basis 
+
+~ 
+
+
+
+
+
+
 
 My last bit of advice :) 
 
