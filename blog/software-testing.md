@@ -75,7 +75,7 @@ For example, Write down what you achieved each month (Objectives), every little 
 | May 2018 | \- Participated in Test Automation and Digital QA Summit |
 | May 2018 | \- Volunteered for a start-up as a Manual Tester         |
 
-### Technical Skills
+Technical Skills
 
 I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
 
@@ -85,7 +85,7 @@ I've shortlisted a skillset for Beginner Software Tester, this is pretty much wh
 
 ![](/assets/screen-shot-2022-01-11-at-8.15.49-am.png)
 
- I've created a ***My Career Journey*** pdf including all these, let me know if you're interested, happy to share. It's a well-organized document that I passed down to a lot of people who are new to Software Testing and these are the contents that included. 
+ I've created a ***My Career Journey*** document including all the above, let me know if you're interested, happy to share. It's a well-organized document that I've passed down to a lot of people who are new to Software Testing and these are the contents that I've included. 
 
 ![](/assets/screen-shot-2022-01-11-at-8.19.10-am.png)
 
