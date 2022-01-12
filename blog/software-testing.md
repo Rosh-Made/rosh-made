@@ -40,12 +40,11 @@ CV is the first impression and is what represents you. It’s a great way to sho
 
 ![](/assets/screen-shot-2022-01-11-at-8.29.42-am.png)
 
-\
-~ Also, don’t FORGET to get it reviewed by the professionals.
-
 ~ Obtained an I[STQB certification](https://www.istqb.org/certification-path-root/why-istqb-certification.html): This qualification will make a world of difference on the resume.
 
-~ Volunteered for a start-up business as a manual tester to get hands-on experience and add it to the resume. Local experience is a MUST in a CV. 
+~ Volunteered for a start-up business as a manual tester to get hands-on experience and add it to the resume. Local experience is a MUST in a CV. \
+\
+Important: Don’t FORGET to get your resume reviewed by the professionals.
 
 • Network 
 
@@ -75,7 +74,9 @@ For example, Write down what you achieved each month (Objectives), every little 
 | May 2018 | \- Participated in Test Automation and Digital QA Summit |
 | May 2018 | \- Volunteered for a start-up as a Manual Tester         |
 
-### Technical Skills
+### \
+\
+Technical Skills
 
 I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
 
@@ -85,9 +86,30 @@ I've shortlisted a skillset for Beginner Software Tester, this is pretty much wh
 
 ![](/assets/screen-shot-2022-01-11-at-8.15.49-am.png)
 
- I've created a ***My Career Journey*** pdf including all these, let me know if you're interested, happy to share. It's a well-organized document that I passed down to a lot of people who are new to Software Testing and these are the contents that included. 
+ I've created a ***My Career Journey*** document including all the above, let me know if you're interested, happy to share. It's a well-organized document that I've passed down to a lot of people who are new to Software Testing and these are the contents that I've included. 
 
 ![](/assets/screen-shot-2022-01-11-at-8.19.10-am.png)
+
+### A day in the life of a Software Tester
+
+Let me give a little dose of our day-to-day lives as a Software Tester.
+
+Before we get into it, let me explain what is ***Software Testing*** in simple. \
+\
+It is the process of *validating or checking for any bugs or errors of a Software Application* that Developers have been working on. Our primary focus or intent is to make sure the final software that hits the market is glitch-free and the software is working as expected. 
+
+Now let's get into detail about what does a Software Tester do on a daily basis 
+
+~ Most obvious and Primary responsibility is Testing: validating a feature/functionality from the development team and executing all the possible test scenarios. If there's any bug/glitch, it's the Testers' responsibility to track it and make sure the bug is fixed by the correspondent developer and is re-tested again by the tester!
+
+~ Coordination and Clear communication 
+
+* Developers: \
+  As I mentioned above, it's the Testers' responsibility to make sure the bug you identify is tracked and get it fixed by the developer. Therefore it's important to have good coordination and clear communication with developers in order to build and maintain a good relationship. 
+* Business Analysts: \
+  Plays a key role in a Software/Agile team. If you think the Acceptance criteria of a feature/function is not defined correctly, the first person I would go to is the Business Analyst aka BA. As a Tester, it is important to understand all the Acceptance criteria of a feature. 
+* Business Users (Real users): \
+  The main goal of a software project (I would say any Project) is to satisfy the customer's needs that is completing the project to their agreed requirements. Therefore, it is important to communicate with customers what the team has been working on and is working on. As a Tester, we have to do demos at the end of every sprint, so it's vital that Demos are being delivered clearly. 
 
 My last bit of advice :) 
 
