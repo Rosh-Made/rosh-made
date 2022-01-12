@@ -98,6 +98,8 @@ It is the process of *validating or checking for any bugs or errors of a Softwar
 
 Now let's get into detail about what does a Software Tester do on a daily basis 
 
+~ Most obvious and Primary responsibility is Testing, validating a feature/functionality from the development team. If there's any bug/glitch, it's the Testers responsibility to track it and make sure the bug is fixed by the correspondanet developer and is re tested again!
+
 ~ 
 
 
