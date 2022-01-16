@@ -74,7 +74,6 @@ For example, Write down what you achieved each month (Objectives), every little 
 | May 2018 | \- Participated in Test Automation and Digital QA Summit |
 | May 2018 | \- Volunteered for a start-up as a Manual Tester         |
 
-### \
 Technical Skills
 
 I've shortlisted a skillset for Beginner Software Tester, this is pretty much what I worked on, and for each skill, let's say Manual Testing, I've listed down what areas to focus on and how to do it.
@@ -100,7 +99,6 @@ My last bit of advice :)
 I wish you the best of luck in job hunting/career change and am always happy to answer your questions. Please share this blog if you know anyone in need. Thank you!
 
 ### \
-\
 A day in the life of a Software Tester
 
 Let me give a little dose of our day-to-day lives as a Software Tester.
@@ -120,8 +118,4 @@ Now let's get into detail about what does a Software Tester do on a daily basis
 * Business Analysts: \
   Plays a key role in a Software/Agile team. If you think the Acceptance criteria of a feature/function is not defined correctly, the first person I would go to is the Business Analyst aka BA. As a Tester, it is important to understand all the Acceptance criteria of a feature. 
 * Business Users (Real users): \
-  The main goal of a software project (I would say any Project) is to satisfy the customer's needs that is completing the project to their agreed requirements. Therefore, it is important to communicate with customers what the team has been working on to get continuous feedback. As a Tester, we have to do demos at the end of every sprint, so it's vital that Demos are being delivered clearly. 
-
-~  Meetings\
-\
-Most of the projects follow Scrum/Agile style, which means
+  The main goal of a software project (I would say any Project) is to satisfy the customer's needs that is completing the project to their agreed requirements. Therefore, it is important to communicate with customers what the team has been working on to get continuous feedback. As a Tester, we have to do demos at the end of every sprint, so it's vital that Demos are being delivered clearly.
