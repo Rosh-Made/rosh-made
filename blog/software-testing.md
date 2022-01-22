@@ -2,7 +2,7 @@
 type: blog
 title: IT Career Switch | Software Testing
 published: true
-date: 2022-01-10T19:34:29.003Z
+date: 2021-11-30T19:34:29.003Z
 description: "Switching to a career in IT "
 featuredimage: /assets/img_3875.jpg
 tags:
@@ -98,8 +98,7 @@ My last bit of advice :)
 
 I wish you the best of luck in job hunting/career change and am always happy to answer your questions. Please share this blog if you know anyone in need. Thank you!
 
-### \
-A day in the life of a Software Tester
+### A day in the life of a Software Tester
 
 Let me give a little dose of our day-to-day lives as a Software Tester.
 
