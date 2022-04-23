@@ -1,7 +1,7 @@
 ---
 type: blog
 title: IT Career Switch | Software Testing
-published: false
+published: true
 date: 2021-06-30T20:34:29.003Z
 description: "Switching to a career in IT "
 featuredimage: /assets/img_3875.jpg
