@@ -175,7 +175,7 @@ const Layout: FC = ({ children }) => {
         <Container>{children}</Container>
         <Footer>
           <FooterLinks>
-            © Roshmade 2021
+            © Roshmade 2022
             {/*<Link to="/about">About</Link>*/}
             {/*<Link to="/contact">Contact</Link>*/}
           </FooterLinks>
