@@ -1,17 +1,15 @@
 ---
 type: blog
-title: Summer Guide | South Island, NZ
+title: 10 Most Picturesque Places | South Island, NZ
 published: true
-date: 2021-07-01T06:52:06.288Z
+date: 2022-04-01T05:52:06.288Z
 description: itinerary
-featuredimage: /assets/img_2755-2.jpg
+featuredimage: /assets/img_7521.jpg
 tags:
   - Travel
 ---
-I'm going to be sharing here the Highlights, Tips & the Itinerary of our amazing 10-day road trip to the South Island. 
+For a while, I’ve been thinking about writing up a well-deserved travel blog about New Zealand, I mean after living here for more than a decade and being a tourist in your own backyard (well NZ is my home now) and when the landscape is nothing short of picture-perfect, tell me why not!
 
-Till then enjoy this video 
+![](/assets/img_7521.jpg)
 
-`youtube: https://www.youtube.com/watch?v=5IrdwX-nscY&t=6s`
-
-Blog Coming soon...
+Stay tuned for some jaw-dropping content...
