@@ -22,9 +22,9 @@ The successes
 
   ![](/assets/img_6900-2.jpg)
 
-  Another great advantage is that you can pick your own flowers :) 
+  Another perk of having a flower border is that you can pick flowers to fill the house ;) How gorgeous is this?
 
-  ![](/assets/backyard-blooms-to-fill-the-house-.jpeg)
+  ![](/assets/img_7084-2.jpg)
 * Greens are a staple in our household, we had a lot of fresh summer salads in fact we didn't have to buy any from the local market for the whole summer. The lettuce, the cucumbers, the peppers, and the herbs were bountiful. 
 
   ![](/assets/img_6617.jpg)
@@ -37,6 +37,6 @@ The successes
   ![](/assets/toms.jpg)
 
   ![](/assets/tomsreceipes.jpeg)
-* Honestly, I was surprised to see how successful my corn crop was despite the little space I have, they were super delicious! 
+* Honestly, I was surprised to see how successful my corn crop was despite the little space I've grown them and they were super delicious! 
 * One must have in their garden: Gotukola. It’s a SUPERFOOD! one power-packed herb. I remember growing up I would have Gotukola at least once a week in my household back in Sri Lanka.  This green is so versatile, that you can consume in so many ways: morning porridge, salads, smoothies, etc. I guess it’s one of the most underrated greens on the other side of the world. Something to remember though, Gotukola is invasive, so make sure that you plant in a covered area. 
 * No slugs! Wow, a gardener’s dream aye!
