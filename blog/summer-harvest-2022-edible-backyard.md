@@ -25,9 +25,13 @@ The successes
   Another great advantage is that you can pick your own flowers :) 
 
   ![](/assets/backyard-blooms-to-fill-the-house-.jpeg)
-* Greens are a staple in our household, we had a lot of fresh summer salads in fact we didn't have to buy any from the local market for the whole summer. The lettuce, the cucumbers, and the herbs were bountiful. 
+* Greens are a staple in our household, we had a lot of fresh summer salads in fact we didn't have to buy any from the local market for the whole summer. The lettuce, the cucumbers, the peppers, and the herbs were bountiful. 
 
   ![](/assets/img_6617.jpg)
+
+  ![](/assets/cucumber.jpg)
+
+  ![](/assets/greens.jpg)
 * What would a summer garden be without tomatoes? another huge success in my garden. I had two types: beefsteak and cherry tomatoes, to be honest, we had more than what we needed but I’m happy I made them into good use, for salads, sauces, and soups. I’ve planted tomatoes among other companion plants such as marigold, and basil and they really thrived and tasted even better.
 * Honestly, I was surprised to see how successful my corn crop was despite the little space I have, they were super delicious! 
 * One must have in their garden: Gotukola. It’s a SUPERFOOD! one power-packed herb. I remember growing up I would have Gotukola at least once a week in my household back in Sri Lanka.  This green is so versatile, that you can consume in so many ways: morning porridge, salads, smoothies, etc. I guess it’s one of the most underrated greens on the other side of the world. Something to remember though, Gotukola is invasive, so make sure that you plant in a covered area. 
