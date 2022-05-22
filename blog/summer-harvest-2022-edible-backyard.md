@@ -40,11 +40,7 @@ The successes
 * Honestly, I was surprised to see how successful my corn crop was despite the little space I've grown them and they were super delicious! 
 
   ![](/assets/corn.png)
-
-
 * One must have in their garden: Gotukola, one power-packed herb. I remember growing up I would have Gotukola at least once a week in my household back in Sri Lanka.  This green is so versatile, that you can consume in so many ways: morning porridge, salads, smoothies, etc. I guess it’s one of the most underrated greens on the other side of the world. Something to remember though, Gotukola is invasive, so make sure that you plant in a covered area. 
 
-  ![]()
-
-
+  ![](/assets/gotukola.jpg)
 * No slugs! Wow, a gardener’s dream aye!
