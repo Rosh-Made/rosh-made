@@ -23,7 +23,7 @@ As I promised in my previous blog [Urban Backyard Makeover](https://www.roshmade
 
   ![](/assets/img_6900-2.jpg)
 
-  Another perk of having a flower border is that you can pick flowers to fill the house ;) How gorgeous is this?
+  Another perk of having a flower border is that you can pick flowers to fill the house ;) How gorgeous is this flower display?
 
   ![](/assets/img_7084-2.jpg)
 * Greens are a staple in our household, we had a lot of fresh summer salads in fact we didn't have to buy any from the local market for the whole summer. The lettuce, the cucumbers, the peppers, and the herbs were bountiful. 
