@@ -56,8 +56,7 @@ As I promised in my previous blog [Urban Backyard Makeover](https://www.roshmade
 * Harvesting right time - Pick beans before the pods turn lumpy and stringy.
 * Nasturtium overgrew in one of my raised beds, think I’m going to plant them in a separate pot to maximize the space I have. 
 
-### \
-Lessons Learned 
+### Lessons Learned 
 
 * Was struggling to keep brassica’s veggies from cabbage worms. Solution: I’ve covered the whole bed with a net mesh since it doesn’t need pollination, it worked wonders. But I’d also suggest planting them in winter as there are fewer cabbage worms during the cold months.
 * Not sure if want to grow Squash/Pumpkin again, first it took over the whole bed and I’m not a big fan of pumpkin to be honest, sorry pumpkin lovers! but again I like it attracted so many pollinators, so on the fence on this one. 
@@ -66,7 +65,7 @@ Lessons Learned
 * When you harvest veggies, as a rule of thumb make sure you cut them rather than pulling them off to avoid disease entering the plants, make sure whatever tool you use to cut is clean!
 * I’ve also learned that for a small garden space like mine, it's ideal to plant high production crops that give heavy harvest to maximize the space you have. Here are some high production crops: tomatoes, dwarf beans, dwarf snap peas, lettuces, and salad greens. 
 
-### Improvements 
+### Improvements
 
 * Preservation is something I’d like to learn at some point. 
 * Adding a compost bin 
