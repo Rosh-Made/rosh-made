@@ -8,16 +8,15 @@ featuredimage: /assets/summerharvest2022.jpg
 tags:
   - Home
 ---
-###### A Garden Retrospective 
+### A Garden Retrospective
 
-\
 Well, I know I’m long overdue for a blog, But hey! better late than never. But honestly, I had the best summer this year, one of them has been learning how to grow food and flowers in our little urban backyard.  
 
 As I promised in my previous blog [Urban Backyard Makeover](https://www.roshmade.com/urban-backyard-makeover-kitchen-garden/), this blog is going to be about my first summer harvest experience, more like a garden retrospect: the plants that thrived, the failures, and the learnings. As a beginner gardener, this has been an absolutely fun and rewarding project. Here’s my honest review, Enjoy!
 
 ![](/assets/harvest.jpg)
 
-###### The successes 
+###### The successes
 
 * First and foremost, a big bonus for adding a flower border, an essential for a veggie patch! It attracted so many pollinators aka *increased pollination* that I believe it resulted in a better crop turnover. Check out my blog on how to [attract pollinators.](https://www.roshmade.com/save-the-pollinators/) 
 
@@ -46,15 +45,14 @@ As I promised in my previous blog [Urban Backyard Makeover](https://www.roshmade
   ![](/assets/gotukola.jpg)
 * No slugs! Wow, a gardener’s dream aye!
 
-
-
-  ###### The Failures 
+  ###### The Failures
 
   * Out of the 15 veggies, Carrots and beetroots were the only two that failed miserably. I think from the research I did, they don’t do well if we transplant, I feel like direct sowing is the best way for root veggies.
   * Harvesting right time - Pick beans before the pods turn lumpy and stringy.
   * Nasturtium over grew in one of my raise beds, think I’m going to plant them in a separate pot to maximize the space I have. 
 
   ###### \
+
   \
   Lessons Learned 
 
@@ -65,7 +63,6 @@ As I promised in my previous blog [Urban Backyard Makeover](https://www.roshmade
   * When you harvest veggies, as a rule of thumb make sure you cut them rather than pulling them off to avoid disease entering the plants, make sure whatever tool you use to cut is clean!
   * I’ve also learned that for a small garden space like mine, it's ideal to plant high production crops that give heavy harvest and maximize the space you have. Here are some high production crops: tomatoes, dwarf beans, dwarf snap peas, lettuces, and salad greens. 
 
-    ###### 
     Improvements 
   * Preservation is something I’d like to learn at some point. 
   * Adding a compost bin 
@@ -74,7 +71,6 @@ As I promised in my previous blog [Urban Backyard Makeover](https://www.roshmade
   * I’m thinking of growing corn and potatoes together, while potatoes grow mostly underground and require very little above-ground surface area, corn is the opposite—it grows tall and has shallow roots. Planting potato plants among your corn stalks will take advantage of their different needs and maximize space in your garden. For a space like us, I think so this makes the best use of available space in the vegetable patch. 
 
   ###### Thoughtful ideas
-
 
 •	Share some harvest with birdies: in our case, we had so many sunflower seeds and they loved it.
 •	Share water with little creatures: they will appreciate it on hot summer days.
@@ -90,6 +86,4 @@ It’s almost winter in New Zealand, and these are some veggies I’m growing th
 * I’ve planted sugar peas two months ago, and I’ve recently harvested some pods. One of the easiest veggies to grow hands down and can’t wait to make soup out of it. Ideal for winter!
 
   ![](/assets/snappeas.jpg)
-
-
 * Leeks, Broccoli, Carrots, Lettuce, and herbs are some great veggies to grow.
