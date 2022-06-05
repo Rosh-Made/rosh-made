@@ -18,7 +18,7 @@ As I promised in my previous blog [Urban Backyard Makeover](https://www.roshmade
 
 ### The successes
 
-* First and foremost, a big bonus for adding a flower border, an essential for a veggie patch! It attracted so many pollinators which *increased pollination* that I believe it resulted in a better crop turnover. Check out my blog on how to [attract pollinators.](https://www.roshmade.com/save-the-pollinators/) 
+* First and foremost, a big bonus for adding a flower border, an essential for a veggie patch! It attracted so many pollinators *(i.e increased pollination)* that I believe it resulted in a better crop turnover. Check out my blog on how to [attract pollinators.](https://www.roshmade.com/save-the-pollinators/) 
 
 ![](/assets/img_6900-2.jpg)
 
@@ -56,7 +56,7 @@ As I promised in my previous blog [Urban Backyard Makeover](https://www.roshmade
 * Harvesting right time - Pick beans before the pods turn lumpy and stringy.
 * Nasturtium overgrew in one of my raised beds, think I’m going to plant them in a separate pot to maximize the space I have. 
 
-### Lessons Learned 
+### Lessons Learned
 
 * Was struggling to keep brassica’s veggies from cabbage worms. Solution: I’ve covered the whole bed with a net mesh since it doesn’t need pollination, it worked wonders. But I’d also suggest planting them in winter as there are fewer cabbage worms during the cold months.
 * Not sure if want to grow Squash/Pumpkin again, first it took over the whole bed and I’m not a big fan of pumpkin to be honest, sorry pumpkin lovers! but again I like it attracted so many pollinators, so on the fence on this one. 
